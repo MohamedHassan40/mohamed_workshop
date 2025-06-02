@@ -2,10 +2,15 @@ from flask import Flask, render_template, request, redirect, url_for, session
 import json
 
 app = Flask(__name__)
-app.secret_key = "your_secret_key_here"
+app.secret_key = "aodsiasdioaosd"
 
 # Make `data` available in all templates
 import re
+app = Flask(
+    __name__,
+    template_folder="website/templates",     # 👈 Add this
+    static_folder="website/static"           # 👈 Optional, if you use static files
+)
 with open('website/data/questions.json', encoding='utf-8') as f:
     data = json.load(f)
 
