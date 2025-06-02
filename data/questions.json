@@ -1,0 +1,1263 @@
+{
+  "intro": {
+    "title": "\ud83d\ude80 Mindset & Tech Adventure",
+    "description": "Develop both your mindset and technical skills through hilarious and interactive challenges",
+    "subtitle": "Train your brain and your code skills while laughing through the pain"
+  },
+  "phases": [
+{
+  "id": "mindset_basics",
+  "title": "Mindset Basics",
+  "icon": "",
+  "intro": "Test your understanding of growth vs. fixed mindset principles with realistic and funny situations.",
+  "video_url": "https://www.example.com/videos/mindset.mp4",
+  "description": "Dive into the foundations of a growth mindset: how to embrace challenges, reframe setbacks, and view effort as a path to mastery.",
+  "scenario": "Your app just crashed minutes before a demo. Panic? Blame the intern? Or... channel your inner growth warrior?",
+  "questions": [
+    {
+      "question": "How would you reframe: \"I’m not good at this.\"?",
+      "options": {
+        "A": "I’m not good yet — but I can learn.",
+        "B": "That’s why I avoid it.",
+        "C": "I'll ask someone to do it for me.",
+        "D": "Maybe I’ll be a poet instead."
+      },
+      "correct": "A",
+      "explanation": "Growth mindset is reflected in: 'I’m not good yet — but I can learn.'"
+    },
+    {
+      "question": "How would you reframe: \"I failed once, I’ll always fail.\"?",
+      "options": {
+        "A": "Failure helps me get better.",
+        "B": "Time to give up forever.",
+        "C": "Only lucky people succeed.",
+        "D": "Clearly the system is rigged."
+      },
+      "correct": "A",
+      "explanation": "Growth mindset is reflected in: 'Failure helps me get better.'"
+    },
+    {
+      "question": "How would you reframe: \"They’re smarter than me.\"?",
+      "options": {
+        "A": "I can learn from them.",
+        "B": "Guess I should just quit.",
+        "C": "I’ll pretend to be busy.",
+        "D": "I need a new job title."
+      },
+      "correct": "A",
+      "explanation": "Growth mindset is reflected in: 'I can learn from them.'"
+    },
+    {
+      "question": "How would you reframe: \"This is too hard.\"?",
+      "options": {
+        "A": "It’s hard because I’m learning.",
+        "B": "This must be someone else’s job.",
+        "C": "My brain is allergic to effort.",
+        "D": "I'll just fake it till I make it."
+      },
+      "correct": "A",
+      "explanation": "Growth mindset is reflected in: 'It’s hard because I’m learning.'"
+    },
+    {
+      "question": "How would you reframe: \"I give up.\"?",
+      "options": {
+        "A": "Let me try a different strategy.",
+        "B": "Goodbye forever.",
+        "C": "I’ll just wait for AI to solve it.",
+        "D": "Let me pretend this never happened."
+      },
+      "correct": "A",
+      "explanation": "Growth mindset is reflected in: 'Let me try a different strategy.'"
+    },
+    {
+      "question": "How would you reframe: \"I’m not good at this.\"?",
+      "options": {
+        "A": "I’m not good yet — but I can learn.",
+        "B": "That’s why I avoid it.",
+        "C": "I'll ask someone to do it for me.",
+        "D": "Maybe I’ll be a poet instead."
+      },
+      "correct": "A",
+      "explanation": "Growth mindset is reflected in: 'I’m not good yet — but I can learn.'"
+    },
+    {
+      "question": "How would you reframe: \"I failed once, I’ll always fail.\"?",
+      "options": {
+        "A": "Failure helps me get better.",
+        "B": "Time to give up forever.",
+        "C": "Only lucky people succeed.",
+        "D": "Clearly the system is rigged."
+      },
+      "correct": "A",
+      "explanation": "Growth mindset is reflected in: 'Failure helps me get better.'"
+    },
+    {
+      "question": "How would you reframe: \"They’re smarter than me.\"?",
+      "options": {
+        "A": "I can learn from them.",
+        "B": "Guess I should just quit.",
+        "C": "I’ll pretend to be busy.",
+        "D": "I need a new job title."
+      },
+      "correct": "A",
+      "explanation": "Growth mindset is reflected in: 'I can learn from them.'"
+    },
+    {
+      "question": "How would you reframe: \"This is too hard.\"?",
+      "options": {
+        "A": "It’s hard because I’m learning.",
+        "B": "This must be someone else’s job.",
+        "C": "My brain is allergic to effort.",
+        "D": "I'll just fake it till I make it."
+      },
+      "correct": "A",
+      "explanation": "Growth mindset is reflected in: 'It’s hard because I’m learning.'"
+    },
+    {
+      "question": "How would you reframe: \"I give up.\"?",
+      "options": {
+        "A": "Let me try a different strategy.",
+        "B": "Goodbye forever.",
+        "C": "I’ll just wait for AI to solve it.",
+        "D": "Let me pretend this never happened."
+      },
+      "correct": "A",
+      "explanation": "Growth mindset is reflected in: 'Let me try a different strategy.'"
+    },
+    {
+      "question": "How would you reframe: \"I’m not good at this.\"?",
+      "options": {
+        "A": "I’m not good yet — but I can learn.",
+        "B": "That’s why I avoid it.",
+        "C": "I'll ask someone to do it for me.",
+        "D": "Maybe I’ll be a poet instead."
+      },
+      "correct": "A",
+      "explanation": "Growth mindset is reflected in: 'I’m not good yet — but I can learn.'"
+    },
+    {
+      "question": "How would you reframe: \"I failed once, I’ll always fail.\"?",
+      "options": {
+        "A": "Failure helps me get better.",
+        "B": "Time to give up forever.",
+        "C": "Only lucky people succeed.",
+        "D": "Clearly the system is rigged."
+      },
+      "correct": "A",
+      "explanation": "Growth mindset is reflected in: 'Failure helps me get better.'"
+    },
+    {
+      "question": "How would you reframe: \"They’re smarter than me.\"?",
+      "options": {
+        "A": "I can learn from them.",
+        "B": "Guess I should just quit.",
+        "C": "I’ll pretend to be busy.",
+        "D": "I need a new job title."
+      },
+      "correct": "A",
+      "explanation": "Growth mindset is reflected in: 'I can learn from them.'"
+    },
+    {
+      "question": "How would you reframe: \"This is too hard.\"?",
+      "options": {
+        "A": "It’s hard because I’m learning.",
+        "B": "This must be someone else’s job.",
+        "C": "My brain is allergic to effort.",
+        "D": "I'll just fake it till I make it."
+      },
+      "correct": "A",
+      "explanation": "Growth mindset is reflected in: 'It’s hard because I’m learning.'"
+    },
+    {
+      "question": "How would you reframe: \"I give up.\"?",
+      "options": {
+        "A": "Let me try a different strategy.",
+        "B": "Goodbye forever.",
+        "C": "I’ll just wait for AI to solve it.",
+        "D": "Let me pretend this never happened."
+      },
+      "correct": "A",
+      "explanation": "Growth mindset is reflected in: 'Let me try a different strategy.'"
+    },
+    {
+      "question": "How would you reframe: \"I’m not good at this.\"?",
+      "options": {
+        "A": "I’m not good yet — but I can learn.",
+        "B": "That’s why I avoid it.",
+        "C": "I'll ask someone to do it for me.",
+        "D": "Maybe I’ll be a poet instead."
+      },
+      "correct": "A",
+      "explanation": "Growth mindset is reflected in: 'I’m not good yet — but I can learn.'"
+    },
+    {
+      "question": "How would you reframe: \"I failed once, I’ll always fail.\"?",
+      "options": {
+        "A": "Failure helps me get better.",
+        "B": "Time to give up forever.",
+        "C": "Only lucky people succeed.",
+        "D": "Clearly the system is rigged."
+      },
+      "correct": "A",
+      "explanation": "Growth mindset is reflected in: 'Failure helps me get better.'"
+    },
+    {
+      "question": "How would you reframe: \"They’re smarter than me.\"?",
+      "options": {
+        "A": "I can learn from them.",
+        "B": "Guess I should just quit.",
+        "C": "I’ll pretend to be busy.",
+        "D": "I need a new job title."
+      },
+      "correct": "A",
+      "explanation": "Growth mindset is reflected in: 'I can learn from them.'"
+    },
+    {
+      "question": "How would you reframe: \"This is too hard.\"?",
+      "options": {
+        "A": "It’s hard because I’m learning.",
+        "B": "This must be someone else’s job.",
+        "C": "My brain is allergic to effort.",
+        "D": "I'll just fake it till I make it."
+      },
+      "correct": "A",
+      "explanation": "Growth mindset is reflected in: 'It’s hard because I’m learning.'"
+    },
+    {
+      "question": "How would you reframe: \"I give up.\"?",
+      "options": {
+        "A": "Let me try a different strategy.",
+        "B": "Goodbye forever.",
+        "C": "I’ll just wait for AI to solve it.",
+        "D": "Let me pretend this never happened."
+      },
+      "correct": "A",
+      "explanation": "Growth mindset is reflected in: 'Let me try a different strategy.'"
+    },
+    {
+      "question": "How would you reframe: \"I’m not good at this.\"?",
+      "options": {
+        "A": "I’m not good yet — but I can learn.",
+        "B": "That’s why I avoid it.",
+        "C": "I'll ask someone to do it for me.",
+        "D": "Maybe I’ll be a poet instead."
+      },
+      "correct": "A",
+      "explanation": "Growth mindset is reflected in: 'I’m not good yet — but I can learn.'"
+    },
+    {
+      "question": "How would you reframe: \"I failed once, I’ll always fail.\"?",
+      "options": {
+        "A": "Failure helps me get better.",
+        "B": "Time to give up forever.",
+        "C": "Only lucky people succeed.",
+        "D": "Clearly the system is rigged."
+      },
+      "correct": "A",
+      "explanation": "Growth mindset is reflected in: 'Failure helps me get better.'"
+    },
+    {
+      "question": "How would you reframe: \"They’re smarter than me.\"?",
+      "options": {
+        "A": "I can learn from them.",
+        "B": "Guess I should just quit.",
+        "C": "I’ll pretend to be busy.",
+        "D": "I need a new job title."
+      },
+      "correct": "A",
+      "explanation": "Growth mindset is reflected in: 'I can learn from them.'"
+    },
+    {
+      "question": "How would you reframe: \"This is too hard.\"?",
+      "options": {
+        "A": "It’s hard because I’m learning.",
+        "B": "This must be someone else’s job.",
+        "C": "My brain is allergic to effort.",
+        "D": "I'll just fake it till I make it."
+      },
+      "correct": "A",
+      "explanation": "Growth mindset is reflected in: 'It’s hard because I’m learning.'"
+    },
+    {
+      "question": "How would you reframe: \"I give up.\"?",
+      "options": {
+        "A": "Let me try a different strategy.",
+        "B": "Goodbye forever.",
+        "C": "I’ll just wait for AI to solve it.",
+        "D": "Let me pretend this never happened."
+      },
+      "correct": "A",
+      "explanation": "Growth mindset is reflected in: 'Let me try a different strategy.'"
+    }
+  ]
+},
+    {
+      "id": "web_tech",
+      "title": " Web Technologies",
+      "icon": "\ud83d\udcbb",
+      "intro": "Flex your frontend and backend basics",
+      "video_url": "https://www.example.com/videos/web_tech.mp4",
+      "description": "You\u2019ll cover HTML, CSS, JS, frameworks, and how to avoid breaking everything with one div.",
+      "scenario": "You deployed the homepage. It works on your machine. On everyone else\u2019s? A blank screen of doom.",
+      "questions": [
+        {
+          "question": "Your CSS is not applying. First move?",
+          "options": {
+            "A": "Cry",
+            "B": "Check the selector",
+            "C": "Restart Chrome",
+            "D": "Blame the designer"
+          },
+          "correct": "B",
+          "explanation": "Start simple. Check your selectors."
+        },
+        {
+          "question": "Your CSS is not applying. First move?",
+          "options": {
+            "A": "Cry",
+            "B": "Check the selector",
+            "C": "Restart Chrome",
+            "D": "Blame the designer"
+          },
+          "correct": "B",
+          "explanation": "Start simple. Check your selectors."
+        },
+        {
+          "question": "Your CSS is not applying. First move?",
+          "options": {
+            "A": "Cry",
+            "B": "Check the selector",
+            "C": "Restart Chrome",
+            "D": "Blame the designer"
+          },
+          "correct": "B",
+          "explanation": "Start simple. Check your selectors."
+        },
+        {
+          "question": "Your CSS is not applying. First move?",
+          "options": {
+            "A": "Cry",
+            "B": "Check the selector",
+            "C": "Restart Chrome",
+            "D": "Blame the designer"
+          },
+          "correct": "B",
+          "explanation": "Start simple. Check your selectors."
+        },
+        {
+          "question": "Your CSS is not applying. First move?",
+          "options": {
+            "A": "Cry",
+            "B": "Check the selector",
+            "C": "Restart Chrome",
+            "D": "Blame the designer"
+          },
+          "correct": "B",
+          "explanation": "Start simple. Check your selectors."
+        },
+        {
+          "question": "Your CSS is not applying. First move?",
+          "options": {
+            "A": "Cry",
+            "B": "Check the selector",
+            "C": "Restart Chrome",
+            "D": "Blame the designer"
+          },
+          "correct": "B",
+          "explanation": "Start simple. Check your selectors."
+        },
+        {
+          "question": "Your CSS is not applying. First move?",
+          "options": {
+            "A": "Cry",
+            "B": "Check the selector",
+            "C": "Restart Chrome",
+            "D": "Blame the designer"
+          },
+          "correct": "B",
+          "explanation": "Start simple. Check your selectors."
+        },
+        {
+          "question": "Your CSS is not applying. First move?",
+          "options": {
+            "A": "Cry",
+            "B": "Check the selector",
+            "C": "Restart Chrome",
+            "D": "Blame the designer"
+          },
+          "correct": "B",
+          "explanation": "Start simple. Check your selectors."
+        },
+        {
+          "question": "Your CSS is not applying. First move?",
+          "options": {
+            "A": "Cry",
+            "B": "Check the selector",
+            "C": "Restart Chrome",
+            "D": "Blame the designer"
+          },
+          "correct": "B",
+          "explanation": "Start simple. Check your selectors."
+        },
+        {
+          "question": "Your CSS is not applying. First move?",
+          "options": {
+            "A": "Cry",
+            "B": "Check the selector",
+            "C": "Restart Chrome",
+            "D": "Blame the designer"
+          },
+          "correct": "B",
+          "explanation": "Start simple. Check your selectors."
+        }
+      ]
+    },
+    {
+      "id": "scraping_detective_agency",
+      "title": "\ufe0f\u200d\u2642\ufe0f Scraper's Detective Agency",
+      "icon": "\ud83d\udd75\ufe0f\u200d\u2642\ufe0f",
+      "intro": "Scrape responsibly (and stylishly)",
+      "video_url": "https://www.example.com/videos/scraping_detective.mp4",
+      "description": "Learn to crawl data without being crawled by guilt or firewalls.",
+      "scenario": "Your scraper got blocked. Do you switch IPs, add delay, or send the website cookies?",
+      "questions": [
+        {
+          "question": "You get blocked after 3 requests. You:",
+          "options": {
+            "A": "Add headers and delays",
+            "B": "Scrape faster",
+            "C": "Switch to Excel",
+            "D": "Scrape from your neighbor\u2019s WiFi"
+          },
+          "correct": "A",
+          "explanation": "Respectful scraping includes delay and user-agent headers."
+        },
+        {
+          "question": "You get blocked after 3 requests. You:",
+          "options": {
+            "A": "Add headers and delays",
+            "B": "Scrape faster",
+            "C": "Switch to Excel",
+            "D": "Scrape from your neighbor\u2019s WiFi"
+          },
+          "correct": "A",
+          "explanation": "Respectful scraping includes delay and user-agent headers."
+        },
+        {
+          "question": "You get blocked after 3 requests. You:",
+          "options": {
+            "A": "Add headers and delays",
+            "B": "Scrape faster",
+            "C": "Switch to Excel",
+            "D": "Scrape from your neighbor\u2019s WiFi"
+          },
+          "correct": "A",
+          "explanation": "Respectful scraping includes delay and user-agent headers."
+        },
+        {
+          "question": "You get blocked after 3 requests. You:",
+          "options": {
+            "A": "Add headers and delays",
+            "B": "Scrape faster",
+            "C": "Switch to Excel",
+            "D": "Scrape from your neighbor\u2019s WiFi"
+          },
+          "correct": "A",
+          "explanation": "Respectful scraping includes delay and user-agent headers."
+        },
+        {
+          "question": "You get blocked after 3 requests. You:",
+          "options": {
+            "A": "Add headers and delays",
+            "B": "Scrape faster",
+            "C": "Switch to Excel",
+            "D": "Scrape from your neighbor\u2019s WiFi"
+          },
+          "correct": "A",
+          "explanation": "Respectful scraping includes delay and user-agent headers."
+        },
+        {
+          "question": "You get blocked after 3 requests. You:",
+          "options": {
+            "A": "Add headers and delays",
+            "B": "Scrape faster",
+            "C": "Switch to Excel",
+            "D": "Scrape from your neighbor\u2019s WiFi"
+          },
+          "correct": "A",
+          "explanation": "Respectful scraping includes delay and user-agent headers."
+        },
+        {
+          "question": "You get blocked after 3 requests. You:",
+          "options": {
+            "A": "Add headers and delays",
+            "B": "Scrape faster",
+            "C": "Switch to Excel",
+            "D": "Scrape from your neighbor\u2019s WiFi"
+          },
+          "correct": "A",
+          "explanation": "Respectful scraping includes delay and user-agent headers."
+        },
+        {
+          "question": "You get blocked after 3 requests. You:",
+          "options": {
+            "A": "Add headers and delays",
+            "B": "Scrape faster",
+            "C": "Switch to Excel",
+            "D": "Scrape from your neighbor\u2019s WiFi"
+          },
+          "correct": "A",
+          "explanation": "Respectful scraping includes delay and user-agent headers."
+        },
+        {
+          "question": "You get blocked after 3 requests. You:",
+          "options": {
+            "A": "Add headers and delays",
+            "B": "Scrape faster",
+            "C": "Switch to Excel",
+            "D": "Scrape from your neighbor\u2019s WiFi"
+          },
+          "correct": "A",
+          "explanation": "Respectful scraping includes delay and user-agent headers."
+        },
+        {
+          "question": "You get blocked after 3 requests. You:",
+          "options": {
+            "A": "Add headers and delays",
+            "B": "Scrape faster",
+            "C": "Switch to Excel",
+            "D": "Scrape from your neighbor\u2019s WiFi"
+          },
+          "correct": "A",
+          "explanation": "Respectful scraping includes delay and user-agent headers."
+        }
+      ]
+    },
+    {
+      "id": "adapting_to_change",
+      "title": " Change is Inevitable. So is Crying.",
+      "icon": "\ud83d\ude2d",
+      "intro": "Learn to survive shifting requirements and emotional damage",
+      "video_url": "https://www.example.com/videos/change_happens.mp4",
+      "description": "Nothing is final. Clients change their minds. PMs forget what they said. You adapt.",
+      "scenario": "You just finished the feature. The PM says, 'Actually, we decided to pivot.'",
+      "questions": [
+        {
+          "question": "Best reaction to last-minute changes:",
+          "options": {
+            "A": "Flip table",
+            "B": "Update the Jira ticket and ask clarifying questions",
+            "C": "Apply for leave",
+            "D": "Pretend your mic is broken"
+          },
+          "correct": "B",
+          "explanation": "Be the calm in the feature-storm."
+        },
+        {
+          "question": "Best reaction to last-minute changes:",
+          "options": {
+            "A": "Flip table",
+            "B": "Update the Jira ticket and ask clarifying questions",
+            "C": "Apply for leave",
+            "D": "Pretend your mic is broken"
+          },
+          "correct": "B",
+          "explanation": "Be the calm in the feature-storm."
+        },
+        {
+          "question": "Best reaction to last-minute changes:",
+          "options": {
+            "A": "Flip table",
+            "B": "Update the Jira ticket and ask clarifying questions",
+            "C": "Apply for leave",
+            "D": "Pretend your mic is broken"
+          },
+          "correct": "B",
+          "explanation": "Be the calm in the feature-storm."
+        },
+        {
+          "question": "Best reaction to last-minute changes:",
+          "options": {
+            "A": "Flip table",
+            "B": "Update the Jira ticket and ask clarifying questions",
+            "C": "Apply for leave",
+            "D": "Pretend your mic is broken"
+          },
+          "correct": "B",
+          "explanation": "Be the calm in the feature-storm."
+        },
+        {
+          "question": "Best reaction to last-minute changes:",
+          "options": {
+            "A": "Flip table",
+            "B": "Update the Jira ticket and ask clarifying questions",
+            "C": "Apply for leave",
+            "D": "Pretend your mic is broken"
+          },
+          "correct": "B",
+          "explanation": "Be the calm in the feature-storm."
+        },
+        {
+          "question": "Best reaction to last-minute changes:",
+          "options": {
+            "A": "Flip table",
+            "B": "Update the Jira ticket and ask clarifying questions",
+            "C": "Apply for leave",
+            "D": "Pretend your mic is broken"
+          },
+          "correct": "B",
+          "explanation": "Be the calm in the feature-storm."
+        },
+        {
+          "question": "Best reaction to last-minute changes:",
+          "options": {
+            "A": "Flip table",
+            "B": "Update the Jira ticket and ask clarifying questions",
+            "C": "Apply for leave",
+            "D": "Pretend your mic is broken"
+          },
+          "correct": "B",
+          "explanation": "Be the calm in the feature-storm."
+        },
+        {
+          "question": "Best reaction to last-minute changes:",
+          "options": {
+            "A": "Flip table",
+            "B": "Update the Jira ticket and ask clarifying questions",
+            "C": "Apply for leave",
+            "D": "Pretend your mic is broken"
+          },
+          "correct": "B",
+          "explanation": "Be the calm in the feature-storm."
+        },
+        {
+          "question": "Best reaction to last-minute changes:",
+          "options": {
+            "A": "Flip table",
+            "B": "Update the Jira ticket and ask clarifying questions",
+            "C": "Apply for leave",
+            "D": "Pretend your mic is broken"
+          },
+          "correct": "B",
+          "explanation": "Be the calm in the feature-storm."
+        },
+        {
+          "question": "Best reaction to last-minute changes:",
+          "options": {
+            "A": "Flip table",
+            "B": "Update the Jira ticket and ask clarifying questions",
+            "C": "Apply for leave",
+            "D": "Pretend your mic is broken"
+          },
+          "correct": "B",
+          "explanation": "Be the calm in the feature-storm."
+        }
+      ]
+    },
+    {
+      "id": "technical_problem_solving",
+      "title": " Technical Problem Solving",
+      "icon": "\ud83e\udd14",
+      "intro": "Get serious about fixing bugs (but with memes)",
+      "video_url": "https://www.example.com/videos/fix_bugs.mp4",
+      "description": "Bug fixing is like therapy: dig deep, be patient, and sometimes it\u2019s your fault.",
+      "scenario": "500 errors all over production. You have no logs. Do you panic or debug like a ninja?",
+      "questions": [
+        {
+          "question": "Bug only happens at midnight. You:",
+          "options": {
+            "A": "Stay up and log it",
+            "B": "Summon the intern",
+            "C": "Ignore it and blame the timezone",
+            "D": "Reboot the server every hour"
+          },
+          "correct": "A",
+          "explanation": "If you can't reproduce it, you can't fix it."
+        },
+        {
+          "question": "Bug only happens at midnight. You:",
+          "options": {
+            "A": "Stay up and log it",
+            "B": "Summon the intern",
+            "C": "Ignore it and blame the timezone",
+            "D": "Reboot the server every hour"
+          },
+          "correct": "A",
+          "explanation": "If you can't reproduce it, you can't fix it."
+        },
+        {
+          "question": "Bug only happens at midnight. You:",
+          "options": {
+            "A": "Stay up and log it",
+            "B": "Summon the intern",
+            "C": "Ignore it and blame the timezone",
+            "D": "Reboot the server every hour"
+          },
+          "correct": "A",
+          "explanation": "If you can't reproduce it, you can't fix it."
+        },
+        {
+          "question": "Bug only happens at midnight. You:",
+          "options": {
+            "A": "Stay up and log it",
+            "B": "Summon the intern",
+            "C": "Ignore it and blame the timezone",
+            "D": "Reboot the server every hour"
+          },
+          "correct": "A",
+          "explanation": "If you can't reproduce it, you can't fix it."
+        },
+        {
+          "question": "Bug only happens at midnight. You:",
+          "options": {
+            "A": "Stay up and log it",
+            "B": "Summon the intern",
+            "C": "Ignore it and blame the timezone",
+            "D": "Reboot the server every hour"
+          },
+          "correct": "A",
+          "explanation": "If you can't reproduce it, you can't fix it."
+        },
+        {
+          "question": "Bug only happens at midnight. You:",
+          "options": {
+            "A": "Stay up and log it",
+            "B": "Summon the intern",
+            "C": "Ignore it and blame the timezone",
+            "D": "Reboot the server every hour"
+          },
+          "correct": "A",
+          "explanation": "If you can't reproduce it, you can't fix it."
+        },
+        {
+          "question": "Bug only happens at midnight. You:",
+          "options": {
+            "A": "Stay up and log it",
+            "B": "Summon the intern",
+            "C": "Ignore it and blame the timezone",
+            "D": "Reboot the server every hour"
+          },
+          "correct": "A",
+          "explanation": "If you can't reproduce it, you can't fix it."
+        },
+        {
+          "question": "Bug only happens at midnight. You:",
+          "options": {
+            "A": "Stay up and log it",
+            "B": "Summon the intern",
+            "C": "Ignore it and blame the timezone",
+            "D": "Reboot the server every hour"
+          },
+          "correct": "A",
+          "explanation": "If you can't reproduce it, you can't fix it."
+        },
+        {
+          "question": "Bug only happens at midnight. You:",
+          "options": {
+            "A": "Stay up and log it",
+            "B": "Summon the intern",
+            "C": "Ignore it and blame the timezone",
+            "D": "Reboot the server every hour"
+          },
+          "correct": "A",
+          "explanation": "If you can't reproduce it, you can't fix it."
+        },
+        {
+          "question": "Bug only happens at midnight. You:",
+          "options": {
+            "A": "Stay up and log it",
+            "B": "Summon the intern",
+            "C": "Ignore it and blame the timezone",
+            "D": "Reboot the server every hour"
+          },
+          "correct": "A",
+          "explanation": "If you can't reproduce it, you can't fix it."
+        }
+      ]
+    },
+    {
+      "id": "standup_circus",
+      "title": " The Daily Standup Circus",
+      "icon": "\ud83c\udfa4",
+      "intro": "Learn to sound productive before coffee",
+      "video_url": "https://www.example.com/videos/standup.mp4",
+      "description": "Standups are performance art. Learn how to summarize chaos in 30 seconds.",
+      "scenario": "You forgot what you did yesterday. Do you admit it, invent tasks, or say 'blocked by dependencies'?",
+      "questions": [
+        {
+          "question": "Best standup trick:",
+          "options": {
+            "A": "Talk fast and confidently",
+            "B": "Say 'waiting on feedback'",
+            "C": "Use buzzwords",
+            "D": "All of the above"
+          },
+          "correct": "D",
+          "explanation": "It\u2019s not lying\u2014it\u2019s agile improv."
+        },
+        {
+          "question": "Best standup trick:",
+          "options": {
+            "A": "Talk fast and confidently",
+            "B": "Say 'waiting on feedback'",
+            "C": "Use buzzwords",
+            "D": "All of the above"
+          },
+          "correct": "D",
+          "explanation": "It\u2019s not lying\u2014it\u2019s agile improv."
+        },
+        {
+          "question": "Best standup trick:",
+          "options": {
+            "A": "Talk fast and confidently",
+            "B": "Say 'waiting on feedback'",
+            "C": "Use buzzwords",
+            "D": "All of the above"
+          },
+          "correct": "D",
+          "explanation": "It\u2019s not lying\u2014it\u2019s agile improv."
+        },
+        {
+          "question": "Best standup trick:",
+          "options": {
+            "A": "Talk fast and confidently",
+            "B": "Say 'waiting on feedback'",
+            "C": "Use buzzwords",
+            "D": "All of the above"
+          },
+          "correct": "D",
+          "explanation": "It\u2019s not lying\u2014it\u2019s agile improv."
+        },
+        {
+          "question": "Best standup trick:",
+          "options": {
+            "A": "Talk fast and confidently",
+            "B": "Say 'waiting on feedback'",
+            "C": "Use buzzwords",
+            "D": "All of the above"
+          },
+          "correct": "D",
+          "explanation": "It\u2019s not lying\u2014it\u2019s agile improv."
+        },
+        {
+          "question": "Best standup trick:",
+          "options": {
+            "A": "Talk fast and confidently",
+            "B": "Say 'waiting on feedback'",
+            "C": "Use buzzwords",
+            "D": "All of the above"
+          },
+          "correct": "D",
+          "explanation": "It\u2019s not lying\u2014it\u2019s agile improv."
+        },
+        {
+          "question": "Best standup trick:",
+          "options": {
+            "A": "Talk fast and confidently",
+            "B": "Say 'waiting on feedback'",
+            "C": "Use buzzwords",
+            "D": "All of the above"
+          },
+          "correct": "D",
+          "explanation": "It\u2019s not lying\u2014it\u2019s agile improv."
+        },
+        {
+          "question": "Best standup trick:",
+          "options": {
+            "A": "Talk fast and confidently",
+            "B": "Say 'waiting on feedback'",
+            "C": "Use buzzwords",
+            "D": "All of the above"
+          },
+          "correct": "D",
+          "explanation": "It\u2019s not lying\u2014it\u2019s agile improv."
+        },
+        {
+          "question": "Best standup trick:",
+          "options": {
+            "A": "Talk fast and confidently",
+            "B": "Say 'waiting on feedback'",
+            "C": "Use buzzwords",
+            "D": "All of the above"
+          },
+          "correct": "D",
+          "explanation": "It\u2019s not lying\u2014it\u2019s agile improv."
+        },
+        {
+          "question": "Best standup trick:",
+          "options": {
+            "A": "Talk fast and confidently",
+            "B": "Say 'waiting on feedback'",
+            "C": "Use buzzwords",
+            "D": "All of the above"
+          },
+          "correct": "D",
+          "explanation": "It\u2019s not lying\u2014it\u2019s agile improv."
+        }
+      ]
+    },
+    {
+      "id": "bug_bounty_showdown",
+      "title": " The Bug Bounty Showdown",
+      "icon": "\ud83d\udcb8",
+      "intro": "Hunt bugs like a bounty hunter with caffeine issues",
+      "video_url": "https://www.example.com/videos/bug_hunt.mp4",
+      "description": "Every bug you find might be worth $500\u2014or your weekend.",
+      "scenario": "Your teammate finds 10 bugs before you even wake up. Will you catch up or sabotage their Wi-Fi?",
+      "questions": [
+        {
+          "question": "A bug gives access to user data. You:",
+          "options": {
+            "A": "Report it immediately",
+            "B": "Screenshot it for your blog",
+            "C": "Use it to prank your PM",
+            "D": "Tweet about it"
+          },
+          "correct": "A",
+          "explanation": "Ethical hacking = responsible disclosure."
+        },
+        {
+          "question": "A bug gives access to user data. You:",
+          "options": {
+            "A": "Report it immediately",
+            "B": "Screenshot it for your blog",
+            "C": "Use it to prank your PM",
+            "D": "Tweet about it"
+          },
+          "correct": "A",
+          "explanation": "Ethical hacking = responsible disclosure."
+        },
+        {
+          "question": "A bug gives access to user data. You:",
+          "options": {
+            "A": "Report it immediately",
+            "B": "Screenshot it for your blog",
+            "C": "Use it to prank your PM",
+            "D": "Tweet about it"
+          },
+          "correct": "A",
+          "explanation": "Ethical hacking = responsible disclosure."
+        },
+        {
+          "question": "A bug gives access to user data. You:",
+          "options": {
+            "A": "Report it immediately",
+            "B": "Screenshot it for your blog",
+            "C": "Use it to prank your PM",
+            "D": "Tweet about it"
+          },
+          "correct": "A",
+          "explanation": "Ethical hacking = responsible disclosure."
+        },
+        {
+          "question": "A bug gives access to user data. You:",
+          "options": {
+            "A": "Report it immediately",
+            "B": "Screenshot it for your blog",
+            "C": "Use it to prank your PM",
+            "D": "Tweet about it"
+          },
+          "correct": "A",
+          "explanation": "Ethical hacking = responsible disclosure."
+        },
+        {
+          "question": "A bug gives access to user data. You:",
+          "options": {
+            "A": "Report it immediately",
+            "B": "Screenshot it for your blog",
+            "C": "Use it to prank your PM",
+            "D": "Tweet about it"
+          },
+          "correct": "A",
+          "explanation": "Ethical hacking = responsible disclosure."
+        },
+        {
+          "question": "A bug gives access to user data. You:",
+          "options": {
+            "A": "Report it immediately",
+            "B": "Screenshot it for your blog",
+            "C": "Use it to prank your PM",
+            "D": "Tweet about it"
+          },
+          "correct": "A",
+          "explanation": "Ethical hacking = responsible disclosure."
+        },
+        {
+          "question": "A bug gives access to user data. You:",
+          "options": {
+            "A": "Report it immediately",
+            "B": "Screenshot it for your blog",
+            "C": "Use it to prank your PM",
+            "D": "Tweet about it"
+          },
+          "correct": "A",
+          "explanation": "Ethical hacking = responsible disclosure."
+        },
+        {
+          "question": "A bug gives access to user data. You:",
+          "options": {
+            "A": "Report it immediately",
+            "B": "Screenshot it for your blog",
+            "C": "Use it to prank your PM",
+            "D": "Tweet about it"
+          },
+          "correct": "A",
+          "explanation": "Ethical hacking = responsible disclosure."
+        },
+        {
+          "question": "A bug gives access to user data. You:",
+          "options": {
+            "A": "Report it immediately",
+            "B": "Screenshot it for your blog",
+            "C": "Use it to prank your PM",
+            "D": "Tweet about it"
+          },
+          "correct": "A",
+          "explanation": "Ethical hacking = responsible disclosure."
+        }
+      ]
+    },
+    {
+      "id": "database_diner",
+      "title": " Database Diner: Order Up!",
+      "icon": "\ud83c\udf7d\ufe0f",
+      "intro": "Order, normalize, and serve your data hot",
+      "video_url": "https://www.example.com/videos/database_diner.mp4",
+      "description": "Design schemas like a gourmet chef: organized, delicious, and no duplicates allowed.",
+      "scenario": "Your client\u2019s data is a spreadsheet with 800 columns. You must normalize it before it normalizes you.",
+      "questions": [
+        {
+          "question": "What\u2019s 3rd Normal Form?",
+          "options": {
+            "A": "A dark ritual",
+            "B": "A way to eliminate transitive dependencies",
+            "C": "A new Marvel movie",
+            "D": "Something only DBAs understand"
+          },
+          "correct": "B",
+          "explanation": "3NF = reduce redundancy and dependency on non-key attributes."
+        },
+        {
+          "question": "What\u2019s 3rd Normal Form?",
+          "options": {
+            "A": "A dark ritual",
+            "B": "A way to eliminate transitive dependencies",
+            "C": "A new Marvel movie",
+            "D": "Something only DBAs understand"
+          },
+          "correct": "B",
+          "explanation": "3NF = reduce redundancy and dependency on non-key attributes."
+        },
+        {
+          "question": "What\u2019s 3rd Normal Form?",
+          "options": {
+            "A": "A dark ritual",
+            "B": "A way to eliminate transitive dependencies",
+            "C": "A new Marvel movie",
+            "D": "Something only DBAs understand"
+          },
+          "correct": "B",
+          "explanation": "3NF = reduce redundancy and dependency on non-key attributes."
+        },
+        {
+          "question": "What\u2019s 3rd Normal Form?",
+          "options": {
+            "A": "A dark ritual",
+            "B": "A way to eliminate transitive dependencies",
+            "C": "A new Marvel movie",
+            "D": "Something only DBAs understand"
+          },
+          "correct": "B",
+          "explanation": "3NF = reduce redundancy and dependency on non-key attributes."
+        },
+        {
+          "question": "What\u2019s 3rd Normal Form?",
+          "options": {
+            "A": "A dark ritual",
+            "B": "A way to eliminate transitive dependencies",
+            "C": "A new Marvel movie",
+            "D": "Something only DBAs understand"
+          },
+          "correct": "B",
+          "explanation": "3NF = reduce redundancy and dependency on non-key attributes."
+        },
+        {
+          "question": "What\u2019s 3rd Normal Form?",
+          "options": {
+            "A": "A dark ritual",
+            "B": "A way to eliminate transitive dependencies",
+            "C": "A new Marvel movie",
+            "D": "Something only DBAs understand"
+          },
+          "correct": "B",
+          "explanation": "3NF = reduce redundancy and dependency on non-key attributes."
+        },
+        {
+          "question": "What\u2019s 3rd Normal Form?",
+          "options": {
+            "A": "A dark ritual",
+            "B": "A way to eliminate transitive dependencies",
+            "C": "A new Marvel movie",
+            "D": "Something only DBAs understand"
+          },
+          "correct": "B",
+          "explanation": "3NF = reduce redundancy and dependency on non-key attributes."
+        },
+        {
+          "question": "What\u2019s 3rd Normal Form?",
+          "options": {
+            "A": "A dark ritual",
+            "B": "A way to eliminate transitive dependencies",
+            "C": "A new Marvel movie",
+            "D": "Something only DBAs understand"
+          },
+          "correct": "B",
+          "explanation": "3NF = reduce redundancy and dependency on non-key attributes."
+        },
+        {
+          "question": "What\u2019s 3rd Normal Form?",
+          "options": {
+            "A": "A dark ritual",
+            "B": "A way to eliminate transitive dependencies",
+            "C": "A new Marvel movie",
+            "D": "Something only DBAs understand"
+          },
+          "correct": "B",
+          "explanation": "3NF = reduce redundancy and dependency on non-key attributes."
+        },
+        {
+          "question": "What\u2019s 3rd Normal Form?",
+          "options": {
+            "A": "A dark ritual",
+            "B": "A way to eliminate transitive dependencies",
+            "C": "A new Marvel movie",
+            "D": "Something only DBAs understand"
+          },
+          "correct": "B",
+          "explanation": "3NF = reduce redundancy and dependency on non-key attributes."
+        }
+      ]
+    },
+    {
+      "id": "mindset_gym",
+      "title": "\ufe0f Mindset Gym: No Pain, No Brain",
+      "icon": "\ud83c\udfcb\ufe0f\u200d\u2642\ufe0f",
+      "intro": "Build your mental reps like a brain athlete",
+      "video_url": "https://www.example.com/videos/mindset_gym.mp4",
+      "description": "Mindset isn\u2019t magic. It\u2019s repetition, struggle, and belief that your brain can do pushups too.",
+      "scenario": "You failed 3 coding interviews in a week. Do you keep going or start that bakery you always dreamed of?",
+      "questions": [
+        {
+          "question": "You failed your dream job interview. You:",
+          "options": {
+            "A": "Apply to 3 more companies",
+            "B": "Cry on Twitter",
+            "C": "Switch careers",
+            "D": "Move to a cabin and write a blog"
+          },
+          "correct": "A",
+          "explanation": "Rejection is redirection (with better practice)."
+        },
+        {
+          "question": "You failed your dream job interview. You:",
+          "options": {
+            "A": "Apply to 3 more companies",
+            "B": "Cry on Twitter",
+            "C": "Switch careers",
+            "D": "Move to a cabin and write a blog"
+          },
+          "correct": "A",
+          "explanation": "Rejection is redirection (with better practice)."
+        },
+        {
+          "question": "You failed your dream job interview. You:",
+          "options": {
+            "A": "Apply to 3 more companies",
+            "B": "Cry on Twitter",
+            "C": "Switch careers",
+            "D": "Move to a cabin and write a blog"
+          },
+          "correct": "A",
+          "explanation": "Rejection is redirection (with better practice)."
+        },
+        {
+          "question": "You failed your dream job interview. You:",
+          "options": {
+            "A": "Apply to 3 more companies",
+            "B": "Cry on Twitter",
+            "C": "Switch careers",
+            "D": "Move to a cabin and write a blog"
+          },
+          "correct": "A",
+          "explanation": "Rejection is redirection (with better practice)."
+        },
+        {
+          "question": "You failed your dream job interview. You:",
+          "options": {
+            "A": "Apply to 3 more companies",
+            "B": "Cry on Twitter",
+            "C": "Switch careers",
+            "D": "Move to a cabin and write a blog"
+          },
+          "correct": "A",
+          "explanation": "Rejection is redirection (with better practice)."
+        },
+        {
+          "question": "You failed your dream job interview. You:",
+          "options": {
+            "A": "Apply to 3 more companies",
+            "B": "Cry on Twitter",
+            "C": "Switch careers",
+            "D": "Move to a cabin and write a blog"
+          },
+          "correct": "A",
+          "explanation": "Rejection is redirection (with better practice)."
+        },
+        {
+          "question": "You failed your dream job interview. You:",
+          "options": {
+            "A": "Apply to 3 more companies",
+            "B": "Cry on Twitter",
+            "C": "Switch careers",
+            "D": "Move to a cabin and write a blog"
+          },
+          "correct": "A",
+          "explanation": "Rejection is redirection (with better practice)."
+        },
+        {
+          "question": "You failed your dream job interview. You:",
+          "options": {
+            "A": "Apply to 3 more companies",
+            "B": "Cry on Twitter",
+            "C": "Switch careers",
+            "D": "Move to a cabin and write a blog"
+          },
+          "correct": "A",
+          "explanation": "Rejection is redirection (with better practice)."
+        },
+        {
+          "question": "You failed your dream job interview. You:",
+          "options": {
+            "A": "Apply to 3 more companies",
+            "B": "Cry on Twitter",
+            "C": "Switch careers",
+            "D": "Move to a cabin and write a blog"
+          },
+          "correct": "A",
+          "explanation": "Rejection is redirection (with better practice)."
+        },
+        {
+          "question": "You failed your dream job interview. You:",
+          "options": {
+            "A": "Apply to 3 more companies",
+            "B": "Cry on Twitter",
+            "C": "Switch careers",
+            "D": "Move to a cabin and write a blog"
+          },
+          "correct": "A",
+          "explanation": "Rejection is redirection (with better practice)."
+        }
+      ]
+    }
+  ]
+}

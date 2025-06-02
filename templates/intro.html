@@ -1,0 +1,66 @@
+{% extends "base.html" %}
+{% block content %}
+<main class="main-content">
+    {% with messages = get_flashed_messages(with_categories=true) %}
+    {% if messages %}
+    <div class="flash-messages">
+        {% for category, message in messages %}
+        <div class="flash-message flash-{{ category }} animate__animated animate__bounceIn">
+            <span class="flash-icon">
+                {% if category == 'success' %}✅
+                {% elif category == 'error' %}❌
+                {% elif category == 'warning' %}⚠️
+                {% else %}ℹ️{% endif %}
+            </span>
+            {{ message }}
+        </div>
+        {% endfor %}
+    </div>
+
+    {% endif %}
+    {% endwith %}
+
+    <section class="hero-section">
+        <div class="hero-content animate__animated animate__fadeInUp">
+
+            <a href="{{ url_for('phase', phase_index=0) }}" class="btn-super">Start the Adventure</a>
+
+
+
+        </div>
+        <div class="hero-illustration animate__animated animate__fadeIn">
+            <img src="{{ url_for('static', filename='images/image.jpg') }}" alt="Mindset illustration">
+        </div>
+    </section>
+
+    <section id="features" class="features-section">
+        <h2 class="section-title">Workshop Features</h2>
+
+        <div class="swiper features-swiper">
+            <div class="swiper-wrapper">
+                <div class="swiper-slide feature-card">
+                    <div class="feature-icon">🧩</div>
+                    <h3>Interactive Challenges</h3>
+                    <p>Engage with real-world scenarios that test your mindset and decision-making skills.</p>
+                </div>
+                <div class="swiper-slide feature-card">
+                    <div class="feature-icon">📊</div>
+                    <h3>Progress Tracking</h3>
+                    <p>See your improvement through detailed feedback and progress metrics.</p>
+                </div>
+                <div class="swiper-slide feature-card">
+                    <div class="feature-icon">🎯</div>
+                    <h3>Personalized Feedback</h3>
+                    <p>Get tailored recommendations based on your responses and patterns.</p>
+                </div>
+            </div>
+            <div class="swiper-pagination"></div>
+        </div>
+    </section>
+</main>
+
+
+
+
+
+{% endblock %}

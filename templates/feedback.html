@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+{% block content %}
+<div class="phase-complete-container">
+    <h2 class="phase-complete-title">{{ phase.icon }} {{ phase.title }} – Phase Complete!</h2>
+    <p class="phase-complete-stats">
+        You answered <strong>{{ correct_count }}</strong> out of <strong>{{ total_questions }}</strong> correctly.
+    </p>
+    
+    {% set total_phases = data.phases | length %}
+    {% if phase_index + 1 < total_phases %}
+        <a href="{{ url_for('phase', phase_index=phase_index + 1) }}" class="btn-next">Continue to Next Phase →</a>
+    {% else %}
+        <a href="{{ url_for('final') }}" class="btn-next">🎉 See Final Results</a>
+    {% endif %}
+</div>
+{% endblock %}
