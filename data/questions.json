@@ -5,534 +5,373 @@
     "subtitle": "Train your brain and your code skills while laughing through the pain"
   },
   "phases": [
-{
-  "id": "mindset_basics",
-  "title": "Mindset Basics",
-  "icon": "",
-  "intro": "Test your understanding of growth vs. fixed mindset principles with realistic and funny situations.",
-  "video_url": "https://www.example.com/videos/mindset.mp4",
-  "description": "Dive into the foundations of a growth mindset: how to embrace challenges, reframe setbacks, and view effort as a path to mastery.",
-  "scenario": "Your app just crashed minutes before a demo. Panic? Blame the intern? Or... channel your inner growth warrior?",
-  "questions": [
     {
-      "question": "How would you reframe: \"I’m not good at this.\"?",
-      "options": {
-        "A": "I’m not good yet — but I can learn.",
-        "B": "That’s why I avoid it.",
-        "C": "I'll ask someone to do it for me.",
-        "D": "Maybe I’ll be a poet instead."
-      },
-      "correct": "A",
-      "explanation": "Growth mindset is reflected in: 'I’m not good yet — but I can learn.'"
-    },
-    {
-      "question": "How would you reframe: \"I failed once, I’ll always fail.\"?",
-      "options": {
-        "A": "Failure helps me get better.",
-        "B": "Time to give up forever.",
-        "C": "Only lucky people succeed.",
-        "D": "Clearly the system is rigged."
-      },
-      "correct": "A",
-      "explanation": "Growth mindset is reflected in: 'Failure helps me get better.'"
-    },
-    {
-      "question": "How would you reframe: \"They’re smarter than me.\"?",
-      "options": {
-        "A": "I can learn from them.",
-        "B": "Guess I should just quit.",
-        "C": "I’ll pretend to be busy.",
-        "D": "I need a new job title."
-      },
-      "correct": "A",
-      "explanation": "Growth mindset is reflected in: 'I can learn from them.'"
-    },
-    {
-      "question": "How would you reframe: \"This is too hard.\"?",
-      "options": {
-        "A": "It’s hard because I’m learning.",
-        "B": "This must be someone else’s job.",
-        "C": "My brain is allergic to effort.",
-        "D": "I'll just fake it till I make it."
-      },
-      "correct": "A",
-      "explanation": "Growth mindset is reflected in: 'It’s hard because I’m learning.'"
-    },
-    {
-      "question": "How would you reframe: \"I give up.\"?",
-      "options": {
-        "A": "Let me try a different strategy.",
-        "B": "Goodbye forever.",
-        "C": "I’ll just wait for AI to solve it.",
-        "D": "Let me pretend this never happened."
-      },
-      "correct": "A",
-      "explanation": "Growth mindset is reflected in: 'Let me try a different strategy.'"
-    },
-    {
-      "question": "How would you reframe: \"I’m not good at this.\"?",
-      "options": {
-        "A": "I’m not good yet — but I can learn.",
-        "B": "That’s why I avoid it.",
-        "C": "I'll ask someone to do it for me.",
-        "D": "Maybe I’ll be a poet instead."
-      },
-      "correct": "A",
-      "explanation": "Growth mindset is reflected in: 'I’m not good yet — but I can learn.'"
-    },
-    {
-      "question": "How would you reframe: \"I failed once, I’ll always fail.\"?",
-      "options": {
-        "A": "Failure helps me get better.",
-        "B": "Time to give up forever.",
-        "C": "Only lucky people succeed.",
-        "D": "Clearly the system is rigged."
-      },
-      "correct": "A",
-      "explanation": "Growth mindset is reflected in: 'Failure helps me get better.'"
-    },
-    {
-      "question": "How would you reframe: \"They’re smarter than me.\"?",
-      "options": {
-        "A": "I can learn from them.",
-        "B": "Guess I should just quit.",
-        "C": "I’ll pretend to be busy.",
-        "D": "I need a new job title."
-      },
-      "correct": "A",
-      "explanation": "Growth mindset is reflected in: 'I can learn from them.'"
-    },
-    {
-      "question": "How would you reframe: \"This is too hard.\"?",
-      "options": {
-        "A": "It’s hard because I’m learning.",
-        "B": "This must be someone else’s job.",
-        "C": "My brain is allergic to effort.",
-        "D": "I'll just fake it till I make it."
-      },
-      "correct": "A",
-      "explanation": "Growth mindset is reflected in: 'It’s hard because I’m learning.'"
-    },
-    {
-      "question": "How would you reframe: \"I give up.\"?",
-      "options": {
-        "A": "Let me try a different strategy.",
-        "B": "Goodbye forever.",
-        "C": "I’ll just wait for AI to solve it.",
-        "D": "Let me pretend this never happened."
-      },
-      "correct": "A",
-      "explanation": "Growth mindset is reflected in: 'Let me try a different strategy.'"
-    },
-    {
-      "question": "How would you reframe: \"I’m not good at this.\"?",
-      "options": {
-        "A": "I’m not good yet — but I can learn.",
-        "B": "That’s why I avoid it.",
-        "C": "I'll ask someone to do it for me.",
-        "D": "Maybe I’ll be a poet instead."
-      },
-      "correct": "A",
-      "explanation": "Growth mindset is reflected in: 'I’m not good yet — but I can learn.'"
-    },
-    {
-      "question": "How would you reframe: \"I failed once, I’ll always fail.\"?",
-      "options": {
-        "A": "Failure helps me get better.",
-        "B": "Time to give up forever.",
-        "C": "Only lucky people succeed.",
-        "D": "Clearly the system is rigged."
-      },
-      "correct": "A",
-      "explanation": "Growth mindset is reflected in: 'Failure helps me get better.'"
-    },
-    {
-      "question": "How would you reframe: \"They’re smarter than me.\"?",
-      "options": {
-        "A": "I can learn from them.",
-        "B": "Guess I should just quit.",
-        "C": "I’ll pretend to be busy.",
-        "D": "I need a new job title."
-      },
-      "correct": "A",
-      "explanation": "Growth mindset is reflected in: 'I can learn from them.'"
-    },
-    {
-      "question": "How would you reframe: \"This is too hard.\"?",
-      "options": {
-        "A": "It’s hard because I’m learning.",
-        "B": "This must be someone else’s job.",
-        "C": "My brain is allergic to effort.",
-        "D": "I'll just fake it till I make it."
-      },
-      "correct": "A",
-      "explanation": "Growth mindset is reflected in: 'It’s hard because I’m learning.'"
-    },
-    {
-      "question": "How would you reframe: \"I give up.\"?",
-      "options": {
-        "A": "Let me try a different strategy.",
-        "B": "Goodbye forever.",
-        "C": "I’ll just wait for AI to solve it.",
-        "D": "Let me pretend this never happened."
-      },
-      "correct": "A",
-      "explanation": "Growth mindset is reflected in: 'Let me try a different strategy.'"
-    },
-    {
-      "question": "How would you reframe: \"I’m not good at this.\"?",
-      "options": {
-        "A": "I’m not good yet — but I can learn.",
-        "B": "That’s why I avoid it.",
-        "C": "I'll ask someone to do it for me.",
-        "D": "Maybe I’ll be a poet instead."
-      },
-      "correct": "A",
-      "explanation": "Growth mindset is reflected in: 'I’m not good yet — but I can learn.'"
-    },
-    {
-      "question": "How would you reframe: \"I failed once, I’ll always fail.\"?",
-      "options": {
-        "A": "Failure helps me get better.",
-        "B": "Time to give up forever.",
-        "C": "Only lucky people succeed.",
-        "D": "Clearly the system is rigged."
-      },
-      "correct": "A",
-      "explanation": "Growth mindset is reflected in: 'Failure helps me get better.'"
-    },
-    {
-      "question": "How would you reframe: \"They’re smarter than me.\"?",
-      "options": {
-        "A": "I can learn from them.",
-        "B": "Guess I should just quit.",
-        "C": "I’ll pretend to be busy.",
-        "D": "I need a new job title."
-      },
-      "correct": "A",
-      "explanation": "Growth mindset is reflected in: 'I can learn from them.'"
-    },
-    {
-      "question": "How would you reframe: \"This is too hard.\"?",
-      "options": {
-        "A": "It’s hard because I’m learning.",
-        "B": "This must be someone else’s job.",
-        "C": "My brain is allergic to effort.",
-        "D": "I'll just fake it till I make it."
-      },
-      "correct": "A",
-      "explanation": "Growth mindset is reflected in: 'It’s hard because I’m learning.'"
-    },
-    {
-      "question": "How would you reframe: \"I give up.\"?",
-      "options": {
-        "A": "Let me try a different strategy.",
-        "B": "Goodbye forever.",
-        "C": "I’ll just wait for AI to solve it.",
-        "D": "Let me pretend this never happened."
-      },
-      "correct": "A",
-      "explanation": "Growth mindset is reflected in: 'Let me try a different strategy.'"
-    },
-    {
-      "question": "How would you reframe: \"I’m not good at this.\"?",
-      "options": {
-        "A": "I’m not good yet — but I can learn.",
-        "B": "That’s why I avoid it.",
-        "C": "I'll ask someone to do it for me.",
-        "D": "Maybe I’ll be a poet instead."
-      },
-      "correct": "A",
-      "explanation": "Growth mindset is reflected in: 'I’m not good yet — but I can learn.'"
-    },
-    {
-      "question": "How would you reframe: \"I failed once, I’ll always fail.\"?",
-      "options": {
-        "A": "Failure helps me get better.",
-        "B": "Time to give up forever.",
-        "C": "Only lucky people succeed.",
-        "D": "Clearly the system is rigged."
-      },
-      "correct": "A",
-      "explanation": "Growth mindset is reflected in: 'Failure helps me get better.'"
-    },
-    {
-      "question": "How would you reframe: \"They’re smarter than me.\"?",
-      "options": {
-        "A": "I can learn from them.",
-        "B": "Guess I should just quit.",
-        "C": "I’ll pretend to be busy.",
-        "D": "I need a new job title."
-      },
-      "correct": "A",
-      "explanation": "Growth mindset is reflected in: 'I can learn from them.'"
-    },
-    {
-      "question": "How would you reframe: \"This is too hard.\"?",
-      "options": {
-        "A": "It’s hard because I’m learning.",
-        "B": "This must be someone else’s job.",
-        "C": "My brain is allergic to effort.",
-        "D": "I'll just fake it till I make it."
-      },
-      "correct": "A",
-      "explanation": "Growth mindset is reflected in: 'It’s hard because I’m learning.'"
-    },
-    {
-      "question": "How would you reframe: \"I give up.\"?",
-      "options": {
-        "A": "Let me try a different strategy.",
-        "B": "Goodbye forever.",
-        "C": "I’ll just wait for AI to solve it.",
-        "D": "Let me pretend this never happened."
-      },
-      "correct": "A",
-      "explanation": "Growth mindset is reflected in: 'Let me try a different strategy.'"
-    }
-  ]
-},
-    {
-      "id": "web_tech",
-      "title": " Web Technologies",
-      "icon": "\ud83d\udcbb",
-      "intro": "Flex your frontend and backend basics",
-      "video_url": "https://www.example.com/videos/web_tech.mp4",
-      "description": "You\u2019ll cover HTML, CSS, JS, frameworks, and how to avoid breaking everything with one div.",
-      "scenario": "You deployed the homepage. It works on your machine. On everyone else\u2019s? A blank screen of doom.",
+      "id": "mindset_basics",
+      "title": "Mindset Basics",
+      "icon": "🧠",
+      "intro": "Test your understanding of growth vs. fixed mindset principles with realistic and funny situations.",
+      "video_url": "https://www.example.com/videos/mindset.mp4",
+      "description": "Dive into the foundations of a growth mindset: how to embrace challenges, reframe setbacks, and view effort as a path to mastery.",
+      "scenario": "Your app just crashed minutes before a demo. Panic? Blame the intern? Or... channel your inner growth warrior?",
       "questions": [
         {
-          "question": "Your CSS is not applying. First move?",
+          "question": "How would you reframe: \"I'm not good at this\"?",
           "options": {
-            "A": "Cry",
-            "B": "Check the selector",
-            "C": "Restart Chrome",
-            "D": "Blame the designer"
+            "A": "I'm not good yet — but I can learn",
+            "B": "That's why I avoid it",
+            "C": "I'll ask someone to do it for me",
+            "D": "Maybe I'll be a poet instead"
           },
-          "correct": "B",
-          "explanation": "Start simple. Check your selectors."
+          "correct": "A",
+          "explanation": "Growth mindset is reflected in: 'I'm not good yet — but I can learn.'"
         },
         {
-          "question": "Your CSS is not applying. First move?",
+          "question": "Your code fails 3 times in a row. You think:",
           "options": {
-            "A": "Cry",
-            "B": "Check the selector",
-            "C": "Restart Chrome",
-            "D": "Blame the designer"
+            "A": "Each failure teaches me what doesn't work",
+            "B": "I'm just not cut out for coding",
+            "C": "The computer clearly hates me",
+            "D": "Time to switch careers"
           },
-          "correct": "B",
-          "explanation": "Start simple. Check your selectors."
+          "correct": "A",
+          "explanation": "Failures are stepping stones, not stop signs."
         },
         {
-          "question": "Your CSS is not applying. First move?",
+          "question": "A colleague solves a problem faster than you. You:",
           "options": {
-            "A": "Cry",
-            "B": "Check the selector",
-            "C": "Restart Chrome",
-            "D": "Blame the designer"
+            "A": "Ask them to explain their approach",
+            "B": "Feel inadequate and give up",
+            "C": "Pretend you knew the answer all along",
+            "D": "Complain the problem was unfair"
           },
-          "correct": "B",
-          "explanation": "Start simple. Check your selectors."
+          "correct": "A",
+          "explanation": "Learning from others accelerates growth."
         },
         {
-          "question": "Your CSS is not applying. First move?",
+          "question": "When facing a difficult bug, you:",
           "options": {
-            "A": "Cry",
-            "B": "Check the selector",
-            "C": "Restart Chrome",
-            "D": "Blame the designer"
+            "A": "Break it down into smaller testable parts",
+            "B": "Assume it's someone else's fault",
+            "C": "Wait for someone else to fix it",
+            "D": "Blame the programming language"
           },
-          "correct": "B",
-          "explanation": "Start simple. Check your selectors."
+          "correct": "A",
+          "explanation": "Systematic problem-solving beats frustration."
         },
         {
-          "question": "Your CSS is not applying. First move?",
+          "question": "After negative feedback on your code, you:",
           "options": {
-            "A": "Cry",
-            "B": "Check the selector",
-            "C": "Restart Chrome",
-            "D": "Blame the designer"
+            "A": "Identify specific areas to improve",
+            "B": "Assume the reviewer is being mean",
+            "C": "Ignore the feedback completely",
+            "D": "Secretly critique their code in revenge"
           },
-          "correct": "B",
-          "explanation": "Start simple. Check your selectors."
+          "correct": "A",
+          "explanation": "Constructive criticism is fuel for growth."
         },
         {
-          "question": "Your CSS is not applying. First move?",
+          "question": "When stuck on a problem for hours, you:",
           "options": {
-            "A": "Cry",
-            "B": "Check the selector",
-            "C": "Restart Chrome",
-            "D": "Blame the designer"
+            "A": "Take a break and return with fresh eyes",
+            "B": "Keep banging your head against it",
+            "C": "Pretend the problem doesn't exist",
+            "D": "Declare the task impossible"
           },
-          "correct": "B",
-          "explanation": "Start simple. Check your selectors."
+          "correct": "A",
+          "explanation": "Stepping away often provides new perspectives."
         },
         {
-          "question": "Your CSS is not applying. First move?",
+          "question": "A new technology is required for a project. You:",
           "options": {
-            "A": "Cry",
-            "B": "Check the selector",
-            "C": "Restart Chrome",
-            "D": "Blame the designer"
+            "A": "Dive into docs and build a small prototype",
+            "B": "Say you already know it (then panic)",
+            "C": "Avoid the task until reassigned",
+            "D": "Claim the tech is just a fad"
           },
-          "correct": "B",
-          "explanation": "Start simple. Check your selectors."
+          "correct": "A",
+          "explanation": "Comfort with learning beats fake expertise."
         },
         {
-          "question": "Your CSS is not applying. First move?",
+          "question": "Your pull request gets rejected. You:",
           "options": {
-            "A": "Cry",
-            "B": "Check the selector",
-            "C": "Restart Chrome",
-            "D": "Blame the designer"
+            "A": "Request specific feedback to improve",
+            "B": "Take it personally and pout",
+            "C": "Sneak your code into production",
+            "D": "Badmouth the reviewer to coworkers"
           },
-          "correct": "B",
-          "explanation": "Start simple. Check your selectors."
+          "correct": "A",
+          "explanation": "Code reviews are learning opportunities."
         },
         {
-          "question": "Your CSS is not applying. First move?",
+          "question": "When pair programming with someone more skilled, you:",
           "options": {
-            "A": "Cry",
-            "B": "Check the selector",
-            "C": "Restart Chrome",
-            "D": "Blame the designer"
+            "A": "Ask questions about their approach",
+            "B": "Let them do all the work",
+            "C": "Pretend to understand when you don't",
+            "D": "Secretly compete against them"
           },
-          "correct": "B",
-          "explanation": "Start simple. Check your selectors."
+          "correct": "A",
+          "explanation": "Collaboration beats competition for growth."
         },
         {
-          "question": "Your CSS is not applying. First move?",
+          "question": "After solving a tough problem, you:",
           "options": {
-            "A": "Cry",
-            "B": "Check the selector",
-            "C": "Restart Chrome",
-            "D": "Blame the designer"
+            "A": "Document the solution for future reference",
+            "B": "Quickly move to the next task",
+            "C": "Brag about how easy it was",
+            "D": "Hope you never see it again"
           },
-          "correct": "B",
-          "explanation": "Start simple. Check your selectors."
+          "correct": "A",
+          "explanation": "Reflection solidifies learning."
         }
       ]
     },
-    {
+
+
+
+ {
+      "id": "web_tech",
+      "title": "Web Technologies",
+      "icon": "💻",
+      "intro": "Flex your frontend and backend basics",
+      "video_url": "https://www.example.com/videos/web_tech.mp4",
+      "description": "You'll cover HTML, CSS, JS, frameworks, and how to avoid breaking everything with one div.",
+      "scenario": "You deployed the homepage. It works on your machine. On everyone else's? A blank screen of doom.",
+      "questions": [
+        {
+          "question": "Your CSS isn't applying. First you:",
+          "options": {
+            "A": "Check browser dev tools for errors",
+            "B": "Add !important to everything",
+            "C": "Blame the framework",
+            "D": "Refresh repeatedly while praying"
+          },
+          "correct": "A",
+          "explanation": "Dev tools reveal CSS application issues."
+        },
+        {
+          "question": "JavaScript throws 'undefined is not a function'. You:",
+          "options": {
+            "A": "Check variable scope and initialization",
+            "B": "Wrap everything in try/catch",
+            "C": "Restart your computer",
+            "D": "Switch to jQuery"
+          },
+          "correct": "A",
+          "explanation": "This usually indicates calling a non-existent method."
+        },
+        {
+          "question": "The page renders differently in Firefox. You:",
+          "options": {
+            "A": "Check for unsupported features on caniuse.com",
+            "B": "Tell users to switch browsers",
+            "C": "Blame Mozilla",
+            "D": "Add browser-specific hacks"
+          },
+          "correct": "A",
+          "explanation": "Cross-browser testing prevents surprises."
+        },
+        {
+          "question": "Your React component won't update. You:",
+          "options": {
+            "A": "Check state/props with React DevTools",
+            "B": "ForceUpdate() everywhere",
+            "C": "Rewrite in vanilla JS",
+            "D": "Blame hooks"
+          },
+          "correct": "A",
+          "explanation": "State management issues often cause update problems."
+        },
+        {
+          "question": "The API returns 500 errors. You:",
+          "options": {
+            "A": "Check network tab for response details",
+            "B": "Refresh until it works",
+            "C": "Blame the backend team",
+            "D": "Mock the data and pretend it's fine"
+          },
+          "correct": "A",
+          "explanation": "Server errors require examining the actual response."
+        },
+        {
+          "question": "Your flexbox layout breaks in IE11. You:",
+          "options": {
+            "A": "Research known IE flexbox bugs",
+            "B": "Tell clients to upgrade",
+            "C": "Use floats instead",
+            "D": "Add '-ms-' prefixes randomly"
+          },
+          "correct": "A",
+          "explanation": "IE has specific flexbox implementation quirks."
+        },
+        {
+          "question": "The page flashes unstyled content. You:",
+          "options": {
+            "A": "Implement critical CSS loading",
+            "B": "Add a loading spinner",
+            "C": "Make the background white",
+            "D": "Ignore it - it's fast enough"
+          },
+          "correct": "A",
+          "explanation": "FOUC indicates CSS loading timing issues."
+        },
+        {
+          "question": "Your media queries aren't working. You:",
+          "options": {
+            "A": "Check viewport meta tag",
+            "B": "Use JavaScript resize handlers",
+            "C": "Make everything mobile-first",
+            "D": "Blame the device manufacturer"
+          },
+          "correct": "A",
+          "explanation": "Missing viewport tag breaks responsive design."
+        },
+        {
+          "question": "The JavaScript bundle is too large. You:",
+          "options": {
+            "A": "Analyze with webpack-bundle-analyzer",
+            "B": "Tell users to get better internet",
+            "C": "Move everything to CDN",
+            "D": "Blame node_modules"
+          },
+          "correct": "A",
+          "explanation": "Bundle analysis reveals optimization opportunities."
+        },
+        {
+          "question": "The CSS animations are janky. You:",
+          "options": {
+            "A": "Check will-change and transform properties",
+            "B": "Reduce animation duration",
+            "C": "Use JavaScript animations instead",
+            "D": "Blame the GPU"
+          },
+          "correct": "A",
+          "explanation": "Hardware acceleration improves animation performance."
+        }
+      ]
+    },
+{
       "id": "scraping_detective_agency",
-      "title": "\ufe0f\u200d\u2642\ufe0f Scraper's Detective Agency",
-      "icon": "\ud83d\udd75\ufe0f\u200d\u2642\ufe0f",
+      "title": "🕵️ Scraper's Detective Agency",
+      "icon": "🕵️",
       "intro": "Scrape responsibly (and stylishly)",
       "video_url": "https://www.example.com/videos/scraping_detective.mp4",
       "description": "Learn to crawl data without being crawled by guilt or firewalls.",
       "scenario": "Your scraper got blocked. Do you switch IPs, add delay, or send the website cookies?",
       "questions": [
         {
-          "question": "You get blocked after 3 requests. You:",
+          "question": "You get HTTP 429 (Too Many Requests). You:",
           "options": {
-            "A": "Add headers and delays",
-            "B": "Scrape faster",
-            "C": "Switch to Excel",
-            "D": "Scrape from your neighbor\u2019s WiFi"
+            "A": "Implement exponential backoff",
+            "B": "Switch to a VPN",
+            "C": "Scrape during off-hours",
+            "D": "Pretend to be Googlebot"
           },
           "correct": "A",
-          "explanation": "Respectful scraping includes delay and user-agent headers."
+          "explanation": "Backoff shows respect for server resources."
         },
         {
-          "question": "You get blocked after 3 requests. You:",
+          "question": "The site uses Cloudflare protection. You:",
           "options": {
-            "A": "Add headers and delays",
-            "B": "Scrape faster",
-            "C": "Switch to Excel",
-            "D": "Scrape from your neighbor\u2019s WiFi"
+            "A": "Analyze browser fingerprint requirements",
+            "B": "Use headless Chrome with stealth plugins",
+            "C": "Find an unofficial API",
+            "D": "Scrape from Wayback Machine"
           },
           "correct": "A",
-          "explanation": "Respectful scraping includes delay and user-agent headers."
+          "explanation": "Understanding protections helps craft ethical solutions."
         },
         {
-          "question": "You get blocked after 3 requests. You:",
+          "question": "CAPTCHAs appear after 5 requests. You:",
           "options": {
-            "A": "Add headers and delays",
-            "B": "Scrape faster",
-            "C": "Switch to Excel",
-            "D": "Scrape from your neighbor\u2019s WiFi"
+            "A": "Implement human-like mouse movements",
+            "B": "Use a CAPTCHA solving service",
+            "C": "Rotate user agents aggressively",
+            "D": "Train a neural network to solve them"
           },
           "correct": "A",
-          "explanation": "Respectful scraping includes delay and user-agent headers."
+          "explanation": "Human-like behavior reduces bot detection."
         },
         {
-          "question": "You get blocked after 3 requests. You:",
+          "question": "Data loads via JavaScript. You:",
           "options": {
-            "A": "Add headers and delays",
-            "B": "Scrape faster",
-            "C": "Switch to Excel",
-            "D": "Scrape from your neighbor\u2019s WiFi"
+            "A": "Use Puppeteer to render the page",
+            "B": "Find XHR endpoints in dev tools",
+            "C": "Ask the site for an API",
+            "D": "Manually copy the data"
           },
           "correct": "A",
-          "explanation": "Respectful scraping includes delay and user-agent headers."
+          "explanation": "Headless browsers execute JS like real users."
         },
         {
-          "question": "You get blocked after 3 requests. You:",
+          "question": "The site changes its HTML weekly. You:",
           "options": {
-            "A": "Add headers and delays",
-            "B": "Scrape faster",
-            "C": "Switch to Excel",
-            "D": "Scrape from your neighbor\u2019s WiFi"
+            "A": "Build resilient selectors using data attributes",
+            "B": "Complain to the webmaster",
+            "C": "Rewrite scrapers constantly",
+            "D": "Use visual regression testing"
           },
           "correct": "A",
-          "explanation": "Respectful scraping includes delay and user-agent headers."
+          "explanation": "Stable selectors prevent frequent breakage."
         },
         {
-          "question": "You get blocked after 3 requests. You:",
+          "question": "You need to scrape 100,000 pages. You:",
           "options": {
-            "A": "Add headers and delays",
-            "B": "Scrape faster",
-            "C": "Switch to Excel",
-            "D": "Scrape from your neighbor\u2019s WiFi"
+            "A": "Implement distributed queueing with rate limits",
+            "B": "Run 100 Chrome instances",
+            "C": "Rent a botnet",
+            "D": "Do it serially over weeks"
           },
           "correct": "A",
-          "explanation": "Respectful scraping includes delay and user-agent headers."
+          "explanation": "Distributed systems require careful coordination."
         },
         {
-          "question": "You get blocked after 3 requests. You:",
+          "question": "The site blocks your IP range. You:",
           "options": {
-            "A": "Add headers and delays",
-            "B": "Scrape faster",
-            "C": "Switch to Excel",
-            "D": "Scrape from your neighbor\u2019s WiFi"
+            "A": "Use residential proxies sparingly",
+            "B": "Switch to mobile data",
+            "C": "Scrape from a coffee shop",
+            "D": "Threaten legal action"
           },
           "correct": "A",
-          "explanation": "Respectful scraping includes delay and user-agent headers."
+          "explanation": "Residential IPs appear as regular users."
         },
         {
-          "question": "You get blocked after 3 requests. You:",
+          "question": "Data appears after button clicks. You:",
           "options": {
-            "A": "Add headers and delays",
-            "B": "Scrape faster",
-            "C": "Switch to Excel",
-            "D": "Scrape from your neighbor\u2019s WiFi"
+            "A": "Programmatically trigger DOM events",
+            "B": "Use image recognition to click",
+            "C": "Simulate tab key presses",
+            "D": "Outsource to Mechanical Turk"
           },
           "correct": "A",
-          "explanation": "Respectful scraping includes delay and user-agent headers."
+          "explanation": "Proper event triggering mimics user behavior."
         },
         {
-          "question": "You get blocked after 3 requests. You:",
+          "question": "The site requires login. You:",
           "options": {
-            "A": "Add headers and delays",
-            "B": "Scrape faster",
-            "C": "Switch to Excel",
-            "D": "Scrape from your neighbor\u2019s WiFi"
+            "A": "Check if a public API exists first",
+            "B": "Create a fake account",
+            "C": "Brute force common credentials",
+            "D": "Hack the mainframe"
           },
           "correct": "A",
-          "explanation": "Respectful scraping includes delay and user-agent headers."
+          "explanation": "Always prefer authorized access methods."
         },
         {
-          "question": "You get blocked after 3 requests. You:",
+          "question": "You accidentally DDoS a small site. You:",
           "options": {
-            "A": "Add headers and delays",
-            "B": "Scrape faster",
-            "C": "Switch to Excel",
-            "D": "Scrape from your neighbor\u2019s WiFi"
+            "A": "Immediately stop and apologize",
+            "B": "Blame their weak servers",
+            "C": "Switch to scraping Google Cache",
+            "D": "Donate to their hosting"
           },
           "correct": "A",
-          "explanation": "Respectful scraping includes delay and user-agent headers."
+          "explanation": "Ethical scraping includes damage control."
         }
       ]
     },
+
     {
       "id": "adapting_to_change",
       "title": " Change is Inevitable. So is Crying.",

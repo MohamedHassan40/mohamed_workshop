@@ -29,7 +29,7 @@ def inject_data():
 @app.route('/')
 def index():
     session.clear()
-    return render_template('intro.html', intro=data['intro'])
+    return render_template('index.html', intro=data['intro'])
 
 @app.route('/phase/<int:phase_index>', methods=['GET', 'POST'])
 def phase(phase_index):
