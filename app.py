@@ -1,7 +1,6 @@
 from flask import Flask, render_template, request, redirect, url_for, session
 import json
 
-app.secret_key = "aodsiasdioaosd"
 
 # Make `data` available in all templates
 import re
@@ -10,6 +9,8 @@ app = Flask(
     template_folder="website/templates",     # 👈 Add this
     static_folder="website/static"           # 👈 Optional, if you use static files
 )
+app.secret_key = "aodsiasdioaosd"
+
 with open('website/data/questions.json', encoding='utf-8') as f:
     data = json.load(f)
 
