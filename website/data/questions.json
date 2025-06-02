@@ -1,6 +1,6 @@
 {
   "intro": {
-    "title": "\ud83d\ude80 Mindset & Tech Adventure",
+    "title": "🚀 Mindset & Tech Adventure",
     "description": "Develop both your mindset and technical skills through hilarious and interactive challenges",
     "subtitle": "Train your brain and your code skills while laughing through the pain"
   },
@@ -126,10 +126,7 @@
         }
       ]
     },
-
-
-
- {
+    {
       "id": "web_tech",
       "title": "Web Technologies",
       "icon": "💻",
@@ -250,7 +247,7 @@
         }
       ]
     },
-{
+    {
       "id": "scraping_detective_agency",
       "title": "🕵️ Scraper's Detective Agency",
       "icon": "🕵️",
@@ -371,730 +368,564 @@
         }
       ]
     },
-
     {
       "id": "adapting_to_change",
-      "title": " Change is Inevitable. So is Crying.",
-      "icon": "\ud83d\ude2d",
+      "title": "Change is Inevitable. So is Crying.",
+      "icon": "😭",
       "intro": "Learn to survive shifting requirements and emotional damage",
       "video_url": "https://www.example.com/videos/change_happens.mp4",
       "description": "Nothing is final. Clients change their minds. PMs forget what they said. You adapt.",
       "scenario": "You just finished the feature. The PM says, 'Actually, we decided to pivot.'",
       "questions": [
         {
-          "question": "Best reaction to last-minute changes:",
+          "question": "The client changes requirements mid-sprint. You:",
           "options": {
-            "A": "Flip table",
-            "B": "Update the Jira ticket and ask clarifying questions",
-            "C": "Apply for leave",
-            "D": "Pretend your mic is broken"
+            "A": "Document the change and estimate impact",
+            "B": "Implement both versions secretly",
+            "C": "Tell them it's too late",
+            "D": "Quit on the spot"
           },
-          "correct": "B",
-          "explanation": "Be the calm in the feature-storm."
+          "correct": "A",
+          "explanation": "Professionalism means managing change properly."
         },
         {
-          "question": "Best reaction to last-minute changes:",
+          "question": "The design changes after you coded it. You:",
           "options": {
-            "A": "Flip table",
-            "B": "Update the Jira ticket and ask clarifying questions",
-            "C": "Apply for leave",
-            "D": "Pretend your mic is broken"
+            "A": "Ask what problem the new design solves",
+            "B": "Push back with technical constraints",
+            "C": "Implement it with obvious bugs",
+            "D": "Email the CEO about wasted time"
           },
-          "correct": "B",
-          "explanation": "Be the calm in the feature-storm."
+          "correct": "A",
+          "explanation": "Understanding the why behind changes helps adaptation."
         },
         {
-          "question": "Best reaction to last-minute changes:",
+          "question": "Your tech stack gets replaced. You:",
           "options": {
-            "A": "Flip table",
-            "B": "Update the Jira ticket and ask clarifying questions",
-            "C": "Apply for leave",
-            "D": "Pretend your mic is broken"
+            "A": "Identify transferable concepts between stacks",
+            "B": "Sabotage the new stack's adoption",
+            "C": "Update your resume immediately",
+            "D": "Claim expertise in the new stack"
           },
-          "correct": "B",
-          "explanation": "Be the calm in the feature-storm."
+          "correct": "A",
+          "explanation": "Core programming concepts transcend specific technologies."
         },
         {
-          "question": "Best reaction to last-minute changes:",
+          "question": "The deadline moves up two weeks. You:",
           "options": {
-            "A": "Flip table",
-            "B": "Update the Jira ticket and ask clarifying questions",
-            "C": "Apply for leave",
-            "D": "Pretend your mic is broken"
+            "A": "Identify must-have vs nice-to-have features",
+            "B": "Work 80-hour weeks",
+            "C": "Lower quality standards silently",
+            "D": "Blame the sales team"
           },
-          "correct": "B",
-          "explanation": "Be the calm in the feature-storm."
+          "correct": "A",
+          "explanation": "Scope negotiation is a key professional skill."
         },
         {
-          "question": "Best reaction to last-minute changes:",
+          "question": "Your project gets cancelled after 6 months. You:",
           "options": {
-            "A": "Flip table",
-            "B": "Update the Jira ticket and ask clarifying questions",
-            "C": "Apply for leave",
-            "D": "Pretend your mic is broken"
+            "A": "Document lessons learned for next time",
+            "B": "Delete all your code in protest",
+            "C": "Badmouth leadership at happy hour",
+            "D": "Take a long 'mental health' break"
           },
-          "correct": "B",
-          "explanation": "Be the calm in the feature-storm."
+          "correct": "A",
+          "explanation": "Every project teaches valuable lessons."
         },
         {
-          "question": "Best reaction to last-minute changes:",
+          "question": "Your role changes to include DevOps. You:",
           "options": {
-            "A": "Flip table",
-            "B": "Update the Jira ticket and ask clarifying questions",
-            "C": "Apply for leave",
-            "D": "Pretend your mic is broken"
+            "A": "Learn the basics of CI/CD pipelines",
+            "B": "Claim you're allergic to terminals",
+            "C": "Break production immediately",
+            "D": "Demand a title change and raise"
           },
-          "correct": "B",
-          "explanation": "Be the calm in the feature-storm."
+          "correct": "A",
+          "explanation": "Modern developers benefit from ops knowledge."
         },
         {
-          "question": "Best reaction to last-minute changes:",
+          "question": "The company pivots to blockchain. You:",
           "options": {
-            "A": "Flip table",
-            "B": "Update the Jira ticket and ask clarifying questions",
-            "C": "Apply for leave",
-            "D": "Pretend your mic is broken"
+            "A": "Evaluate if the use case makes sense",
+            "B": "Add 'blockchain expert' to LinkedIn",
+            "C": "Invest in crypto with company funds",
+            "D": "Explain why this is a terrible idea"
           },
-          "correct": "B",
-          "explanation": "Be the calm in the feature-storm."
+          "correct": "A",
+          "explanation": "Critical thinking beats blind adoption."
         },
         {
-          "question": "Best reaction to last-minute changes:",
+          "question": "Your manager leaves abruptly. You:",
           "options": {
-            "A": "Flip table",
-            "B": "Update the Jira ticket and ask clarifying questions",
-            "C": "Apply for leave",
-            "D": "Pretend your mic is broken"
+            "A": "Document current priorities and open questions",
+            "B": "Take advantage of the leadership vacuum",
+            "C": "Panic about who will approve your PTO",
+            "D": "Also start looking for new jobs"
           },
-          "correct": "B",
-          "explanation": "Be the calm in the feature-storm."
+          "correct": "A",
+          "explanation": "Professionalism means maintaining continuity."
         },
         {
-          "question": "Best reaction to last-minute changes:",
+          "question": "The office switches to open seating. You:",
           "options": {
-            "A": "Flip table",
-            "B": "Update the Jira ticket and ask clarifying questions",
-            "C": "Apply for leave",
-            "D": "Pretend your mic is broken"
+            "A": "Invest in good headphones",
+            "B": "Claim the best spot permanently",
+            "C": "Work from home indefinitely",
+            "D": "Start a petition against it"
           },
-          "correct": "B",
-          "explanation": "Be the calm in the feature-storm."
+          "correct": "A",
+          "explanation": "Adapting your environment is more effective than resisting."
         },
         {
-          "question": "Best reaction to last-minute changes:",
+          "question": "Your favorite tool gets deprecated. You:",
           "options": {
-            "A": "Flip table",
-            "B": "Update the Jira ticket and ask clarifying questions",
-            "C": "Apply for leave",
-            "D": "Pretend your mic is broken"
+            "A": "Learn its replacement's equivalent features",
+            "B": "Fork the project and maintain it yourself",
+            "C": "Stockpile old versions",
+            "D": "Write a bitter blog post"
           },
-          "correct": "B",
-          "explanation": "Be the calm in the feature-storm."
+          "correct": "A",
+          "explanation": "Tech evolves - flexibility is key."
         }
       ]
     },
     {
       "id": "technical_problem_solving",
-      "title": " Technical Problem Solving",
-      "icon": "\ud83e\udd14",
+      "title": "Technical Problem Solving",
+      "icon": "🔍",
       "intro": "Get serious about fixing bugs (but with memes)",
       "video_url": "https://www.example.com/videos/fix_bugs.mp4",
-      "description": "Bug fixing is like therapy: dig deep, be patient, and sometimes it\u2019s your fault.",
+      "description": "Bug fixing is like therapy: dig deep, be patient, and sometimes it's your fault.",
       "scenario": "500 errors all over production. You have no logs. Do you panic or debug like a ninja?",
       "questions": [
         {
-          "question": "Bug only happens at midnight. You:",
+          "question": "The bug only occurs in production. You:",
           "options": {
-            "A": "Stay up and log it",
-            "B": "Summon the intern",
-            "C": "Ignore it and blame the timezone",
-            "D": "Reboot the server every hour"
+            "A": "Check for environment configuration differences",
+            "B": "Say it works on your machine",
+            "C": "Blame the ops team",
+            "D": "Add more logging and wait"
           },
           "correct": "A",
-          "explanation": "If you can't reproduce it, you can't fix it."
+          "explanation": "Environment discrepancies often cause production issues."
         },
         {
-          "question": "Bug only happens at midnight. You:",
+          "question": "The error message is 'Something went wrong'. You:",
           "options": {
-            "A": "Stay up and log it",
-            "B": "Summon the intern",
-            "C": "Ignore it and blame the timezone",
-            "D": "Reboot the server every hour"
+            "A": "Check server logs for the actual error",
+            "B": "Google the exact message",
+            "C": "Restart everything",
+            "D": "Blame the frontend"
           },
           "correct": "A",
-          "explanation": "If you can't reproduce it, you can't fix it."
+          "explanation": "Generic errors hide specific problems in logs."
         },
         {
-          "question": "Bug only happens at midnight. You:",
+          "question": "The bug is intermittent. You:",
           "options": {
-            "A": "Stay up and log it",
-            "B": "Summon the intern",
-            "C": "Ignore it and blame the timezone",
-            "D": "Reboot the server every hour"
+            "A": "Look for race conditions or timing issues",
+            "B": "Pretend you can't reproduce it",
+            "C": "Add random timeouts everywhere",
+            "D": "Blame cosmic rays"
           },
           "correct": "A",
-          "explanation": "If you can't reproduce it, you can't fix it."
+          "explanation": "Intermittent bugs often involve timing or state."
         },
         {
-          "question": "Bug only happens at midnight. You:",
+          "question": "The stack trace points to library code. You:",
           "options": {
-            "A": "Stay up and log it",
-            "B": "Summon the intern",
-            "C": "Ignore it and blame the timezone",
-            "D": "Reboot the server every hour"
+            "A": "Check your inputs to the library",
+            "B": "File a bug report with the library",
+            "C": "Fork and fix the library",
+            "D": "Switch libraries immediately"
           },
           "correct": "A",
-          "explanation": "If you can't reproduce it, you can't fix it."
+          "explanation": "Most library errors stem from incorrect usage."
         },
         {
-          "question": "Bug only happens at midnight. You:",
+          "question": "The bug appears after recent changes. You:",
           "options": {
-            "A": "Stay up and log it",
-            "B": "Summon the intern",
-            "C": "Ignore it and blame the timezone",
-            "D": "Reboot the server every hour"
+            "A": "Use git bisect to find the culprit commit",
+            "B": "Revert your last merge",
+            "C": "Blame the newest team member",
+            "D": "Claim it was always broken"
           },
           "correct": "A",
-          "explanation": "If you can't reproduce it, you can't fix it."
+          "explanation": "Methodical investigation beats guesswork."
         },
         {
-          "question": "Bug only happens at midnight. You:",
+          "question": "The database query is slow. You:",
           "options": {
-            "A": "Stay up and log it",
-            "B": "Summon the intern",
-            "C": "Ignore it and blame the timezone",
-            "D": "Reboot the server every hour"
+            "A": "EXPLAIN the query plan",
+            "B": "Add more indexes randomly",
+            "C": "Upgrade the database server",
+            "D": "Cache everything in memory"
           },
           "correct": "A",
-          "explanation": "If you can't reproduce it, you can't fix it."
+          "explanation": "Query analysis reveals optimization opportunities."
         },
         {
-          "question": "Bug only happens at midnight. You:",
+          "question": "The UI freezes randomly. You:",
           "options": {
-            "A": "Stay up and log it",
-            "B": "Summon the intern",
-            "C": "Ignore it and blame the timezone",
-            "D": "Reboot the server every hour"
+            "A": "Profile JavaScript performance",
+            "B": "Add a loading spinner",
+            "C": "Reduce the frame rate",
+            "D": "Blame the user's old computer"
           },
           "correct": "A",
-          "explanation": "If you can't reproduce it, you can't fix it."
+          "explanation": "Performance profiling identifies bottlenecks."
         },
         {
-          "question": "Bug only happens at midnight. You:",
+          "question": "The API returns inconsistent data. You:",
           "options": {
-            "A": "Stay up and log it",
-            "B": "Summon the intern",
-            "C": "Ignore it and blame the timezone",
-            "D": "Reboot the server every hour"
+            "A": "Check for caching layers or CDN issues",
+            "B": "Call the API repeatedly until it works",
+            "C": "Build your own data store",
+            "D": "Blame the full moon"
           },
           "correct": "A",
-          "explanation": "If you can't reproduce it, you can't fix it."
+          "explanation": "Caching often causes data consistency problems."
         },
         {
-          "question": "Bug only happens at midnight. You:",
+          "question": "The mobile app crashes on launch. You:",
           "options": {
-            "A": "Stay up and log it",
-            "B": "Summon the intern",
-            "C": "Ignore it and blame the timezone",
-            "D": "Reboot the server every hour"
+            "A": "Check device-specific error reports",
+            "B": "Tell users to reinstall",
+            "C": "Blame the app store",
+            "D": "Push a hotfix without testing"
           },
           "correct": "A",
-          "explanation": "If you can't reproduce it, you can't fix it."
+          "explanation": "Crash analytics reveal device-specific issues."
         },
         {
-          "question": "Bug only happens at midnight. You:",
+          "question": "The tests pass but production breaks. You:",
           "options": {
-            "A": "Stay up and log it",
-            "B": "Summon the intern",
-            "C": "Ignore it and blame the timezone",
-            "D": "Reboot the server every hour"
+            "A": "Compare test vs production data sets",
+            "B": "Delete the tests",
+            "C": "Mock everything in tests",
+            "D": "Blame QA"
           },
           "correct": "A",
-          "explanation": "If you can't reproduce it, you can't fix it."
+          "explanation": "Test environments should mirror production."
         }
       ]
     },
     {
       "id": "standup_circus",
-      "title": " The Daily Standup Circus",
-      "icon": "\ud83c\udfa4",
+      "title": "The Daily Standup Circus",
+      "icon": "🎪",
       "intro": "Learn to sound productive before coffee",
       "video_url": "https://www.example.com/videos/standup.mp4",
       "description": "Standups are performance art. Learn how to summarize chaos in 30 seconds.",
       "scenario": "You forgot what you did yesterday. Do you admit it, invent tasks, or say 'blocked by dependencies'?",
       "questions": [
         {
-          "question": "Best standup trick:",
+          "question": "You actually did nothing yesterday. You:",
           "options": {
-            "A": "Talk fast and confidently",
-            "B": "Say 'waiting on feedback'",
-            "C": "Use buzzwords",
-            "D": "All of the above"
+            "A": "Admit you were stuck and need help",
+            "B": "List minor admin tasks as accomplishments",
+            "C": "Blame missing requirements",
+            "D": "Fake a family emergency"
           },
-          "correct": "D",
-          "explanation": "It\u2019s not lying\u2014it\u2019s agile improv."
+          "correct": "A",
+          "explanation": "Honesty builds trust and gets you help faster."
         },
         {
-          "question": "Best standup trick:",
+          "question": "The overachiever finishes early. You:",
           "options": {
-            "A": "Talk fast and confidently",
-            "B": "Say 'waiting on feedback'",
-            "C": "Use buzzwords",
-            "D": "All of the above"
+            "A": "Ask to pair on their next task",
+            "B": "Claim their work was easier",
+            "C": "Slow your own pace to match",
+            "D": "Sabotage their keyboard"
           },
-          "correct": "D",
-          "explanation": "It\u2019s not lying\u2014it\u2019s agile improv."
+          "correct": "A",
+          "explanation": "Collaboration beats unhealthy competition."
         },
         {
-          "question": "Best standup trick:",
+          "question": "You're stuck on a problem. You:",
           "options": {
-            "A": "Talk fast and confidently",
-            "B": "Say 'waiting on feedback'",
-            "C": "Use buzzwords",
-            "D": "All of the above"
+            "A": "Describe exactly where you're blocked",
+            "B": "Say you're 'still working on it'",
+            "C": "Blame missing documentation",
+            "D": "Claim progress is 'almost done'"
           },
-          "correct": "D",
-          "explanation": "It\u2019s not lying\u2014it\u2019s agile improv."
+          "correct": "A",
+          "explanation": "Specific problems get specific solutions."
         },
         {
-          "question": "Best standup trick:",
+          "question": "The PM asks for an ETA. You:",
           "options": {
-            "A": "Talk fast and confidently",
-            "B": "Say 'waiting on feedback'",
-            "C": "Use buzzwords",
-            "D": "All of the above"
+            "A": "Give a range based on known unknowns",
+            "B": "Promise it by EOD no matter what",
+            "C": "Say 'soon' and avoid eye contact",
+            "D": "Quote Hofstadter's Law humorously"
           },
-          "correct": "D",
-          "explanation": "It\u2019s not lying\u2014it\u2019s agile improv."
+          "correct": "A",
+          "explanation": "Realistic estimates manage expectations."
         },
         {
-          "question": "Best standup trick:",
+          "question": "Someone takes credit for your work. You:",
           "options": {
-            "A": "Talk fast and confidently",
-            "B": "Say 'waiting on feedback'",
-            "C": "Use buzzwords",
-            "D": "All of the above"
+            "A": "Clarify your contribution professionally",
+            "B": "Call them out aggressively",
+            "C": "Undermine their future work",
+            "D": "Complain to HR immediately"
           },
-          "correct": "D",
-          "explanation": "It\u2019s not lying\u2014it\u2019s agile improv."
+          "correct": "A",
+          "explanation": "Professional correction maintains team harmony."
         },
         {
-          "question": "Best standup trick:",
+          "question": "The standup runs over time. You:",
           "options": {
-            "A": "Talk fast and confidently",
-            "B": "Say 'waiting on feedback'",
-            "C": "Use buzzwords",
-            "D": "All of the above"
+            "A": "Suggest tabling discussions for after",
+            "B": "Monopolize with your own issues",
+            "C": "Sigh loudly and check your phone",
+            "D": "Start eating lunch conspicuously"
           },
-          "correct": "D",
-          "explanation": "It\u2019s not lying\u2014it\u2019s agile improv."
+          "correct": "A",
+          "explanation": "Respecting time boundaries helps everyone."
         },
         {
-          "question": "Best standup trick:",
+          "question": "You disagree with the approach. You:",
           "options": {
-            "A": "Talk fast and confidently",
-            "B": "Say 'waiting on feedback'",
-            "C": "Use buzzwords",
-            "D": "All of the above"
+            "A": "Suggest alternatives with rationale",
+            "B": "Passively resist implementing it",
+            "C": "Complain to other team members",
+            "D": "Declare the project doomed"
           },
-          "correct": "D",
-          "explanation": "It\u2019s not lying\u2014it\u2019s agile improv."
+          "correct": "A",
+          "explanation": "Constructive dissent improves outcomes."
         },
         {
-          "question": "Best standup trick:",
+          "question": "The remote team can't hear you. You:",
           "options": {
-            "A": "Talk fast and confidently",
-            "B": "Say 'waiting on feedback'",
-            "C": "Use buzzwords",
-            "D": "All of the above"
+            "A": "Type your update in chat",
+            "B": "Shout and gesture wildly",
+            "C": "Blame their internet",
+            "D": "Pretend you're frozen"
           },
-          "correct": "D",
-          "explanation": "It\u2019s not lying\u2014it\u2019s agile improv."
+          "correct": "A",
+          "explanation": "Adapt communication methods as needed."
         },
         {
-          "question": "Best standup trick:",
+          "question": "You're waiting on another team. You:",
           "options": {
-            "A": "Talk fast and confidently",
-            "B": "Say 'waiting on feedback'",
-            "C": "Use buzzwords",
-            "D": "All of the above"
+            "A": "Document what you need specifically",
+            "B": "Vaguely say you're 'blocked'",
+            "C": "Blame them for all delays",
+            "D": "Start working on something else"
           },
-          "correct": "D",
-          "explanation": "It\u2019s not lying\u2014it\u2019s agile improv."
+          "correct": "A",
+          "explanation": "Clear dependencies get resolved faster."
         },
         {
-          "question": "Best standup trick:",
+          "question": "The standup is pointless. You:",
           "options": {
-            "A": "Talk fast and confidently",
-            "B": "Say 'waiting on feedback'",
-            "C": "Use buzzwords",
-            "D": "All of the above"
+            "A": "Suggest improvements to the format",
+            "B": "Zone out completely",
+            "C": "Hold side conversations",
+            "D": "Skip and claim you forgot"
           },
-          "correct": "D",
-          "explanation": "It\u2019s not lying\u2014it\u2019s agile improv."
+          "correct": "A",
+          "explanation": "Continuous improvement applies to meetings too."
         }
       ]
     },
     {
       "id": "bug_bounty_showdown",
-      "title": " The Bug Bounty Showdown",
-      "icon": "\ud83d\udcb8",
+      "title": "The Bug Bounty Showdown",
+      "icon": "💰",
       "intro": "Hunt bugs like a bounty hunter with caffeine issues",
       "video_url": "https://www.example.com/videos/bug_hunt.mp4",
-      "description": "Every bug you find might be worth $500\u2014or your weekend.",
+      "description": "Every bug you find might be worth $500—or your weekend.",
       "scenario": "Your teammate finds 10 bugs before you even wake up. Will you catch up or sabotage their Wi-Fi?",
       "questions": [
         {
-          "question": "A bug gives access to user data. You:",
+          "question": "You find an XSS vulnerability. First you:",
           "options": {
-            "A": "Report it immediately",
-            "B": "Screenshot it for your blog",
-            "C": "Use it to prank your PM",
-            "D": "Tweet about it"
+            "A": "Document reproduction steps clearly",
+            "B": "Post a screenshot on Twitter",
+            "C": "Demonstrate it to coworkers dramatically",
+            "D": "Demand immediate payment"
           },
           "correct": "A",
-          "explanation": "Ethical hacking = responsible disclosure."
+          "explanation": "Clear reports get fixed (and paid) faster."
         },
         {
-          "question": "A bug gives access to user data. You:",
+          "question": "You discover sensitive data exposure. You:",
           "options": {
-            "A": "Report it immediately",
-            "B": "Screenshot it for your blog",
-            "C": "Use it to prank your PM",
-            "D": "Tweet about it"
+            "A": "Report it through proper channels",
+            "B": "Check if your friends' data is there",
+            "C": "Write a blog post about it",
+            "D": "Leave an anonymous note"
           },
           "correct": "A",
-          "explanation": "Ethical hacking = responsible disclosure."
+          "explanation": "Ethical disclosure protects users."
         },
         {
-          "question": "A bug gives access to user data. You:",
+          "question": "The company ignores your report. You:",
           "options": {
-            "A": "Report it immediately",
-            "B": "Screenshot it for your blog",
-            "C": "Use it to prank your PM",
-            "D": "Tweet about it"
+            "A": "Follow up politely with more details",
+            "B": "Threaten public disclosure",
+            "C": "Exploit it to prove your point",
+            "D": "Sell it on the dark web"
           },
           "correct": "A",
-          "explanation": "Ethical hacking = responsible disclosure."
+          "explanation": "Responsible disclosure requires patience."
         },
         {
-          "question": "A bug gives access to user data. You:",
+          "question": "You find a bug in open source software. You:",
           "options": {
-            "A": "Report it immediately",
-            "B": "Screenshot it for your blog",
-            "C": "Use it to prank your PM",
-            "D": "Tweet about it"
+            "A": "Submit a PR with the fix",
+            "B": "File an issue vaguely",
+            "C": "Fork the project",
+            "D": "Demand maintainer status"
           },
           "correct": "A",
-          "explanation": "Ethical hacking = responsible disclosure."
+          "explanation": "Open source thrives on contributions."
         },
         {
-          "question": "A bug gives access to user data. You:",
+          "question": "The bounty payment is delayed. You:",
           "options": {
-            "A": "Report it immediately",
-            "B": "Screenshot it for your blog",
-            "C": "Use it to prank your PM",
-            "D": "Tweet about it"
+            "A": "Follow up with accounting politely",
+            "B": "Spam their support tickets",
+            "C": "Threaten legal action",
+            "D": "Find more bugs to leverage"
           },
           "correct": "A",
-          "explanation": "Ethical hacking = responsible disclosure."
+          "explanation": "Professionalism pays off long-term."
         },
         {
-          "question": "A bug gives access to user data. You:",
+          "question": "You find a bug in a competitor's product. You:",
           "options": {
-            "A": "Report it immediately",
-            "B": "Screenshot it for your blog",
-            "C": "Use it to prank your PM",
-            "D": "Tweet about it"
+            "A": "Report it to them directly",
+            "B": "Tell your CEO first",
+            "C": "Leak it to press anonymously",
+            "D": "Use it for competitive advantage"
           },
           "correct": "A",
-          "explanation": "Ethical hacking = responsible disclosure."
+          "explanation": "Ethics don't stop at company boundaries."
         },
         {
-          "question": "A bug gives access to user data. You:",
+          "question": "Your bug report gets rejected. You:",
           "options": {
-            "A": "Report it immediately",
-            "B": "Screenshot it for your blog",
-            "C": "Use it to prank your PM",
-            "D": "Tweet about it"
+            "A": "Request clarification on the decision",
+            "B": "Publicly shame their security",
+            "C": "Find a more severe variant",
+            "D": "Give up on bug bounties"
           },
           "correct": "A",
-          "explanation": "Ethical hacking = responsible disclosure."
+          "explanation": "Understanding criteria improves future reports."
         },
         {
-          "question": "A bug gives access to user data. You:",
+          "question": "You accidentally access customer data. You:",
           "options": {
-            "A": "Report it immediately",
-            "B": "Screenshot it for your blog",
-            "C": "Use it to prank your PM",
-            "D": "Tweet about it"
+            "A": "Report the access vector immediately",
+            "B": "Look up celebrities",
+            "C": "Download 'just in case'",
+            "D": "Leave without saying anything"
           },
           "correct": "A",
-          "explanation": "Ethical hacking = responsible disclosure."
+          "explanation": "Ethical hackers respect privacy boundaries."
         },
         {
-          "question": "A bug gives access to user data. You:",
+          "question": "Someone else reports 'your' bug. You:",
           "options": {
-            "A": "Report it immediately",
-            "B": "Screenshot it for your blog",
-            "C": "Use it to prank your PM",
-            "D": "Tweet about it"
+            "A": "Check if your report arrived first",
+            "B": "Accuse them of stealing",
+            "C": "Undermine their reputation",
+            "D": "DDOS their website"
           },
           "correct": "A",
-          "explanation": "Ethical hacking = responsible disclosure."
+          "explanation": "Timestamped reports determine credit."
         },
         {
-          "question": "A bug gives access to user data. You:",
+          "question": "You find a zero-day in production. You:",
           "options": {
-            "A": "Report it immediately",
-            "B": "Screenshot it for your blog",
-            "C": "Use it to prank your PM",
-            "D": "Tweet about it"
+            "A": "Follow the company's disclosure policy",
+            "B": "Demonstrate it at a conference",
+            "C": "Sell it to the highest bidder",
+            "D": "Fix it yourself and deploy"
           },
           "correct": "A",
-          "explanation": "Ethical hacking = responsible disclosure."
+          "explanation": "Responsible disclosure prevents harm."
         }
       ]
     },
     {
       "id": "database_diner",
-      "title": " Database Diner: Order Up!",
-      "icon": "\ud83c\udf7d\ufe0f",
+      "title": "Database Diner: Order Up!",
+      "icon": "🍽️",
       "intro": "Order, normalize, and serve your data hot",
       "video_url": "https://www.example.com/videos/database_diner.mp4",
       "description": "Design schemas like a gourmet chef: organized, delicious, and no duplicates allowed.",
-      "scenario": "Your client\u2019s data is a spreadsheet with 800 columns. You must normalize it before it normalizes you.",
+      "scenario": "Your client's data is a spreadsheet with 800 columns. You must normalize it before it normalizes you.",
       "questions": [
         {
-          "question": "What\u2019s 3rd Normal Form?",
+          "question": "Your queries are slow. First you:",
           "options": {
-            "A": "A dark ritual",
-            "B": "A way to eliminate transitive dependencies",
-            "C": "A new Marvel movie",
-            "D": "Something only DBAs understand"
-          },
-          "correct": "B",
-          "explanation": "3NF = reduce redundancy and dependency on non-key attributes."
-        },
-        {
-          "question": "What\u2019s 3rd Normal Form?",
-          "options": {
-            "A": "A dark ritual",
-            "B": "A way to eliminate transitive dependencies",
-            "C": "A new Marvel movie",
-            "D": "Something only DBAs understand"
-          },
-          "correct": "B",
-          "explanation": "3NF = reduce redundancy and dependency on non-key attributes."
-        },
-        {
-          "question": "What\u2019s 3rd Normal Form?",
-          "options": {
-            "A": "A dark ritual",
-            "B": "A way to eliminate transitive dependencies",
-            "C": "A new Marvel movie",
-            "D": "Something only DBAs understand"
-          },
-          "correct": "B",
-          "explanation": "3NF = reduce redundancy and dependency on non-key attributes."
-        },
-        {
-          "question": "What\u2019s 3rd Normal Form?",
-          "options": {
-            "A": "A dark ritual",
-            "B": "A way to eliminate transitive dependencies",
-            "C": "A new Marvel movie",
-            "D": "Something only DBAs understand"
-          },
-          "correct": "B",
-          "explanation": "3NF = reduce redundancy and dependency on non-key attributes."
-        },
-        {
-          "question": "What\u2019s 3rd Normal Form?",
-          "options": {
-            "A": "A dark ritual",
-            "B": "A way to eliminate transitive dependencies",
-            "C": "A new Marvel movie",
-            "D": "Something only DBAs understand"
-          },
-          "correct": "B",
-          "explanation": "3NF = reduce redundancy and dependency on non-key attributes."
-        },
-        {
-          "question": "What\u2019s 3rd Normal Form?",
-          "options": {
-            "A": "A dark ritual",
-            "B": "A way to eliminate transitive dependencies",
-            "C": "A new Marvel movie",
-            "D": "Something only DBAs understand"
-          },
-          "correct": "B",
-          "explanation": "3NF = reduce redundancy and dependency on non-key attributes."
-        },
-        {
-          "question": "What\u2019s 3rd Normal Form?",
-          "options": {
-            "A": "A dark ritual",
-            "B": "A way to eliminate transitive dependencies",
-            "C": "A new Marvel movie",
-            "D": "Something only DBAs understand"
-          },
-          "correct": "B",
-          "explanation": "3NF = reduce redundancy and dependency on non-key attributes."
-        },
-        {
-          "question": "What\u2019s 3rd Normal Form?",
-          "options": {
-            "A": "A dark ritual",
-            "B": "A way to eliminate transitive dependencies",
-            "C": "A new Marvel movie",
-            "D": "Something only DBAs understand"
-          },
-          "correct": "B",
-          "explanation": "3NF = reduce redundancy and dependency on non-key attributes."
-        },
-        {
-          "question": "What\u2019s 3rd Normal Form?",
-          "options": {
-            "A": "A dark ritual",
-            "B": "A way to eliminate transitive dependencies",
-            "C": "A new Marvel movie",
-            "D": "Something only DBAs understand"
-          },
-          "correct": "B",
-          "explanation": "3NF = reduce redundancy and dependency on non-key attributes."
-        },
-        {
-          "question": "What\u2019s 3rd Normal Form?",
-          "options": {
-            "A": "A dark ritual",
-            "B": "A way to eliminate transitive dependencies",
-            "C": "A new Marvel movie",
-            "D": "Something only DBAs understand"
-          },
-          "correct": "B",
-          "explanation": "3NF = reduce redundancy and dependency on non-key attributes."
-        }
-      ]
-    },
-    {
-      "id": "mindset_gym",
-      "title": "\ufe0f Mindset Gym: No Pain, No Brain",
-      "icon": "\ud83c\udfcb\ufe0f\u200d\u2642\ufe0f",
-      "intro": "Build your mental reps like a brain athlete",
-      "video_url": "https://www.example.com/videos/mindset_gym.mp4",
-      "description": "Mindset isn\u2019t magic. It\u2019s repetition, struggle, and belief that your brain can do pushups too.",
-      "scenario": "You failed 3 coding interviews in a week. Do you keep going or start that bakery you always dreamed of?",
-      "questions": [
-        {
-          "question": "You failed your dream job interview. You:",
-          "options": {
-            "A": "Apply to 3 more companies",
-            "B": "Cry on Twitter",
-            "C": "Switch careers",
-            "D": "Move to a cabin and write a blog"
+            "A": "EXPLAIN ANALYZE the query plan",
+            "B": "Add indexes randomly",
+            "C": "Upgrade the database server",
+            "D": "Blame the ORM"
           },
           "correct": "A",
-          "explanation": "Rejection is redirection (with better practice)."
+          "explanation": "Query analysis reveals optimization opportunities."
         },
         {
-          "question": "You failed your dream job interview. You:",
+          "question": "You notice duplicate data. You:",
           "options": {
-            "A": "Apply to 3 more companies",
-            "B": "Cry on Twitter",
-            "C": "Switch careers",
-            "D": "Move to a cabin and write a blog"
+            "A": "Normalize the schema properly",
+            "B": "Add UNIQUE constraints",
+            "C": "Clean it in the application layer",
+            "D": "Claim it's 'denormalized for performance'"
           },
           "correct": "A",
-          "explanation": "Rejection is redirection (with better practice)."
+          "explanation": "Normalization prevents data anomalies."
         },
         {
-          "question": "You failed your dream job interview. You:",
+          "question": "The joins are expensive. You:",
           "options": {
-            "A": "Apply to 3 more companies",
-            "B": "Cry on Twitter",
-            "C": "Switch careers",
-            "D": "Move to a cabin and write a blog"
+            "A": "Check if denormalization makes sense",
+            "B": "Precompute all possible joins",
+            "C": "Move joins to application code",
+            "D": "Switch to NoSQL immediately"
           },
           "correct": "A",
-          "explanation": "Rejection is redirection (with better practice)."
+          "explanation": "Strategic denormalization can optimize reads."
         },
         {
-          "question": "You failed your dream job interview. You:",
+          "question": "Migrations take hours. You:",
           "options": {
-            "A": "Apply to 3 more companies",
-            "B": "Cry on Twitter",
-            "C": "Switch careers",
-            "D": "Move to a cabin and write a blog"
+            "A": "Implement online schema change patterns",
+            "B": "Run them overnight",
+            "C": "Blame the DBA team",
+            "D": "Stop making schema changes"
           },
           "correct": "A",
-          "explanation": "Rejection is redirection (with better practice)."
+          "explanation": "Modern databases support live migrations."
         },
         {
-          "question": "You failed your dream job interview. You:",
+          "question": "NULL values cause issues. You:",
           "options": {
-            "A": "Apply to 3 more companies",
-            "B": "Cry on Twitter",
-            "C": "Switch careers",
-            "D": "Move to a cabin and write a blog"
+            "A": "Evaluate if NULL is semantically correct",
+            "B": "Replace all NULLs with empty strings",
+            "C": "Add IS NOT NULL constraints everywhere",
+            "D": "Blame Codd for inventing NULL"
           },
           "correct": "A",
-          "explanation": "Rejection is redirection (with better practice)."
+          "explanation": "NULL has specific semantic meaning."
         },
         {
-          "question": "You failed your dream job interview. You:",
+          "question": "The backup failed. You:",
           "options": {
-            "A": "Apply to 3 more companies",
-            "B": "Cry on Twitter",
-            "C": "Switch careers",
-            "D": "Move to a cabin and write a blog"
+            "A": "Verify recovery from last good backup",
+            "B": "Pretend it didn't happen",
+            "C": "Blame the storage team",
+            "D": "Declare backups unnecessary"
           },
           "correct": "A",
-          "explanation": "Rejection is redirection (with better practice)."
-        },
-        {
-          "question": "You failed your dream job interview. You:",
-          "options": {
-            "A": "Apply to 3 more companies",
-            "B": "Cry on Twitter",
-            "C": "Switch careers",
-            "D": "Move to a cabin and write a blog"
-          },
-          "correct": "A",
-          "explanation": "Rejection is redirection (with better practice)."
-        },
-        {
-          "question": "You failed your dream job interview. You:",
-          "options": {
-            "A": "Apply to 3 more companies",
-            "B": "Cry on Twitter",
-            "C": "Switch careers",
-            "D": "Move to a cabin and write a blog"
-          },
-          "correct": "A",
-          "explanation": "Rejection is redirection (with better practice)."
-        },
-        {
-          "question": "You failed your dream job interview. You:",
-          "options": {
-            "A": "Apply to 3 more companies",
-            "B": "Cry on Twitter",
-            "C": "Switch careers",
-            "D": "Move to a cabin and write a blog"
-          },
-          "correct": "A",
-          "explanation": "Rejection is redirection (with better practice)."
-        },
-        {
-          "question": "You failed your dream job interview. You:",
-          "options": {
-            "A": "Apply to 3 more companies",
-            "B": "Cry on Twitter",
-            "C": "Switch careers",
-            "D": "Move to a cabin and write a blog"
-          },
-          "correct": "A",
-          "explanation": "Rejection is redirection (with better practice)."
+          "explanation": "Backups only count if they can be restored."
         }
       ]
     }
