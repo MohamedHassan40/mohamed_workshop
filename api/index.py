@@ -1,12 +1,14 @@
 from flask import Flask, render_template, request, redirect, url_for, session
-import json, re, os
+import json
 
-app = Flask(__name__, static_folder="../website/static", template_folder="../website/templates")
+app = Flask(__name__)
 app.secret_key = "your_secret_key_here"
 
-# Load data
-with open(os.path.join("../website/data/questions.json"), encoding='utf-8') as f:
+# Make `data` available in all templates
+import re
+with open('website/data/questions.json', encoding='utf-8') as f:
     data = json.load(f)
+
 
 def clean_surrogates(obj):
     if isinstance(obj, dict):
@@ -14,12 +16,15 @@ def clean_surrogates(obj):
     elif isinstance(obj, list):
         return [clean_surrogates(i) for i in obj]
     elif isinstance(obj, str):
-        return re.sub(r'[\ud800-\udfff]', '', obj)
+        return re.sub(r'[\ud800-\udfff]', '', obj)  # Remove surrogate characters
     return obj
 
 @app.context_processor
 def inject_data():
     return dict(data=clean_surrogates(data))
+
+
+# JSON data structure (as before)
 
 @app.route('/')
 def index():
@@ -38,12 +43,14 @@ def phase(phase_index):
         correct_count = 0
         total_questions = len(phase['questions'])
 
+        # Loop through each question index
         for i, q in enumerate(phase['questions']):
             key_name = f"phase{phase_index}_q{i}"
             selected = request.form.get(key_name)
             if selected == q['correct']:
                 correct_count += 1
 
+        # Store phase score in session
         if 'scores' not in session:
             session['scores'] = {}
         session['scores'][phase['id']] = correct_count
@@ -72,7 +79,5 @@ def final():
     total_score = sum(session['scores'].values())
     total_questions = sum(len(p['questions']) for p in data['phases'])
     return render_template('final.html', total_score=total_score, total_questions=total_questions)
-
-# Needed for Vercel
-def handler(environ, start_response):
-    return app(environ, start_response)
+if __name__ == "__main__":
+    app.run(debug=True)
