@@ -6,7 +6,7 @@ app.secret_key = "your_secret_key_here"
 
 # Make `data` available in all templates
 import re
-with open('data/questions.json', encoding='utf-8') as f:
+with open('website/data/questions.json', encoding='utf-8') as f:
     data = json.load(f)
 
 
