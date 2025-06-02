@@ -80,4 +80,7 @@ def final():
     total_questions = sum(len(p['questions']) for p in data['phases'])
     return render_template('final.html', total_score=total_score, total_questions=total_questions)
 if __name__ == "__main__":
-    app.run(debug=True)
+    import os
+    port = int(os.environ.get("PORT", 5000))
+    app.run(debug=False, host="0.0.0.0", port=port)
+
