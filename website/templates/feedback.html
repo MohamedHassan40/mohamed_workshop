@@ -91,12 +91,7 @@
         <a href="{{ url_for('phase', phase_index=phase_index + 1) }}" class="nav-button next-phase">
           <span class="button-text">Continue to Next Phase</span>
           <span class="button-icon">→</span>
-        </a>
-      {% else %}
-        <a href="{{ url_for('final') }}" class="nav-button final-results">
-          <span class="button-text">See Final Results</span>
-          <span class="button-icon">🏆</span>
-        </a>
+        </a>       
       {% endif %}
     </div>
   </div>

@@ -27,21 +27,89 @@
             <div class="bg-circle"></div>
         </div>
 
-        <header class="main-header">
-            <div class="header-content">
-                <div class="logo-container">
-                    <h1 class="logo-text">
-                        <span class="logo-main">Elorbany</span>
-                        <span class="logo-main">Workshop</span>
-                    </h1>
+<header class="main-header">
+    <div class="header-content">
+        <div class="logo-container">
+            <h1 class="logo-text">
+                <span class="logo-main">MindTech Lab</span>
+                <span class="logo-sub">by M. Elorbany</span>
+            </h1>
+        </div>
+        <nav class="main-nav">
+            <a href="/" class="nav-link active">Home</a>
+            
+            <!-- Workshops Dropdown -->
+            <div class="dropdown">
+                <button class="dropbtn">Workshops 
+                    <i class="fas fa-chevron-down"></i>
+                </button>
+                <div class="dropdown-content">
+                    <a href="/phase/0">🧠 Mindset Basics</a>
+                    <a href="/phase/1">🎭 Daily Decision Drama</a>
+                    <a href="/phase/2">🤝 Teamwork Survival</a>
+                    <a href="/phase/3">📵 Digital Focus Lab</a>
+                    <a href="/phase/4">🔄 Adapting to Change</a>
+                    <a href="/phase/5">💻 Website Development</a>
+                    <a href="/phase/6">🕸️ Web Scraping</a>
+                    <a href="/phase/7">👨‍💻 Dev vs PM Mindset</a>
                 </div>
-                <nav class="main-nav">
-        <a href="/" class="nav-link">Home</a>
-                    <!-- <a href="#about" class="nav-link">About</a>
-                    <a href="#testimonials" class="nav-link">Testimonials</a> -->
-                </nav>
             </div>
-        </header>
+
+        </nav>
+    </div>
+</header>
+
+<style>
+    /* Dropdown Styles */
+    .dropdown {
+        position: relative;
+        display: inline-block;
+    }
+    .dropbtn {
+        background: transparent;
+        color: #e6f1ff;
+        border: none;
+        cursor: pointer;
+        font-size: 1rem;
+        padding: 0;
+        margin-left: 1.5rem;
+        font-family: inherit;
+        transition: color 0.3s;
+    }
+    .dropbtn:hover {
+        color: #64ffda;
+    }
+    .dropdown-content {
+        display: none;
+        position: absolute;
+        background: #16213e;
+        min-width: 240px;
+        box-shadow: 0 8px 16px rgba(0,0,0,0.2);
+        border-radius: 4px;
+        z-index: 1;
+        padding: 12px 0;
+    }
+    .dropdown-content a {
+        color: #e6f1ff;
+        padding: 8px 16px;
+        text-decoration: none;
+        display: block;
+        transition: background 0.2s;
+    }
+    .dropdown-content a:hover {
+        background: rgba(100, 255, 218, 0.1);
+    }
+    .dropdown:hover .dropdown-content {
+        display: block;
+    }
+    .dropdown i {
+        margin-left: 6px;
+        font-size: 0.8em;
+    }
+</style>
+
+<!-- Font Awesome for chevron icon -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
 
          {% block content %}{% endblock %}
 

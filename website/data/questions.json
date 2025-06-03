@@ -18,56 +18,56 @@
         {
           "question": "What’s the first step to developing a growth mindset?",
           "options": {
-            "A": "Embrace challenges as learning opportunities.",
-            "B": "Avoid tasks where you might fail.",
+            "A": "Avoid tasks where you might fail.",
+            "B": "Embrace challenges as learning opportunities.",
             "C": "Compare yourself to others.",
             "D": "Stick only to what you already know."
           },
-          "correct": "A",
+          "correct": "B",
           "explanation": "A growth mindset starts with seeing challenges as chances to improve."
         },
         {
           "question": "How can you reframe failure positively?",
           "options": {
-            "A": "Ask, 'What can I learn from this?'",
+            "A": "Blame external factors.",
             "B": "Assume you’re not talented enough.",
-            "C": "Blame external factors.",
+            "C": "Ask, 'What can I learn from this?'",
             "D": "Give up immediately."
           },
-          "correct": "A",
+          "correct": "C",
           "explanation": "Failure is feedback, not a final judgment."
         },
         {
           "question": "Why is effort more important than innate talent?",
           "options": {
-            "A": "Effort builds skill over time.",
+            "A": "Effort is irrelevant.",
             "B": "Talent guarantees success.",
             "C": "Only geniuses succeed.",
-            "D": "Effort is irrelevant."
+            "D": "Effort builds skill over time."
           },
-          "correct": "A",
+          "correct": "D",
           "explanation": "Consistent effort leads to mastery, regardless of starting point."
         },
         {
           "question": "What’s a sign of a fixed mindset?",
           "options": {
-            "A": "Thinking, 'I’m just bad at this.'",
-            "B": "Trying new strategies after failing.",
+            "A": "Trying new strategies after failing.",
+            "B": "Members hesitate to speak up.",
             "C": "Asking for help when stuck.",
-            "D": "Celebrating small progress."
+            "D": "Thinking, 'I’m just bad at this.'"
           },
-          "correct": "A",
+          "correct": "D",
           "explanation": "A fixed mindset assumes abilities are unchangeable."
         },
         {
           "question": "How can you cultivate curiosity in learning?",
           "options": {
-            "A": "Ask 'why' and 'how' questions.",
+            "A": "Avoid topics outside your comfort zone.",
             "B": "Memorize answers without understanding.",
-            "C": "Avoid topics outside your comfort zone.",
+            "C": "Ask 'why' and 'how' questions.",
             "D": "Rush through tasks to finish quickly."
           },
-          "correct": "A",
+          "correct": "C",
           "explanation": "Curiosity drives deeper understanding and innovation."
         }
       ]
@@ -84,56 +84,56 @@
         {
           "question": "What’s the best way to prioritize tasks under pressure?",
           "options": {
-            "A": "Focus on the most critical action first.",
-            "B": "Try to fix everything at once.",
+            "A": "Try to fix everything at once.",
+            "B": "Focus on the most critical action first.",
             "C": "Ignore the problem and hope it resolves itself.",
             "D": "Blame others for the situation."
           },
-          "correct": "A",
+          "correct": "B",
           "explanation": "Prioritizing reduces overwhelm and increases effectiveness."
         },
         {
           "question": "How can you stay calm in chaotic situations?",
           "options": {
-            "A": "Take a deep breath and assess options.",
-            "B": "Panic and rush decisions.",
-            "C": "Assume the worst-case scenario.",
+            "A": "Panic and rush decisions.",
+            "B": "Assume the worst-case scenario.",
+            "C": "Take a deep breath and assess options.",
             "D": "Delegate to someone else immediately."
           },
-          "correct": "A",
+          "correct": "C",
           "explanation": "Calmness helps you think clearly and act strategically."
         },
         {
           "question": "Why is adaptability important in daily life?",
           "options": {
-            "A": "Plans often change unexpectedly.",
+            "A": "Only perfectionists succeed.",
             "B": "Rigidity guarantees success.",
             "C": "Chaos is always avoidable.",
-            "D": "Only perfectionists succeed."
+            "D": "Plans often change unexpectedly."
           },
-          "correct": "A",
+          "correct": "D",
           "explanation": "Adaptability lets you navigate uncertainty with confidence."
         },
         {
           "question": "What’s a practical way to prepare for surprises?",
           "options": {
-            "A": "Have backup plans for critical steps.",
-            "B": "Assume everything will go perfectly.",
+            "A": "Assume everything will go perfectly.",
+            "B": "Have backup plans for critical steps.",
             "C": "Avoid planning altogether.",
             "D": "Overprepare to the point of exhaustion."
           },
-          "correct": "A",
+          "correct": "B",
           "explanation": "Backup plans reduce stress when things go wrong."
         },
         {
           "question": "How can you turn a setback into an advantage?",
           "options": {
-            "A": "Look for hidden opportunities in the situation.",
-            "B": "Dwell on what went wrong.",
-            "C": "Pretend the setback didn’t happen.",
+            "A": "Dwell on what went wrong.",
+            "B": "Pretend the setback didn’t happen.",
+            "C": "Look for hidden opportunities in the situation.",
             "D": "Apologize excessively."
           },
-          "correct": "A",
+          "correct": "C",
           "explanation": "Setbacks often reveal creative solutions you wouldn’t have considered."
         }
       ]
@@ -150,56 +150,56 @@
         {
           "question": "What’s the key to resolving team conflicts constructively?",
           "options": {
-            "A": "Listen actively and seek compromise.",
-            "B": "Dominate the conversation.",
+            "A": "Dominate the conversation.",
+            "B": "Listen actively and seek compromise.",
             "C": "Hold grudges silently.",
             "D": "Avoid addressing issues."
           },
-          "correct": "A",
+          "correct": "B",
           "explanation": "Constructive conflict resolution strengthens team dynamics."
         },
         {
           "question": "Why is psychological safety important in teams?",
           "options": {
-            "A": "It encourages risk-taking and honesty.",
-            "B": "It prevents all disagreements.",
+            "A": "It prevents all disagreements.",
+            "B": "It encourages risk-taking and honesty.",
             "C": "It means avoiding hard conversations.",
             "D": "It requires unanimous agreement always."
           },
-          "correct": "A",
+          "correct": "B",
           "explanation": "Psychological safety fosters innovation and trust."
         },
         {
           "question": "How can introverts contribute effectively in teams?",
           "options": {
-            "A": "Share ideas in writing or smaller groups.",
-            "B": "Wait until someone asks for their opinion.",
+            "A": "Wait until someone asks for their opinion.",
+            "B": "Share ideas in writing or smaller groups.",
             "C": "Let extroverts dominate discussions.",
             "D": "Avoid participating to prevent conflict."
           },
-          "correct": "A",
+          "correct": "B",
           "explanation": "Diverse communication styles enrich team outcomes."
         },
         {
           "question": "What’s a sign of poor team dynamics?",
           "options": {
-            "A": "Members hesitate to speak up.",
-            "B": "Healthy debate occurs regularly.",
+            "A": "Healthy debate occurs regularly.",
+            "B": "Members hesitate to speak up.",
             "C": "Tasks are evenly distributed.",
             "D": "Feedback is given respectfully."
           },
-          "correct": "A",
+          "correct": "B",
           "explanation": "Fear of speaking up stifles creativity and problem-solving."
         },
         {
           "question": "How can you build trust with teammates?",
           "options": {
-            "A": "Deliver on promises and admit mistakes.",
-            "B": "Gossip about others’ shortcomings.",
-            "C": "Take credit for shared successes.",
+            "A": "Gossip about others’ shortcomings.",
+            "B": "Take credit for shared successes.",
+            "C": "Deliver on promises and admit mistakes.",
             "D": "Avoid collaborating directly."
           },
-          "correct": "A",
+          "correct": "C",
           "explanation": "Trust is earned through reliability and transparency."
         }
       ]
@@ -216,56 +216,56 @@
         {
           "question": "What’s the most effective way to minimize digital distractions?",
           "options": {
-            "A": "Use app blockers during focus sessions.",
-            "B": "Rely on willpower alone.",
+            "A": "Rely on willpower alone.",
+            "B": "Use app blockers during focus sessions.",
             "C": "Keep all notifications on.",
             "D": "Switch tasks every 2 minutes."
           },
-          "correct": "A",
+          "correct": "B",
           "explanation": "Tools like app blockers reduce temptation and build habits."
         },
         {
           "question": "Why is 'deep work' more productive than multitasking?",
           "options": {
-            "A": "The brain focuses better on one task at a time.",
-            "B": "Multitasking trains your brain to work faster.",
-            "C": "Context switching has no cognitive cost.",
+            "A": "Multitasking trains your brain to work faster.",
+            "B": "It eliminates all breaks.",
+            "C": "The brain focuses better on one task at a time.",
             "D": "All tasks require equal attention."
           },
-          "correct": "A",
+          "correct": "C",
           "explanation": "Deep work maximizes quality and efficiency."
         },
         {
-          "question": "How can the Pomodoro Technique help focus?",
+          "question": "How can the Pomodoro Technique (a time management method that breaks work into intervals, typically 25 minutes in length, separated by short breaks) help focus?",
           "options": {
-            "A": "It breaks work into timed intervals with breaks.",
-            "B": "It encourages working until exhaustion.",
+            "A": "It encourages working until exhaustion.",
+            "B": "It breaks work into timed intervals with breaks.",
             "C": "It eliminates all breaks.",
             "D": "It prioritizes multitasking."
           },
-          "correct": "A",
+          "correct": "B",
           "explanation": "Structured intervals prevent burnout and maintain concentration."
         },
         {
           "question": "What’s a physical way to reduce screen distraction?",
           "options": {
-            "A": "Place your phone in another room.",
-            "B": "Keep it unlocked in your hand.",
+            "A": "Keep it unlocked in your hand.",
+            "B": "Place your phone in another room.",
             "C": "Enable all social media notifications.",
             "D": "Check it every 30 seconds."
           },
-          "correct": "A",
+          "correct": "B",
           "explanation": "Out of sight, out of mind reduces impulsive checking."
         },
         {
           "question": "Why is a cluttered digital workspace harmful?",
           "options": {
-            "A": "It increases cognitive load and stress.",
-            "B": "It helps you find files faster.",
-            "C": "It has no impact on productivity.",
+            "A": "It helps you find files faster.",
+            "B": "It has no impact on productivity.",
+            "C": "It increases cognitive load and stress.",
             "D": "It boosts creativity."
           },
-          "correct": "A",
+          "correct": "C",
           "explanation": "Visual clutter competes for mental bandwidth."
         }
       ]
@@ -282,56 +282,56 @@
         {
           "question": "What’s the first step to adapting to sudden changes?",
           "options": {
-            "A": "Clarify the new requirements.",
-            "B": "Argue against the change.",
+            "A": "Argue against the change.",
+            "B": "Clarify the new requirements.",
             "C": "Panic and freeze.",
             "D": "Ignore the new instructions."
           },
-          "correct": "A",
+          "correct": "B",
           "explanation": "Understanding the goal helps you pivot effectively."
         },
         {
           "question": "How can you develop resilience to change?",
           "options": {
-            "A": "View challenges as temporary and solvable.",
-            "B": "Avoid all uncertain situations.",
+            "A": "Avoid all uncertain situations.",
+            "B": "Rely only on rigid routines.",
             "C": "Assume every change is disastrous.",
-            "D": "Rely only on rigid routines."
+            "D": "View challenges as temporary and solvable."
           },
-          "correct": "A",
+          "correct": "D",
           "explanation": "Resilience comes from flexibility and problem-solving."
         },
         {
           "question": "Why do some people resist change?",
           "options": {
-            "A": "Fear of the unknown or failure.",
-            "B": "They enjoy unpredictability.",
-            "C": "They’re always prepared for everything.",
+            "A": "They enjoy unpredictability.",
+            "B": "They’re always prepared for everything.",
+            "C": "Fear of the unknown or failure.",
             "D": "Change is never beneficial."
           },
-          "correct": "A",
+          "correct": "C",
           "explanation": "Comfort zones feel safe but limit growth."
         },
         {
           "question": "What’s a strategy to manage stress during transitions?",
           "options": {
-            "A": "Break the change into smaller steps.",
-            "B": "Focus only on the big picture.",
-            "C": "Isolate yourself from support.",
+            "A": "Isolate yourself from support.",
+            "B": "Break the change into smaller steps.",
+            "C": "Focus only on the big picture.",
             "D": "Suppress emotions about the change."
           },
-          "correct": "A",
+          "correct": "B",
           "explanation": "Small steps make overwhelming changes manageable."
         },
         {
           "question": "How can change benefit personal growth?",
           "options": {
-            "A": "It builds adaptability and new skills.",
-            "B": "It keeps you in familiar routines.",
-            "C": "It eliminates all risks.",
-            "D": "It guarantees immediate success."
+            "A": "It keeps you in familiar routines.",
+            "B": "It eliminates all risks.",
+            "C": "It guarantees immediate success.",
+            "D": "It builds adaptability and new skills."
           },
-          "correct": "A",
+          "correct": "D",
           "explanation": "Change forces learning and innovation."
         }
       ]
@@ -340,7 +340,7 @@
       "id": "website_development",
       "title": "Website Development",
       "icon": "💻",
-      "intro": "Welcome to the Website Development phase! Should we trust AI? Should we do anything without thinking if it is ethical?",
+      "intro": "Welcome to the Website Development phase!",
       "description": "This phase explores the topic of website development.",
       "scenario": "You finally finish a website for your friend’s bakery. You’re proud of it — it works perfectly on your laptop! But then your friend opens it on her phone… and disaster. Buttons float in the wrong places, text is unreadable, and nothing works. She had already shared the link. Now you feel embarrassed and under pressure to fix it fast.",
       "why": "Web development isn’t just about making things look good — it’s about making them work for everyone, everywhere.",
@@ -348,56 +348,56 @@
         {
           "question": "What’s the purpose of CSS in web development?",
           "options": {
-            "A": "To style and layout web pages.",
-            "B": "To hack into servers.",
+            "A": "To hack into servers.",
+            "B": "To style and layout web pages.",
             "C": "To replace HTML entirely.",
             "D": "To create database tables."
           },
-          "correct": "A",
+          "correct": "B",
           "explanation": "CSS controls visual presentation (colors, fonts, spacing)."
         },
         {
           "question": "Why is mobile-first design important?",
           "options": {
-            "A": "Most users browse on phones.",
-            "B": "Desktop users don’t matter.",
+            "A": "Desktop users don’t matter.",
+            "B": "Most users browse on phones.",
             "C": "Phones are easier to code for.",
             "D": "Mobile sites load slower intentionally."
           },
-          "correct": "A",
+          "correct": "B",
           "explanation": "Designing for mobile ensures usability for the majority."
         },
         {
           "question": "What does 'semantic HTML' mean?",
           "options": {
-            "A": "Using tags that describe content meaning (e.g., <article>).",
-            "B": "Writing code only geniuses understand.",
+            "A": "Writing code only geniuses understand.",
+            "B": "Using tags that describe content meaning (e.g., <article>).",
             "C": "Avoiding all tags except <div>.",
             "D": "Making HTML rhyme like poetry."
           },
-          "correct": "A",
+          "correct": "B",
           "explanation": "Semantic HTML improves accessibility and SEO."
         },
         {
           "question": "How can you test a website’s responsiveness?",
           "options": {
-            "A": "Use browser developer tools to simulate devices.",
-            "B": "Only check on your own phone.",
+            "A": "Only check on your own phone.",
+            "B": "Use browser developer tools to simulate devices.",
             "C": "Assume it works if it looks good on one screen.",
             "D": "Ask users to zoom in manually."
           },
-          "correct": "A",
+          "correct": "B",
           "explanation": "Developer tools let you test multiple screen sizes quickly."
         },
         {
           "question": "What’s a common cause of slow website loading?",
           "options": {
-            "A": "Unoptimized images or large files.",
-            "B": "Too much white space in the code.",
+            "A": "Too much white space in the code.",
+            "B": "Unoptimized images or large files.",
             "C": "Using semantic HTML.",
             "D": "Smaller fonts."
           },
-          "correct": "A",
+          "correct": "B",
           "explanation": "Large media files delay page rendering."
         }
       ]
@@ -406,7 +406,7 @@
       "id": "what_is_scraping",
       "title": "What is Scraping?",
       "icon": "🕸️",
-      "intro": "Welcome to the What is Scraping? phase!",
+      "intro": "Welcome to the What is Scraping? phase! Should we trust AI? Should we do anything without thinking if it is ethical?",
       "video_url": "/static/videos/ethical.mp4",
       "description": "This phase explores the topic of what is scraping?.",
       "scenario": "You’ve discovered a job board with thousands of public listings — but no way to download them. You try copying one by one into a spreadsheet, and after an hour, you’ve only got 42 entries. There has to be a better way. You hear about “web scraping” — a way to extract data automatically. But is it ethical? Is it legal? Can it be done fairly and safely?",
@@ -415,56 +415,56 @@
         {
           "question": "What’s an ethical consideration when scraping data?",
           "options": {
-            "A": "Respect the site’s robots.txt file.",
-            "B": "Scrape as fast as possible to avoid detection.",
+            "A": "Scrape as fast as possible to avoid detection.",
+            "B": "Respect the site’s robots.txt file.",
             "C": "Ignore copyright laws.",
             "D": "Overload the server with requests."
           },
-          "correct": "A",
+          "correct": "B",
           "explanation": "Ethical scraping avoids harming the website or violating terms."
         },
         {
           "question": "Which tool is commonly used for web scraping?",
           "options": {
-            "A": "Python’s BeautifulSoup library.",
-            "B": "Microsoft Excel.",
+            "A": "Microsoft Excel.",
+            "B": "Python’s BeautifulSoup library.",
             "C": "Adobe Photoshop.",
             "D": "A hammer."
           },
-          "correct": "A",
+          "correct": "B",
           "explanation": "BeautifulSoup parses HTML/XML data for extraction."
         },
         {
           "question": "What’s the risk of scraping too aggressively?",
           "options": {
-            "A": "Getting your IP blocked.",
-            "B": "Improving the site’s performance.",
-            "C": "Winning awards for efficiency.",
-            "D": "Making the internet faster."
+            "A": "Improving the site’s performance.",
+            "B": "Winning awards for efficiency.",
+            "C": "Making the internet faster.",
+            "D": "Getting your IP blocked."
           },
-          "correct": "A",
+          "correct": "D",
           "explanation": "Aggressive scraping can resemble a denial-of-service attack."
         },
         {
           "question": "Why might APIs be better than scraping?",
           "options": {
-            "A": "APIs provide structured data intentionally.",
-            "B": "APIs are always slower.",
-            "C": "APIs require no permission.",
+            "A": "APIs are always slower.",
+            "B": "APIs require no permission.",
+            "C": "APIs provide structured data intentionally.",
             "D": "APIs only work for images."
           },
-          "correct": "A",
+          "correct": "C",
           "explanation": "APIs are designed for data sharing and are more reliable."
         },
         {
           "question": "What’s a legal alternative to scraping paywalled content?",
           "options": {
-            "A": "Paying for API access or a subscription.",
-            "B": "Using 10 different VPNs to bypass blocks.",
-            "C": "Threatening the site owner.",
-            "D": "Claiming you’re 'just testing security.'"
+            "A": "Using 10 different VPNs to bypass blocks.",
+            "B": "Threatening the site owner.",
+            "C": "Claiming you’re 'just testing security.'",
+            "D": "Paying for API access or a subscription."
           },
-          "correct": "A",
+          "correct": "D",
           "explanation": "Respecting paywalls supports content creators legally."
         }
       ]
@@ -481,56 +481,56 @@
         {
           "question": "What’s a developer’s primary focus in a project?",
           "options": {
-            "A": "Writing clean, functional code.",
-            "B": "Setting the company’s stock price.",
+            "A": "Setting the company’s stock price.",
+            "B": "Writing clean, functional code.",
             "C": "Designing marketing campaigns.",
             "D": "Ignoring deadlines entirely."
           },
-          "correct": "A",
+          "correct": "B",
           "explanation": "Developers prioritize technical execution and quality."
         },
         {
           "question": "How can PMs and developers align better?",
           "options": {
-            "A": "Regular syncs on priorities and blockers.",
-            "B": "Assuming everyone reads each other’s minds.",
+            "A": "Assuming everyone reads each other’s minds.",
+            "B": "Regular syncs on priorities and blockers.",
             "C": "Blaming each other for missed deadlines.",
             "D": "Working in complete isolation."
           },
-          "correct": "A",
+          "correct": "B",
           "explanation": "Communication bridges the gap between vision and execution."
         },
         {
           "question": "Why do developers dislike scope creep?",
           "options": {
-            "A": "It derails focus and delays delivery.",
-            "B": "They hate all new ideas.",
+            "A": "They hate all new ideas.",
+            "B": "It derails focus and delays delivery.",
             "C": "They enjoy rewriting code constantly.",
             "D": "It makes the project simpler."
           },
-          "correct": "A",
+          "correct": "B",
           "explanation": "Scope creep introduces unpredictability and technical debt."
         },
         {
           "question": "What’s a fair way to estimate project timelines?",
           "options": {
-            "A": "Break tasks down and add buffer time.",
-            "B": "Promise the fastest possible deadline.",
+            "A": "Promise the fastest possible deadline.",
+            "B": "Break tasks down and add buffer time.",
             "C": "Guess randomly to sound confident.",
             "D": "Assume no bugs will ever occur."
           },
-          "correct": "A",
+          "correct": "B",
           "explanation": "Detailed estimates account for complexity and unknowns."
         },
         {
           "question": "How can PMs support developers effectively?",
           "options": {
-            "A": "Shield them from unnecessary interruptions.",
+            "A": "Micromanage variable naming.",
             "B": "Forward every client request immediately.",
-            "C": "Demand hourly progress reports.",
-            "D": "Micromanage variable naming."
+            "C": "Shield them from unnecessary interruptions.",
+            "D": "Demand hourly progress reports."
           },
-          "correct": "A",
+          "correct": "C",
           "explanation": "Protected focus time boosts productivity and morale."
         }
       ]
