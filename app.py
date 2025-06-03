@@ -34,7 +34,7 @@ def inject_data():
 @app.route('/')
 def index():
     session.clear()
-    return render_template('index.html', intro=data['intro'])
+    return render_template('index.html', intro=data['intro'], workshop_data=data)
 
 @app.route('/phase/<int:phase_index>', methods=['GET', 'POST'])
 def phase(phase_index):
@@ -47,15 +47,24 @@ def phase(phase_index):
     if request.method == 'POST':
         correct_count = 0
         total_questions = len(phase['questions'])
+        feedback_list = []
 
-        # Loop through each question index
         for i, q in enumerate(phase['questions']):
             key_name = f"phase{phase_index}_q{i}"
             selected = request.form.get(key_name)
-            if selected == q['correct']:
+            is_correct = selected == q['correct']
+            if is_correct:
                 correct_count += 1
 
-        # Store phase score in session
+            feedback_list.append({
+                "question": q["question"],
+                "selected": selected,
+                "correct": q["correct"],
+                "explanation": q["explanation"],
+                "options": q["options"],
+                "is_correct": is_correct
+            })
+
         if 'scores' not in session:
             session['scores'] = {}
         session['scores'][phase['id']] = correct_count
@@ -66,15 +75,19 @@ def phase(phase_index):
             phase=phase,
             correct_count=correct_count,
             total_questions=total_questions,
+            feedback=feedback_list,
             total_phases=len(phases)
         )
 
+    # 🛠️ THIS was missing before
     return render_template(
         'phase.html',
         phase_index=phase_index,
         phase=phase,
         total_phases=len(phases)
     )
+
+
 
 @app.route('/final')
 def final():

@@ -1,931 +1,537 @@
 {
   "intro": {
     "title": "🚀 Mindset & Tech Adventure",
-    "description": "Develop both your mindset and technical skills through hilarious and interactive challenges",
-    "subtitle": "Train your brain and your code skills while laughing through the pain"
+    "description": "Learn how to think better, work smarter, and understand tech — through easy, funny, and relatable challenges.",
+    "subtitle": "No coding skills required. Just a willingness to grow!"
   },
   "phases": [
     {
       "id": "mindset_basics",
       "title": "Mindset Basics",
       "icon": "🧠",
-      "intro": "Test your understanding of growth vs. fixed mindset principles with realistic and funny situations.",
-      "video_url": "https://www.example.com/videos/mindset.mp4",
-      "description": "Dive into the foundations of a growth mindset: how to embrace challenges, reframe setbacks, and view effort as a path to mastery.",
-      "scenario": "Your app just crashed minutes before a demo. Panic? Blame the intern? Or... channel your inner growth warrior?",
+      "intro": "Welcome to the Mindset Basics phase!",
+      "video_url": "/static/videos/mindest.mp4",
+      "description": "This phase explores the topic of mindset basics.",
+      "scenario": "You’ve just joined an exciting, free online coding challenge with people from all over the world. On Day 1, you're full of enthusiasm — until you realize you misunderstood the instructions. You submitted the wrong file, and the mentor responds with a public “😅 oops!” message in the group. Laughter bubbles in the chat. You feel embarrassed and behind. Others seem to be progressing. You start thinking, “Maybe I’m not smart enough for this.” But wait — is this a failure or a fork in the road? This moment might just be the first step toward building a new kind of mindset.",
+      "why": "Because how you handle this “small failure” defines how far you’ll go. Growth doesn’t come from comfort — it comes from how you respond when things go wrong.",
       "questions": [
         {
-          "question": "How would you reframe: \"I'm not good at this\"?",
+          "question": "What’s the first step to developing a growth mindset?",
           "options": {
-            "A": "I'm not good yet — but I can learn",
-            "B": "That's why I avoid it",
-            "C": "I'll ask someone to do it for me",
-            "D": "Maybe I'll be a poet instead"
+            "A": "Embrace challenges as learning opportunities.",
+            "B": "Avoid tasks where you might fail.",
+            "C": "Compare yourself to others.",
+            "D": "Stick only to what you already know."
           },
           "correct": "A",
-          "explanation": "Growth mindset is reflected in: 'I'm not good yet — but I can learn.'"
+          "explanation": "A growth mindset starts with seeing challenges as chances to improve."
         },
         {
-          "question": "Your code fails 3 times in a row. You think:",
+          "question": "How can you reframe failure positively?",
           "options": {
-            "A": "Each failure teaches me what doesn't work",
-            "B": "I'm just not cut out for coding",
-            "C": "The computer clearly hates me",
-            "D": "Time to switch careers"
+            "A": "Ask, 'What can I learn from this?'",
+            "B": "Assume you’re not talented enough.",
+            "C": "Blame external factors.",
+            "D": "Give up immediately."
           },
           "correct": "A",
-          "explanation": "Failures are stepping stones, not stop signs."
+          "explanation": "Failure is feedback, not a final judgment."
         },
         {
-          "question": "A colleague solves a problem faster than you. You:",
+          "question": "Why is effort more important than innate talent?",
           "options": {
-            "A": "Ask them to explain their approach",
-            "B": "Feel inadequate and give up",
-            "C": "Pretend you knew the answer all along",
-            "D": "Complain the problem was unfair"
+            "A": "Effort builds skill over time.",
+            "B": "Talent guarantees success.",
+            "C": "Only geniuses succeed.",
+            "D": "Effort is irrelevant."
           },
           "correct": "A",
-          "explanation": "Learning from others accelerates growth."
+          "explanation": "Consistent effort leads to mastery, regardless of starting point."
         },
         {
-          "question": "When facing a difficult bug, you:",
+          "question": "What’s a sign of a fixed mindset?",
           "options": {
-            "A": "Break it down into smaller testable parts",
-            "B": "Assume it's someone else's fault",
-            "C": "Wait for someone else to fix it",
-            "D": "Blame the programming language"
+            "A": "Thinking, 'I’m just bad at this.'",
+            "B": "Trying new strategies after failing.",
+            "C": "Asking for help when stuck.",
+            "D": "Celebrating small progress."
           },
           "correct": "A",
-          "explanation": "Systematic problem-solving beats frustration."
+          "explanation": "A fixed mindset assumes abilities are unchangeable."
         },
         {
-          "question": "After negative feedback on your code, you:",
+          "question": "How can you cultivate curiosity in learning?",
           "options": {
-            "A": "Identify specific areas to improve",
-            "B": "Assume the reviewer is being mean",
-            "C": "Ignore the feedback completely",
-            "D": "Secretly critique their code in revenge"
+            "A": "Ask 'why' and 'how' questions.",
+            "B": "Memorize answers without understanding.",
+            "C": "Avoid topics outside your comfort zone.",
+            "D": "Rush through tasks to finish quickly."
           },
           "correct": "A",
-          "explanation": "Constructive criticism is fuel for growth."
-        },
-        {
-          "question": "When stuck on a problem for hours, you:",
-          "options": {
-            "A": "Take a break and return with fresh eyes",
-            "B": "Keep banging your head against it",
-            "C": "Pretend the problem doesn't exist",
-            "D": "Declare the task impossible"
-          },
-          "correct": "A",
-          "explanation": "Stepping away often provides new perspectives."
-        },
-        {
-          "question": "A new technology is required for a project. You:",
-          "options": {
-            "A": "Dive into docs and build a small prototype",
-            "B": "Say you already know it (then panic)",
-            "C": "Avoid the task until reassigned",
-            "D": "Claim the tech is just a fad"
-          },
-          "correct": "A",
-          "explanation": "Comfort with learning beats fake expertise."
-        },
-        {
-          "question": "Your pull request gets rejected. You:",
-          "options": {
-            "A": "Request specific feedback to improve",
-            "B": "Take it personally and pout",
-            "C": "Sneak your code into production",
-            "D": "Badmouth the reviewer to coworkers"
-          },
-          "correct": "A",
-          "explanation": "Code reviews are learning opportunities."
-        },
-        {
-          "question": "When pair programming with someone more skilled, you:",
-          "options": {
-            "A": "Ask questions about their approach",
-            "B": "Let them do all the work",
-            "C": "Pretend to understand when you don't",
-            "D": "Secretly compete against them"
-          },
-          "correct": "A",
-          "explanation": "Collaboration beats competition for growth."
-        },
-        {
-          "question": "After solving a tough problem, you:",
-          "options": {
-            "A": "Document the solution for future reference",
-            "B": "Quickly move to the next task",
-            "C": "Brag about how easy it was",
-            "D": "Hope you never see it again"
-          },
-          "correct": "A",
-          "explanation": "Reflection solidifies learning."
+          "explanation": "Curiosity drives deeper understanding and innovation."
         }
       ]
     },
     {
-      "id": "web_tech",
-      "title": "Web Technologies",
-      "icon": "💻",
-      "intro": "Flex your frontend and backend basics",
-      "video_url": "https://www.example.com/videos/web_tech.mp4",
-      "description": "You'll cover HTML, CSS, JS, frameworks, and how to avoid breaking everything with one div.",
-      "scenario": "You deployed the homepage. It works on your machine. On everyone else's? A blank screen of doom.",
+      "id": "daily_decision_drama",
+      "title": "Daily Decision Drama",
+      "icon": "🎭",
+      "intro": "Welcome to the Daily Decision Drama phase!",
+      "description": "This phase explores the topic of daily decision drama.",
+      "scenario": "It’s the morning of your dream job interview. You wake up early, feeling prepared. Then, chaos strikes. Coffee spills on your shirt. Your phone battery dies. Your Uber driver cancels. Now you’re running 20 minutes late, and everything feels like it's crashing down. You take a deep breath. You’re at a crossroads — spiral into panic, or choose your next best move.",
+      "why": "Real life rarely goes to plan. Your success depends less on the perfect moment — and more on how you react when things fall apart.",
       "questions": [
         {
-          "question": "Your CSS isn't applying. First you:",
+          "question": "What’s the best way to prioritize tasks under pressure?",
           "options": {
-            "A": "Check browser dev tools for errors",
-            "B": "Add !important to everything",
-            "C": "Blame the framework",
-            "D": "Refresh repeatedly while praying"
+            "A": "Focus on the most critical action first.",
+            "B": "Try to fix everything at once.",
+            "C": "Ignore the problem and hope it resolves itself.",
+            "D": "Blame others for the situation."
           },
           "correct": "A",
-          "explanation": "Dev tools reveal CSS application issues."
+          "explanation": "Prioritizing reduces overwhelm and increases effectiveness."
         },
         {
-          "question": "JavaScript throws 'undefined is not a function'. You:",
+          "question": "How can you stay calm in chaotic situations?",
           "options": {
-            "A": "Check variable scope and initialization",
-            "B": "Wrap everything in try/catch",
-            "C": "Restart your computer",
-            "D": "Switch to jQuery"
+            "A": "Take a deep breath and assess options.",
+            "B": "Panic and rush decisions.",
+            "C": "Assume the worst-case scenario.",
+            "D": "Delegate to someone else immediately."
           },
           "correct": "A",
-          "explanation": "This usually indicates calling a non-existent method."
+          "explanation": "Calmness helps you think clearly and act strategically."
         },
         {
-          "question": "The page renders differently in Firefox. You:",
+          "question": "Why is adaptability important in daily life?",
           "options": {
-            "A": "Check for unsupported features on caniuse.com",
-            "B": "Tell users to switch browsers",
-            "C": "Blame Mozilla",
-            "D": "Add browser-specific hacks"
+            "A": "Plans often change unexpectedly.",
+            "B": "Rigidity guarantees success.",
+            "C": "Chaos is always avoidable.",
+            "D": "Only perfectionists succeed."
           },
           "correct": "A",
-          "explanation": "Cross-browser testing prevents surprises."
+          "explanation": "Adaptability lets you navigate uncertainty with confidence."
         },
         {
-          "question": "Your React component won't update. You:",
+          "question": "What’s a practical way to prepare for surprises?",
           "options": {
-            "A": "Check state/props with React DevTools",
-            "B": "ForceUpdate() everywhere",
-            "C": "Rewrite in vanilla JS",
-            "D": "Blame hooks"
+            "A": "Have backup plans for critical steps.",
+            "B": "Assume everything will go perfectly.",
+            "C": "Avoid planning altogether.",
+            "D": "Overprepare to the point of exhaustion."
           },
           "correct": "A",
-          "explanation": "State management issues often cause update problems."
+          "explanation": "Backup plans reduce stress when things go wrong."
         },
         {
-          "question": "The API returns 500 errors. You:",
+          "question": "How can you turn a setback into an advantage?",
           "options": {
-            "A": "Check network tab for response details",
-            "B": "Refresh until it works",
-            "C": "Blame the backend team",
-            "D": "Mock the data and pretend it's fine"
+            "A": "Look for hidden opportunities in the situation.",
+            "B": "Dwell on what went wrong.",
+            "C": "Pretend the setback didn’t happen.",
+            "D": "Apologize excessively."
           },
           "correct": "A",
-          "explanation": "Server errors require examining the actual response."
-        },
-        {
-          "question": "Your flexbox layout breaks in IE11. You:",
-          "options": {
-            "A": "Research known IE flexbox bugs",
-            "B": "Tell clients to upgrade",
-            "C": "Use floats instead",
-            "D": "Add '-ms-' prefixes randomly"
-          },
-          "correct": "A",
-          "explanation": "IE has specific flexbox implementation quirks."
-        },
-        {
-          "question": "The page flashes unstyled content. You:",
-          "options": {
-            "A": "Implement critical CSS loading",
-            "B": "Add a loading spinner",
-            "C": "Make the background white",
-            "D": "Ignore it - it's fast enough"
-          },
-          "correct": "A",
-          "explanation": "FOUC indicates CSS loading timing issues."
-        },
-        {
-          "question": "Your media queries aren't working. You:",
-          "options": {
-            "A": "Check viewport meta tag",
-            "B": "Use JavaScript resize handlers",
-            "C": "Make everything mobile-first",
-            "D": "Blame the device manufacturer"
-          },
-          "correct": "A",
-          "explanation": "Missing viewport tag breaks responsive design."
-        },
-        {
-          "question": "The JavaScript bundle is too large. You:",
-          "options": {
-            "A": "Analyze with webpack-bundle-analyzer",
-            "B": "Tell users to get better internet",
-            "C": "Move everything to CDN",
-            "D": "Blame node_modules"
-          },
-          "correct": "A",
-          "explanation": "Bundle analysis reveals optimization opportunities."
-        },
-        {
-          "question": "The CSS animations are janky. You:",
-          "options": {
-            "A": "Check will-change and transform properties",
-            "B": "Reduce animation duration",
-            "C": "Use JavaScript animations instead",
-            "D": "Blame the GPU"
-          },
-          "correct": "A",
-          "explanation": "Hardware acceleration improves animation performance."
+          "explanation": "Setbacks often reveal creative solutions you wouldn’t have considered."
         }
       ]
     },
     {
-      "id": "scraping_detective_agency",
-      "title": "🕵️ Scraper's Detective Agency",
-      "icon": "🕵️",
-      "intro": "Scrape responsibly (and stylishly)",
-      "video_url": "https://www.example.com/videos/scraping_detective.mp4",
-      "description": "Learn to crawl data without being crawled by guilt or firewalls.",
-      "scenario": "Your scraper got blocked. Do you switch IPs, add delay, or send the website cookies?",
+      "id": "teamwork_survival_game",
+      "title": "Teamwork Survival Game",
+      "icon": "🤝",
+      "intro": "Welcome to the Teamwork Survival Game phase!",
+      "description": "This phase explores the topic of teamwork survival game.",
+      "scenario": "You’re working with a group on a big event. At first, you're excited to contribute — but one teammate takes over everything and steamrolls your ideas. The rest follow along, and you start to fade into the background. Then, right before the event, things start falling apart. That same teammate turns to you for help. You feel torn: Do you save the day, or let the team face the mess they made?",
+      "why": "Teamwork is messy — but growth comes from how you choose to engage, especially when your ego is bruised.",
       "questions": [
         {
-          "question": "You get HTTP 429 (Too Many Requests). You:",
+          "question": "What’s the key to resolving team conflicts constructively?",
           "options": {
-            "A": "Implement exponential backoff",
-            "B": "Switch to a VPN",
-            "C": "Scrape during off-hours",
-            "D": "Pretend to be Googlebot"
+            "A": "Listen actively and seek compromise.",
+            "B": "Dominate the conversation.",
+            "C": "Hold grudges silently.",
+            "D": "Avoid addressing issues."
           },
           "correct": "A",
-          "explanation": "Backoff shows respect for server resources."
+          "explanation": "Constructive conflict resolution strengthens team dynamics."
         },
         {
-          "question": "The site uses Cloudflare protection. You:",
+          "question": "Why is psychological safety important in teams?",
           "options": {
-            "A": "Analyze browser fingerprint requirements",
-            "B": "Use headless Chrome with stealth plugins",
-            "C": "Find an unofficial API",
-            "D": "Scrape from Wayback Machine"
+            "A": "It encourages risk-taking and honesty.",
+            "B": "It prevents all disagreements.",
+            "C": "It means avoiding hard conversations.",
+            "D": "It requires unanimous agreement always."
           },
           "correct": "A",
-          "explanation": "Understanding protections helps craft ethical solutions."
+          "explanation": "Psychological safety fosters innovation and trust."
         },
         {
-          "question": "CAPTCHAs appear after 5 requests. You:",
+          "question": "How can introverts contribute effectively in teams?",
           "options": {
-            "A": "Implement human-like mouse movements",
-            "B": "Use a CAPTCHA solving service",
-            "C": "Rotate user agents aggressively",
-            "D": "Train a neural network to solve them"
+            "A": "Share ideas in writing or smaller groups.",
+            "B": "Wait until someone asks for their opinion.",
+            "C": "Let extroverts dominate discussions.",
+            "D": "Avoid participating to prevent conflict."
           },
           "correct": "A",
-          "explanation": "Human-like behavior reduces bot detection."
+          "explanation": "Diverse communication styles enrich team outcomes."
         },
         {
-          "question": "Data loads via JavaScript. You:",
+          "question": "What’s a sign of poor team dynamics?",
           "options": {
-            "A": "Use Puppeteer to render the page",
-            "B": "Find XHR endpoints in dev tools",
-            "C": "Ask the site for an API",
-            "D": "Manually copy the data"
+            "A": "Members hesitate to speak up.",
+            "B": "Healthy debate occurs regularly.",
+            "C": "Tasks are evenly distributed.",
+            "D": "Feedback is given respectfully."
           },
           "correct": "A",
-          "explanation": "Headless browsers execute JS like real users."
+          "explanation": "Fear of speaking up stifles creativity and problem-solving."
         },
         {
-          "question": "The site changes its HTML weekly. You:",
+          "question": "How can you build trust with teammates?",
           "options": {
-            "A": "Build resilient selectors using data attributes",
-            "B": "Complain to the webmaster",
-            "C": "Rewrite scrapers constantly",
-            "D": "Use visual regression testing"
+            "A": "Deliver on promises and admit mistakes.",
+            "B": "Gossip about others’ shortcomings.",
+            "C": "Take credit for shared successes.",
+            "D": "Avoid collaborating directly."
           },
           "correct": "A",
-          "explanation": "Stable selectors prevent frequent breakage."
+          "explanation": "Trust is earned through reliability and transparency."
+        }
+      ]
+    },
+    {
+      "id": "digital_focus_lab",
+      "title": "Digital Focus Lab",
+      "icon": "📵",
+      "intro": "Welcome to the Digital Focus Lab phase!",
+      "description": "This phase explores the topic of digital focus lab.",
+      "scenario": "You’ve got two hours to study for your big exam. You sit at your desk with every intention to focus. But then… your phone buzzes: a meme, a DM, a like. “Just five minutes,” you say — over and over. Suddenly, it’s been two hours, and you haven’t even started. You feel frustrated and guilty. Can you really control your focus in a digital world?",
+      "why": "Your attention is one of your most valuable tools. Mastering it means mastering your time, learning, and future.",
+      "questions": [
+        {
+          "question": "What’s the most effective way to minimize digital distractions?",
+          "options": {
+            "A": "Use app blockers during focus sessions.",
+            "B": "Rely on willpower alone.",
+            "C": "Keep all notifications on.",
+            "D": "Switch tasks every 2 minutes."
+          },
+          "correct": "A",
+          "explanation": "Tools like app blockers reduce temptation and build habits."
         },
         {
-          "question": "You need to scrape 100,000 pages. You:",
+          "question": "Why is 'deep work' more productive than multitasking?",
           "options": {
-            "A": "Implement distributed queueing with rate limits",
-            "B": "Run 100 Chrome instances",
-            "C": "Rent a botnet",
-            "D": "Do it serially over weeks"
+            "A": "The brain focuses better on one task at a time.",
+            "B": "Multitasking trains your brain to work faster.",
+            "C": "Context switching has no cognitive cost.",
+            "D": "All tasks require equal attention."
           },
           "correct": "A",
-          "explanation": "Distributed systems require careful coordination."
+          "explanation": "Deep work maximizes quality and efficiency."
         },
         {
-          "question": "The site blocks your IP range. You:",
+          "question": "How can the Pomodoro Technique help focus?",
           "options": {
-            "A": "Use residential proxies sparingly",
-            "B": "Switch to mobile data",
-            "C": "Scrape from a coffee shop",
-            "D": "Threaten legal action"
+            "A": "It breaks work into timed intervals with breaks.",
+            "B": "It encourages working until exhaustion.",
+            "C": "It eliminates all breaks.",
+            "D": "It prioritizes multitasking."
           },
           "correct": "A",
-          "explanation": "Residential IPs appear as regular users."
+          "explanation": "Structured intervals prevent burnout and maintain concentration."
         },
         {
-          "question": "Data appears after button clicks. You:",
+          "question": "What’s a physical way to reduce screen distraction?",
           "options": {
-            "A": "Programmatically trigger DOM events",
-            "B": "Use image recognition to click",
-            "C": "Simulate tab key presses",
-            "D": "Outsource to Mechanical Turk"
+            "A": "Place your phone in another room.",
+            "B": "Keep it unlocked in your hand.",
+            "C": "Enable all social media notifications.",
+            "D": "Check it every 30 seconds."
           },
           "correct": "A",
-          "explanation": "Proper event triggering mimics user behavior."
+          "explanation": "Out of sight, out of mind reduces impulsive checking."
         },
         {
-          "question": "The site requires login. You:",
+          "question": "Why is a cluttered digital workspace harmful?",
           "options": {
-            "A": "Check if a public API exists first",
-            "B": "Create a fake account",
-            "C": "Brute force common credentials",
-            "D": "Hack the mainframe"
+            "A": "It increases cognitive load and stress.",
+            "B": "It helps you find files faster.",
+            "C": "It has no impact on productivity.",
+            "D": "It boosts creativity."
           },
           "correct": "A",
-          "explanation": "Always prefer authorized access methods."
-        },
-        {
-          "question": "You accidentally DDoS a small site. You:",
-          "options": {
-            "A": "Immediately stop and apologize",
-            "B": "Blame their weak servers",
-            "C": "Switch to scraping Google Cache",
-            "D": "Donate to their hosting"
-          },
-          "correct": "A",
-          "explanation": "Ethical scraping includes damage control."
+          "explanation": "Visual clutter competes for mental bandwidth."
         }
       ]
     },
     {
       "id": "adapting_to_change",
-      "title": "Change is Inevitable. So is Crying.",
-      "icon": "😭",
-      "intro": "Learn to survive shifting requirements and emotional damage",
-      "video_url": "https://www.example.com/videos/change_happens.mp4",
-      "description": "Nothing is final. Clients change their minds. PMs forget what they said. You adapt.",
-      "scenario": "You just finished the feature. The PM says, 'Actually, we decided to pivot.'",
+      "title": "Adapting to Change",
+      "icon": "🔄",
+      "intro": "Welcome to the Adapting to Change phase!",
+      "description": "This phase explores the topic of adapting to change.",
+      "scenario": "You’ve rehearsed your presentation for two weeks — polished slides, practiced timing, ready to impress. Just minutes before you're about to speak, your boss walks in: “New audience. Different goal. You’ve got 10 minutes to cut it in half and change the angle.” Panic rises, but you know this is a test of more than just public speaking — it’s a test of how quickly you can adapt.",
+      "why": "In a fast-moving world, adaptability isn't optional. It’s a superpower — and you’re about to practice it.",
       "questions": [
         {
-          "question": "The client changes requirements mid-sprint. You:",
+          "question": "What’s the first step to adapting to sudden changes?",
           "options": {
-            "A": "Document the change and estimate impact",
-            "B": "Implement both versions secretly",
-            "C": "Tell them it's too late",
-            "D": "Quit on the spot"
+            "A": "Clarify the new requirements.",
+            "B": "Argue against the change.",
+            "C": "Panic and freeze.",
+            "D": "Ignore the new instructions."
           },
           "correct": "A",
-          "explanation": "Professionalism means managing change properly."
+          "explanation": "Understanding the goal helps you pivot effectively."
         },
         {
-          "question": "The design changes after you coded it. You:",
+          "question": "How can you develop resilience to change?",
           "options": {
-            "A": "Ask what problem the new design solves",
-            "B": "Push back with technical constraints",
-            "C": "Implement it with obvious bugs",
-            "D": "Email the CEO about wasted time"
+            "A": "View challenges as temporary and solvable.",
+            "B": "Avoid all uncertain situations.",
+            "C": "Assume every change is disastrous.",
+            "D": "Rely only on rigid routines."
           },
           "correct": "A",
-          "explanation": "Understanding the why behind changes helps adaptation."
+          "explanation": "Resilience comes from flexibility and problem-solving."
         },
         {
-          "question": "Your tech stack gets replaced. You:",
+          "question": "Why do some people resist change?",
           "options": {
-            "A": "Identify transferable concepts between stacks",
-            "B": "Sabotage the new stack's adoption",
-            "C": "Update your resume immediately",
-            "D": "Claim expertise in the new stack"
+            "A": "Fear of the unknown or failure.",
+            "B": "They enjoy unpredictability.",
+            "C": "They’re always prepared for everything.",
+            "D": "Change is never beneficial."
           },
           "correct": "A",
-          "explanation": "Core programming concepts transcend specific technologies."
+          "explanation": "Comfort zones feel safe but limit growth."
         },
         {
-          "question": "The deadline moves up two weeks. You:",
+          "question": "What’s a strategy to manage stress during transitions?",
           "options": {
-            "A": "Identify must-have vs nice-to-have features",
-            "B": "Work 80-hour weeks",
-            "C": "Lower quality standards silently",
-            "D": "Blame the sales team"
+            "A": "Break the change into smaller steps.",
+            "B": "Focus only on the big picture.",
+            "C": "Isolate yourself from support.",
+            "D": "Suppress emotions about the change."
           },
           "correct": "A",
-          "explanation": "Scope negotiation is a key professional skill."
+          "explanation": "Small steps make overwhelming changes manageable."
         },
         {
-          "question": "Your project gets cancelled after 6 months. You:",
+          "question": "How can change benefit personal growth?",
           "options": {
-            "A": "Document lessons learned for next time",
-            "B": "Delete all your code in protest",
-            "C": "Badmouth leadership at happy hour",
-            "D": "Take a long 'mental health' break"
+            "A": "It builds adaptability and new skills.",
+            "B": "It keeps you in familiar routines.",
+            "C": "It eliminates all risks.",
+            "D": "It guarantees immediate success."
           },
           "correct": "A",
-          "explanation": "Every project teaches valuable lessons."
-        },
-        {
-          "question": "Your role changes to include DevOps. You:",
-          "options": {
-            "A": "Learn the basics of CI/CD pipelines",
-            "B": "Claim you're allergic to terminals",
-            "C": "Break production immediately",
-            "D": "Demand a title change and raise"
-          },
-          "correct": "A",
-          "explanation": "Modern developers benefit from ops knowledge."
-        },
-        {
-          "question": "The company pivots to blockchain. You:",
-          "options": {
-            "A": "Evaluate if the use case makes sense",
-            "B": "Add 'blockchain expert' to LinkedIn",
-            "C": "Invest in crypto with company funds",
-            "D": "Explain why this is a terrible idea"
-          },
-          "correct": "A",
-          "explanation": "Critical thinking beats blind adoption."
-        },
-        {
-          "question": "Your manager leaves abruptly. You:",
-          "options": {
-            "A": "Document current priorities and open questions",
-            "B": "Take advantage of the leadership vacuum",
-            "C": "Panic about who will approve your PTO",
-            "D": "Also start looking for new jobs"
-          },
-          "correct": "A",
-          "explanation": "Professionalism means maintaining continuity."
-        },
-        {
-          "question": "The office switches to open seating. You:",
-          "options": {
-            "A": "Invest in good headphones",
-            "B": "Claim the best spot permanently",
-            "C": "Work from home indefinitely",
-            "D": "Start a petition against it"
-          },
-          "correct": "A",
-          "explanation": "Adapting your environment is more effective than resisting."
-        },
-        {
-          "question": "Your favorite tool gets deprecated. You:",
-          "options": {
-            "A": "Learn its replacement's equivalent features",
-            "B": "Fork the project and maintain it yourself",
-            "C": "Stockpile old versions",
-            "D": "Write a bitter blog post"
-          },
-          "correct": "A",
-          "explanation": "Tech evolves - flexibility is key."
+          "explanation": "Change forces learning and innovation."
         }
       ]
     },
     {
-      "id": "technical_problem_solving",
-      "title": "Technical Problem Solving",
-      "icon": "🔍",
-      "intro": "Get serious about fixing bugs (but with memes)",
-      "video_url": "https://www.example.com/videos/fix_bugs.mp4",
-      "description": "Bug fixing is like therapy: dig deep, be patient, and sometimes it's your fault.",
-      "scenario": "500 errors all over production. You have no logs. Do you panic or debug like a ninja?",
+      "id": "website_development",
+      "title": "Website Development",
+      "icon": "💻",
+      "intro": "Welcome to the Website Development phase! Should we trust AI? Should we do anything without thinking if it is ethical?",
+      "description": "This phase explores the topic of website development.",
+      "scenario": "You finally finish a website for your friend’s bakery. You’re proud of it — it works perfectly on your laptop! But then your friend opens it on her phone… and disaster. Buttons float in the wrong places, text is unreadable, and nothing works. She had already shared the link. Now you feel embarrassed and under pressure to fix it fast.",
+      "why": "Web development isn’t just about making things look good — it’s about making them work for everyone, everywhere.",
       "questions": [
         {
-          "question": "The bug only occurs in production. You:",
+          "question": "What’s the purpose of CSS in web development?",
           "options": {
-            "A": "Check for environment configuration differences",
-            "B": "Say it works on your machine",
-            "C": "Blame the ops team",
-            "D": "Add more logging and wait"
+            "A": "To style and layout web pages.",
+            "B": "To hack into servers.",
+            "C": "To replace HTML entirely.",
+            "D": "To create database tables."
           },
           "correct": "A",
-          "explanation": "Environment discrepancies often cause production issues."
+          "explanation": "CSS controls visual presentation (colors, fonts, spacing)."
         },
         {
-          "question": "The error message is 'Something went wrong'. You:",
+          "question": "Why is mobile-first design important?",
           "options": {
-            "A": "Check server logs for the actual error",
-            "B": "Google the exact message",
-            "C": "Restart everything",
-            "D": "Blame the frontend"
+            "A": "Most users browse on phones.",
+            "B": "Desktop users don’t matter.",
+            "C": "Phones are easier to code for.",
+            "D": "Mobile sites load slower intentionally."
           },
           "correct": "A",
-          "explanation": "Generic errors hide specific problems in logs."
+          "explanation": "Designing for mobile ensures usability for the majority."
         },
         {
-          "question": "The bug is intermittent. You:",
+          "question": "What does 'semantic HTML' mean?",
           "options": {
-            "A": "Look for race conditions or timing issues",
-            "B": "Pretend you can't reproduce it",
-            "C": "Add random timeouts everywhere",
-            "D": "Blame cosmic rays"
+            "A": "Using tags that describe content meaning (e.g., <article>).",
+            "B": "Writing code only geniuses understand.",
+            "C": "Avoiding all tags except <div>.",
+            "D": "Making HTML rhyme like poetry."
           },
           "correct": "A",
-          "explanation": "Intermittent bugs often involve timing or state."
+          "explanation": "Semantic HTML improves accessibility and SEO."
         },
         {
-          "question": "The stack trace points to library code. You:",
+          "question": "How can you test a website’s responsiveness?",
           "options": {
-            "A": "Check your inputs to the library",
-            "B": "File a bug report with the library",
-            "C": "Fork and fix the library",
-            "D": "Switch libraries immediately"
+            "A": "Use browser developer tools to simulate devices.",
+            "B": "Only check on your own phone.",
+            "C": "Assume it works if it looks good on one screen.",
+            "D": "Ask users to zoom in manually."
           },
           "correct": "A",
-          "explanation": "Most library errors stem from incorrect usage."
+          "explanation": "Developer tools let you test multiple screen sizes quickly."
         },
         {
-          "question": "The bug appears after recent changes. You:",
+          "question": "What’s a common cause of slow website loading?",
           "options": {
-            "A": "Use git bisect to find the culprit commit",
-            "B": "Revert your last merge",
-            "C": "Blame the newest team member",
-            "D": "Claim it was always broken"
+            "A": "Unoptimized images or large files.",
+            "B": "Too much white space in the code.",
+            "C": "Using semantic HTML.",
+            "D": "Smaller fonts."
           },
           "correct": "A",
-          "explanation": "Methodical investigation beats guesswork."
-        },
-        {
-          "question": "The database query is slow. You:",
-          "options": {
-            "A": "EXPLAIN the query plan",
-            "B": "Add more indexes randomly",
-            "C": "Upgrade the database server",
-            "D": "Cache everything in memory"
-          },
-          "correct": "A",
-          "explanation": "Query analysis reveals optimization opportunities."
-        },
-        {
-          "question": "The UI freezes randomly. You:",
-          "options": {
-            "A": "Profile JavaScript performance",
-            "B": "Add a loading spinner",
-            "C": "Reduce the frame rate",
-            "D": "Blame the user's old computer"
-          },
-          "correct": "A",
-          "explanation": "Performance profiling identifies bottlenecks."
-        },
-        {
-          "question": "The API returns inconsistent data. You:",
-          "options": {
-            "A": "Check for caching layers or CDN issues",
-            "B": "Call the API repeatedly until it works",
-            "C": "Build your own data store",
-            "D": "Blame the full moon"
-          },
-          "correct": "A",
-          "explanation": "Caching often causes data consistency problems."
-        },
-        {
-          "question": "The mobile app crashes on launch. You:",
-          "options": {
-            "A": "Check device-specific error reports",
-            "B": "Tell users to reinstall",
-            "C": "Blame the app store",
-            "D": "Push a hotfix without testing"
-          },
-          "correct": "A",
-          "explanation": "Crash analytics reveal device-specific issues."
-        },
-        {
-          "question": "The tests pass but production breaks. You:",
-          "options": {
-            "A": "Compare test vs production data sets",
-            "B": "Delete the tests",
-            "C": "Mock everything in tests",
-            "D": "Blame QA"
-          },
-          "correct": "A",
-          "explanation": "Test environments should mirror production."
+          "explanation": "Large media files delay page rendering."
         }
       ]
     },
     {
-      "id": "standup_circus",
-      "title": "The Daily Standup Circus",
-      "icon": "🎪",
-      "intro": "Learn to sound productive before coffee",
-      "video_url": "https://www.example.com/videos/standup.mp4",
-      "description": "Standups are performance art. Learn how to summarize chaos in 30 seconds.",
-      "scenario": "You forgot what you did yesterday. Do you admit it, invent tasks, or say 'blocked by dependencies'?",
+      "id": "what_is_scraping",
+      "title": "What is Scraping?",
+      "icon": "🕸️",
+      "intro": "Welcome to the What is Scraping? phase!",
+      "video_url": "/static/videos/ethical.mp4",
+      "description": "This phase explores the topic of what is scraping?.",
+      "scenario": "You’ve discovered a job board with thousands of public listings — but no way to download them. You try copying one by one into a spreadsheet, and after an hour, you’ve only got 42 entries. There has to be a better way. You hear about “web scraping” — a way to extract data automatically. But is it ethical? Is it legal? Can it be done fairly and safely?",
+      "why": "Scraping is a powerful tool — but like all tools, it must be used responsibly. This is your chance to explore how.",
       "questions": [
         {
-          "question": "You actually did nothing yesterday. You:",
+          "question": "What’s an ethical consideration when scraping data?",
           "options": {
-            "A": "Admit you were stuck and need help",
-            "B": "List minor admin tasks as accomplishments",
-            "C": "Blame missing requirements",
-            "D": "Fake a family emergency"
+            "A": "Respect the site’s robots.txt file.",
+            "B": "Scrape as fast as possible to avoid detection.",
+            "C": "Ignore copyright laws.",
+            "D": "Overload the server with requests."
           },
           "correct": "A",
-          "explanation": "Honesty builds trust and gets you help faster."
+          "explanation": "Ethical scraping avoids harming the website or violating terms."
         },
         {
-          "question": "The overachiever finishes early. You:",
+          "question": "Which tool is commonly used for web scraping?",
           "options": {
-            "A": "Ask to pair on their next task",
-            "B": "Claim their work was easier",
-            "C": "Slow your own pace to match",
-            "D": "Sabotage their keyboard"
+            "A": "Python’s BeautifulSoup library.",
+            "B": "Microsoft Excel.",
+            "C": "Adobe Photoshop.",
+            "D": "A hammer."
           },
           "correct": "A",
-          "explanation": "Collaboration beats unhealthy competition."
+          "explanation": "BeautifulSoup parses HTML/XML data for extraction."
         },
         {
-          "question": "You're stuck on a problem. You:",
+          "question": "What’s the risk of scraping too aggressively?",
           "options": {
-            "A": "Describe exactly where you're blocked",
-            "B": "Say you're 'still working on it'",
-            "C": "Blame missing documentation",
-            "D": "Claim progress is 'almost done'"
+            "A": "Getting your IP blocked.",
+            "B": "Improving the site’s performance.",
+            "C": "Winning awards for efficiency.",
+            "D": "Making the internet faster."
           },
           "correct": "A",
-          "explanation": "Specific problems get specific solutions."
+          "explanation": "Aggressive scraping can resemble a denial-of-service attack."
         },
         {
-          "question": "The PM asks for an ETA. You:",
+          "question": "Why might APIs be better than scraping?",
           "options": {
-            "A": "Give a range based on known unknowns",
-            "B": "Promise it by EOD no matter what",
-            "C": "Say 'soon' and avoid eye contact",
-            "D": "Quote Hofstadter's Law humorously"
+            "A": "APIs provide structured data intentionally.",
+            "B": "APIs are always slower.",
+            "C": "APIs require no permission.",
+            "D": "APIs only work for images."
           },
           "correct": "A",
-          "explanation": "Realistic estimates manage expectations."
+          "explanation": "APIs are designed for data sharing and are more reliable."
         },
         {
-          "question": "Someone takes credit for your work. You:",
+          "question": "What’s a legal alternative to scraping paywalled content?",
           "options": {
-            "A": "Clarify your contribution professionally",
-            "B": "Call them out aggressively",
-            "C": "Undermine their future work",
-            "D": "Complain to HR immediately"
+            "A": "Paying for API access or a subscription.",
+            "B": "Using 10 different VPNs to bypass blocks.",
+            "C": "Threatening the site owner.",
+            "D": "Claiming you’re 'just testing security.'"
           },
           "correct": "A",
-          "explanation": "Professional correction maintains team harmony."
-        },
-        {
-          "question": "The standup runs over time. You:",
-          "options": {
-            "A": "Suggest tabling discussions for after",
-            "B": "Monopolize with your own issues",
-            "C": "Sigh loudly and check your phone",
-            "D": "Start eating lunch conspicuously"
-          },
-          "correct": "A",
-          "explanation": "Respecting time boundaries helps everyone."
-        },
-        {
-          "question": "You disagree with the approach. You:",
-          "options": {
-            "A": "Suggest alternatives with rationale",
-            "B": "Passively resist implementing it",
-            "C": "Complain to other team members",
-            "D": "Declare the project doomed"
-          },
-          "correct": "A",
-          "explanation": "Constructive dissent improves outcomes."
-        },
-        {
-          "question": "The remote team can't hear you. You:",
-          "options": {
-            "A": "Type your update in chat",
-            "B": "Shout and gesture wildly",
-            "C": "Blame their internet",
-            "D": "Pretend you're frozen"
-          },
-          "correct": "A",
-          "explanation": "Adapt communication methods as needed."
-        },
-        {
-          "question": "You're waiting on another team. You:",
-          "options": {
-            "A": "Document what you need specifically",
-            "B": "Vaguely say you're 'blocked'",
-            "C": "Blame them for all delays",
-            "D": "Start working on something else"
-          },
-          "correct": "A",
-          "explanation": "Clear dependencies get resolved faster."
-        },
-        {
-          "question": "The standup is pointless. You:",
-          "options": {
-            "A": "Suggest improvements to the format",
-            "B": "Zone out completely",
-            "C": "Hold side conversations",
-            "D": "Skip and claim you forgot"
-          },
-          "correct": "A",
-          "explanation": "Continuous improvement applies to meetings too."
+          "explanation": "Respecting paywalls supports content creators legally."
         }
       ]
     },
     {
-      "id": "bug_bounty_showdown",
-      "title": "The Bug Bounty Showdown",
-      "icon": "💰",
-      "intro": "Hunt bugs like a bounty hunter with caffeine issues",
-      "video_url": "https://www.example.com/videos/bug_hunt.mp4",
-      "description": "Every bug you find might be worth $500—or your weekend.",
-      "scenario": "Your teammate finds 10 bugs before you even wake up. Will you catch up or sabotage their Wi-Fi?",
+      "id": "dev_vs_pm_mindset",
+      "title": "Developer vs PM Mindset",
+      "icon": "🧑‍💻🧑‍💼",
+      "intro": "Welcome to the Developer vs PM Mindset phase!",
+      "description": "This phase explores the topic of developer vs pm mindset.",
+      "scenario": "You’re the only developer on a fast-moving startup team. The product manager keeps throwing in “small changes” and asking for quick timelines. Meanwhile, you’re deep in the code, trying to make sure it doesn’t all fall apart. Tension grows — they're thinking features, you’re thinking bugs. Two people, same goal… but different brains. Can these two worlds meet?",
+      "why": "Understanding both sides — builder and planner — is key to surviving and thriving in any tech team.",
       "questions": [
         {
-          "question": "You find an XSS vulnerability. First you:",
+          "question": "What’s a developer’s primary focus in a project?",
           "options": {
-            "A": "Document reproduction steps clearly",
-            "B": "Post a screenshot on Twitter",
-            "C": "Demonstrate it to coworkers dramatically",
-            "D": "Demand immediate payment"
+            "A": "Writing clean, functional code.",
+            "B": "Setting the company’s stock price.",
+            "C": "Designing marketing campaigns.",
+            "D": "Ignoring deadlines entirely."
           },
           "correct": "A",
-          "explanation": "Clear reports get fixed (and paid) faster."
+          "explanation": "Developers prioritize technical execution and quality."
         },
         {
-          "question": "You discover sensitive data exposure. You:",
+          "question": "How can PMs and developers align better?",
           "options": {
-            "A": "Report it through proper channels",
-            "B": "Check if your friends' data is there",
-            "C": "Write a blog post about it",
-            "D": "Leave an anonymous note"
+            "A": "Regular syncs on priorities and blockers.",
+            "B": "Assuming everyone reads each other’s minds.",
+            "C": "Blaming each other for missed deadlines.",
+            "D": "Working in complete isolation."
           },
           "correct": "A",
-          "explanation": "Ethical disclosure protects users."
+          "explanation": "Communication bridges the gap between vision and execution."
         },
         {
-          "question": "The company ignores your report. You:",
+          "question": "Why do developers dislike scope creep?",
           "options": {
-            "A": "Follow up politely with more details",
-            "B": "Threaten public disclosure",
-            "C": "Exploit it to prove your point",
-            "D": "Sell it on the dark web"
+            "A": "It derails focus and delays delivery.",
+            "B": "They hate all new ideas.",
+            "C": "They enjoy rewriting code constantly.",
+            "D": "It makes the project simpler."
           },
           "correct": "A",
-          "explanation": "Responsible disclosure requires patience."
+          "explanation": "Scope creep introduces unpredictability and technical debt."
         },
         {
-          "question": "You find a bug in open source software. You:",
+          "question": "What’s a fair way to estimate project timelines?",
           "options": {
-            "A": "Submit a PR with the fix",
-            "B": "File an issue vaguely",
-            "C": "Fork the project",
-            "D": "Demand maintainer status"
+            "A": "Break tasks down and add buffer time.",
+            "B": "Promise the fastest possible deadline.",
+            "C": "Guess randomly to sound confident.",
+            "D": "Assume no bugs will ever occur."
           },
           "correct": "A",
-          "explanation": "Open source thrives on contributions."
+          "explanation": "Detailed estimates account for complexity and unknowns."
         },
         {
-          "question": "The bounty payment is delayed. You:",
+          "question": "How can PMs support developers effectively?",
           "options": {
-            "A": "Follow up with accounting politely",
-            "B": "Spam their support tickets",
-            "C": "Threaten legal action",
-            "D": "Find more bugs to leverage"
+            "A": "Shield them from unnecessary interruptions.",
+            "B": "Forward every client request immediately.",
+            "C": "Demand hourly progress reports.",
+            "D": "Micromanage variable naming."
           },
           "correct": "A",
-          "explanation": "Professionalism pays off long-term."
-        },
-        {
-          "question": "You find a bug in a competitor's product. You:",
-          "options": {
-            "A": "Report it to them directly",
-            "B": "Tell your CEO first",
-            "C": "Leak it to press anonymously",
-            "D": "Use it for competitive advantage"
-          },
-          "correct": "A",
-          "explanation": "Ethics don't stop at company boundaries."
-        },
-        {
-          "question": "Your bug report gets rejected. You:",
-          "options": {
-            "A": "Request clarification on the decision",
-            "B": "Publicly shame their security",
-            "C": "Find a more severe variant",
-            "D": "Give up on bug bounties"
-          },
-          "correct": "A",
-          "explanation": "Understanding criteria improves future reports."
-        },
-        {
-          "question": "You accidentally access customer data. You:",
-          "options": {
-            "A": "Report the access vector immediately",
-            "B": "Look up celebrities",
-            "C": "Download 'just in case'",
-            "D": "Leave without saying anything"
-          },
-          "correct": "A",
-          "explanation": "Ethical hackers respect privacy boundaries."
-        },
-        {
-          "question": "Someone else reports 'your' bug. You:",
-          "options": {
-            "A": "Check if your report arrived first",
-            "B": "Accuse them of stealing",
-            "C": "Undermine their reputation",
-            "D": "DDOS their website"
-          },
-          "correct": "A",
-          "explanation": "Timestamped reports determine credit."
-        },
-        {
-          "question": "You find a zero-day in production. You:",
-          "options": {
-            "A": "Follow the company's disclosure policy",
-            "B": "Demonstrate it at a conference",
-            "C": "Sell it to the highest bidder",
-            "D": "Fix it yourself and deploy"
-          },
-          "correct": "A",
-          "explanation": "Responsible disclosure prevents harm."
-        }
-      ]
-    },
-    {
-      "id": "database_diner",
-      "title": "Database Diner: Order Up!",
-      "icon": "🍽️",
-      "intro": "Order, normalize, and serve your data hot",
-      "video_url": "https://www.example.com/videos/database_diner.mp4",
-      "description": "Design schemas like a gourmet chef: organized, delicious, and no duplicates allowed.",
-      "scenario": "Your client's data is a spreadsheet with 800 columns. You must normalize it before it normalizes you.",
-      "questions": [
-        {
-          "question": "Your queries are slow. First you:",
-          "options": {
-            "A": "EXPLAIN ANALYZE the query plan",
-            "B": "Add indexes randomly",
-            "C": "Upgrade the database server",
-            "D": "Blame the ORM"
-          },
-          "correct": "A",
-          "explanation": "Query analysis reveals optimization opportunities."
-        },
-        {
-          "question": "You notice duplicate data. You:",
-          "options": {
-            "A": "Normalize the schema properly",
-            "B": "Add UNIQUE constraints",
-            "C": "Clean it in the application layer",
-            "D": "Claim it's 'denormalized for performance'"
-          },
-          "correct": "A",
-          "explanation": "Normalization prevents data anomalies."
-        },
-        {
-          "question": "The joins are expensive. You:",
-          "options": {
-            "A": "Check if denormalization makes sense",
-            "B": "Precompute all possible joins",
-            "C": "Move joins to application code",
-            "D": "Switch to NoSQL immediately"
-          },
-          "correct": "A",
-          "explanation": "Strategic denormalization can optimize reads."
-        },
-        {
-          "question": "Migrations take hours. You:",
-          "options": {
-            "A": "Implement online schema change patterns",
-            "B": "Run them overnight",
-            "C": "Blame the DBA team",
-            "D": "Stop making schema changes"
-          },
-          "correct": "A",
-          "explanation": "Modern databases support live migrations."
-        },
-        {
-          "question": "NULL values cause issues. You:",
-          "options": {
-            "A": "Evaluate if NULL is semantically correct",
-            "B": "Replace all NULLs with empty strings",
-            "C": "Add IS NOT NULL constraints everywhere",
-            "D": "Blame Codd for inventing NULL"
-          },
-          "correct": "A",
-          "explanation": "NULL has specific semantic meaning."
-        },
-        {
-          "question": "The backup failed. You:",
-          "options": {
-            "A": "Verify recovery from last good backup",
-            "B": "Pretend it didn't happen",
-            "C": "Blame the storage team",
-            "D": "Declare backups unnecessary"
-          },
-          "correct": "A",
-          "explanation": "Backups only count if they can be restored."
+          "explanation": "Protected focus time boosts productivity and morale."
         }
       ]
     }
