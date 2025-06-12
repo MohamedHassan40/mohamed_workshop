@@ -1,17 +1,18 @@
 from flask import Flask, render_template, request, redirect, url_for, session
 import json
-
-
-# Make `data` available in all templates
+import os
 import re
+
 app = Flask(
     __name__,
-    template_folder="website/templates",     # 👈 Add this
-    static_folder="website/static"           # 👈 Optional, if you use static files
+    template_folder="website/templates",
+    static_folder="website/static"
 )
 app.secret_key = "aodsiasdioaosd"
 
-with open('website/data/questions.json', encoding='utf-8') as f:
+# Load questions data
+DATA_PATH = os.path.join(os.path.dirname(__file__), "website/data/questions.json")
+with open(DATA_PATH, encoding='utf-8') as f:
     data = json.load(f)
 
 
@@ -24,17 +25,17 @@ def clean_surrogates(obj):
         return re.sub(r'[\ud800-\udfff]', '', obj)  # Remove surrogate characters
     return obj
 
+
 @app.context_processor
 def inject_data():
     return dict(data=clean_surrogates(data))
 
 
-# JSON data structure (as before)
-
 @app.route('/')
 def index():
     session.clear()
     return render_template('index.html', intro=data['intro'], workshop_data=data)
+
 
 @app.route('/phase/<int:phase_index>', methods=['GET', 'POST'])
 def phase(phase_index):
@@ -79,14 +80,12 @@ def phase(phase_index):
             total_phases=len(phases)
         )
 
-    # 🛠️ THIS was missing before
     return render_template(
         'phase.html',
         phase_index=phase_index,
         phase=phase,
         total_phases=len(phases)
     )
-
 
 
 @app.route('/final')
@@ -96,9 +95,9 @@ def final():
 
     total_score = sum(session['scores'].values())
     total_questions = sum(len(p['questions']) for p in data['phases'])
-    return render_template('final.html', total_score=total_score, total_questions=total_questions)
-if __name__ == "__main__":
-    import os
-    port = int(os.environ.get("PORT", 5000))
-    app.run(debug=False, host="0.0.0.0", port=port)
 
+    return render_template('final.html', total_score=total_score, total_questions=total_questions)
+
+
+# 👇 Necessary for Vercel to detect the app
+app = app
