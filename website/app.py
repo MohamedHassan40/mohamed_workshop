@@ -5,13 +5,13 @@ import re
 
 app = Flask(
     __name__,
-    template_folder="website/templates",
-    static_folder="website/static"
+    template_folder="templates",
+    static_folder="static"
 )
 app.secret_key = "aodsiasdioaosd"
 
 # Load questions data
-DATA_PATH = os.path.join(os.path.dirname(__file__), "/data/questions.json")
+DATA_PATH = os.path.join(os.path.dirname(__file__), "data", "questions.json")
 with open(DATA_PATH, encoding='utf-8') as f:
     data = json.load(f)
 
