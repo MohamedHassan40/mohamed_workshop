@@ -11,7 +11,7 @@ app = Flask(
 app.secret_key = "aodsiasdioaosd"
 
 # Load questions data
-DATA_PATH = os.path.join(os.path.dirname(__file__), "website/data/questions.json")
+DATA_PATH = os.path.join(os.path.dirname(__file__), "/data/questions.json")
 with open(DATA_PATH, encoding='utf-8') as f:
     data = json.load(f)
 
