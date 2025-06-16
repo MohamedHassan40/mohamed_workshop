@@ -474,6 +474,8 @@
       "title": "Developer vs PM Mindset",
       "icon": "🧑‍💻🧑‍💼",
       "intro": "Welcome to the Developer vs PM Mindset phase!",
+            "video_url": "/static/videos/video8.mp4",
+
       "description": "This phase explores the topic of developer vs pm mindset.",
       "scenario": "You’re the only developer on a fast-moving startup team. The product manager keeps throwing in “small changes” and asking for quick timelines. Meanwhile, you’re deep in the code, trying to make sure it doesn’t all fall apart. Tension grows — they're thinking features, you’re thinking bugs. Two people, same goal… but different brains. Can these two worlds meet?",
       "why": "Understanding both sides — builder and planner — is key to surviving and thriving in any tech team.",
