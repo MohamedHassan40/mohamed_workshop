@@ -139,72 +139,6 @@
       ]
     },
     {
-      "id": "teamwork_survival_game",
-      "title": "Teamwork Survival Game",
-      "icon": "🤝",
-      "intro": "Welcome to the Teamwork Survival Game phase!",
-      "description": "This phase explores the topic of teamwork survival game.",
-      "scenario": "You’re working with a group on a big event. At first, you're excited to contribute — but one teammate takes over everything and steamrolls your ideas. The rest follow along, and you start to fade into the background. Then, right before the event, things start falling apart. That same teammate turns to you for help. You feel torn: Do you save the day, or let the team face the mess they made?",
-      "why": "Teamwork is messy — but growth comes from how you choose to engage, especially when your ego is bruised.",
-      "questions": [
-        {
-          "question": "What’s the key to resolving team conflicts constructively?",
-          "options": {
-            "A": "Dominate the conversation.",
-            "B": "Listen actively and seek compromise.",
-            "C": "Hold grudges silently.",
-            "D": "Avoid addressing issues."
-          },
-          "correct": "B",
-          "explanation": "Constructive conflict resolution strengthens team dynamics."
-        },
-        {
-          "question": "Why is psychological safety important in teams?",
-          "options": {
-            "A": "It prevents all disagreements.",
-            "B": "It encourages risk-taking and honesty.",
-            "C": "It means avoiding hard conversations.",
-            "D": "It requires unanimous agreement always."
-          },
-          "correct": "B",
-          "explanation": "Psychological safety fosters innovation and trust."
-        },
-        {
-          "question": "How can introverts contribute effectively in teams?",
-          "options": {
-            "A": "Wait until someone asks for their opinion.",
-            "B": "Share ideas in writing or smaller groups.",
-            "C": "Let extroverts dominate discussions.",
-            "D": "Avoid participating to prevent conflict."
-          },
-          "correct": "B",
-          "explanation": "Diverse communication styles enrich team outcomes."
-        },
-        {
-          "question": "What’s a sign of poor team dynamics?",
-          "options": {
-            "A": "Healthy debate occurs regularly.",
-            "B": "Members hesitate to speak up.",
-            "C": "Tasks are evenly distributed.",
-            "D": "Feedback is given respectfully."
-          },
-          "correct": "B",
-          "explanation": "Fear of speaking up stifles creativity and problem-solving."
-        },
-        {
-          "question": "How can you build trust with teammates?",
-          "options": {
-            "A": "Gossip about others’ shortcomings.",
-            "B": "Take credit for shared successes.",
-            "C": "Deliver on promises and admit mistakes.",
-            "D": "Avoid collaborating directly."
-          },
-          "correct": "C",
-          "explanation": "Trust is earned through reliability and transparency."
-        }
-      ]
-    },
-    {
       "id": "digital_focus_lab",
       "title": "Digital Focus Lab",
       "icon": "📵",
@@ -271,6 +205,73 @@
       ]
     },
     {
+      "id": "teamwork_survival_game",
+      "title": "Teamwork Survival Game",
+      "icon": "🤝",
+      "intro": "Welcome to the Teamwork Survival Game phase!",
+      "description": "This phase explores the topic of teamwork survival game.",
+      "scenario": "You’re working with a group on a big event. At first, you're excited to contribute — but one teammate takes over everything and steamrolls your ideas. The rest follow along, and you start to fade into the background. Then, right before the event, things start falling apart. That same teammate turns to you for help. You feel torn: Do you save the day, or let the team face the mess they made?",
+      "why": "Teamwork is messy — but growth comes from how you choose to engage, especially when your ego is bruised.",
+      "questions": [
+        {
+          "question": "What’s the key to resolving team conflicts constructively?",
+          "options": {
+            "A": "Dominate the conversation.",
+            "B": "Listen actively and seek compromise.",
+            "C": "Hold grudges silently.",
+            "D": "Avoid addressing issues."
+          },
+          "correct": "B",
+          "explanation": "Constructive conflict resolution strengthens team dynamics."
+        },
+        {
+          "question": "Why is psychological safety important in teams?",
+          "options": {
+            "A": "It prevents all disagreements.",
+            "B": "It encourages risk-taking and honesty.",
+            "C": "It means avoiding hard conversations.",
+            "D": "It requires unanimous agreement always."
+          },
+          "correct": "B",
+          "explanation": "Psychological safety fosters innovation and trust."
+        },
+        {
+          "question": "How can introverts contribute effectively in teams?",
+          "options": {
+            "A": "Wait until someone asks for their opinion.",
+            "B": "Share ideas in writing or smaller groups.",
+            "C": "Let extroverts dominate discussions.",
+            "D": "Avoid participating to prevent conflict."
+          },
+          "correct": "B",
+          "explanation": "Diverse communication styles enrich team outcomes."
+        },
+        {
+          "question": "What’s a sign of poor team dynamics?",
+          "options": {
+            "A": "Healthy debate occurs regularly.",
+            "B": "Members hesitate to speak up.",
+            "C": "Tasks are evenly distributed.",
+            "D": "Feedback is given respectfully."
+          },
+          "correct": "B",
+          "explanation": "Fear of speaking up stifles creativity and problem-solving."
+        },
+        {
+          "question": "How can you build trust with teammates?",
+          "options": {
+            "A": "Gossip about others’ shortcomings.",
+            "B": "Take credit for shared successes.",
+            "C": "Deliver on promises and admit mistakes.",
+            "D": "Avoid collaborating directly."
+          },
+          "correct": "C",
+          "explanation": "Trust is earned through reliability and transparency."
+        }
+      ]
+    },
+    
+    {
       "id": "adapting_to_change",
       "title": "Adapting to Change",
       "icon": "🔄",
@@ -333,6 +334,74 @@
           },
           "correct": "D",
           "explanation": "Change forces learning and innovation."
+        }
+      ]
+    },
+    {
+      "id": "dev_vs_pm_mindset",
+      "title": "Developer vs PM Mindset",
+      "icon": "🧑‍💻🧑‍💼",
+      "intro": "Welcome to the Developer vs PM Mindset phase!",
+            "video_url": "/static/videos/video8.mp4",
+
+      "description": "This phase explores the topic of developer vs pm mindset.",
+      "scenario": "You’re the only developer on a fast-moving startup team. The product manager keeps throwing in “small changes” and asking for quick timelines. Meanwhile, you’re deep in the code, trying to make sure it doesn’t all fall apart. Tension grows — they're thinking features, you’re thinking bugs. Two people, same goal… but different brains. Can these two worlds meet?",
+      "why": "Understanding both sides — builder and planner — is key to surviving and thriving in any tech team.",
+      "questions": [
+        {
+          "question": "What’s a developer’s primary focus in a project?",
+          "options": {
+            "A": "Setting the company’s stock price.",
+            "B": "Writing clean, functional code.",
+            "C": "Designing marketing campaigns.",
+            "D": "Ignoring deadlines entirely."
+          },
+          "correct": "B",
+          "explanation": "Developers prioritize technical execution and quality."
+        },
+        {
+          "question": "How can PMs and developers align better?",
+          "options": {
+            "A": "Assuming everyone reads each other’s minds.",
+            "B": "Regular syncs on priorities and blockers.",
+            "C": "Blaming each other for missed deadlines.",
+            "D": "Working in complete isolation."
+          },
+          "correct": "B",
+          "explanation": "Communication bridges the gap between vision and execution."
+        },
+        {
+          "question": "Why do developers dislike scope creep?",
+          "options": {
+            "A": "They hate all new ideas.",
+            "B": "It derails focus and delays delivery.",
+            "C": "They enjoy rewriting code constantly.",
+            "D": "It makes the project simpler."
+          },
+          "correct": "B",
+          "explanation": "Scope creep introduces unpredictability and technical debt."
+        },
+        {
+          "question": "What’s a fair way to estimate project timelines?",
+          "options": {
+            "A": "Promise the fastest possible deadline.",
+            "B": "Break tasks down and add buffer time.",
+            "C": "Guess randomly to sound confident.",
+            "D": "Assume no bugs will ever occur."
+          },
+          "correct": "B",
+          "explanation": "Detailed estimates account for complexity and unknowns."
+        },
+        {
+          "question": "How can PMs support developers effectively?",
+          "options": {
+            "A": "Micromanage variable naming.",
+            "B": "Forward every client request immediately.",
+            "C": "Shield them from unnecessary interruptions.",
+            "D": "Demand hourly progress reports."
+          },
+          "correct": "C",
+          "explanation": "Protected focus time boosts productivity and morale."
         }
       ]
     },
@@ -466,74 +535,6 @@
           },
           "correct": "D",
           "explanation": "Respecting paywalls supports content creators legally."
-        }
-      ]
-    },
-    {
-      "id": "dev_vs_pm_mindset",
-      "title": "Developer vs PM Mindset",
-      "icon": "🧑‍💻🧑‍💼",
-      "intro": "Welcome to the Developer vs PM Mindset phase!",
-            "video_url": "/static/videos/video8.mp4",
-
-      "description": "This phase explores the topic of developer vs pm mindset.",
-      "scenario": "You’re the only developer on a fast-moving startup team. The product manager keeps throwing in “small changes” and asking for quick timelines. Meanwhile, you’re deep in the code, trying to make sure it doesn’t all fall apart. Tension grows — they're thinking features, you’re thinking bugs. Two people, same goal… but different brains. Can these two worlds meet?",
-      "why": "Understanding both sides — builder and planner — is key to surviving and thriving in any tech team.",
-      "questions": [
-        {
-          "question": "What’s a developer’s primary focus in a project?",
-          "options": {
-            "A": "Setting the company’s stock price.",
-            "B": "Writing clean, functional code.",
-            "C": "Designing marketing campaigns.",
-            "D": "Ignoring deadlines entirely."
-          },
-          "correct": "B",
-          "explanation": "Developers prioritize technical execution and quality."
-        },
-        {
-          "question": "How can PMs and developers align better?",
-          "options": {
-            "A": "Assuming everyone reads each other’s minds.",
-            "B": "Regular syncs on priorities and blockers.",
-            "C": "Blaming each other for missed deadlines.",
-            "D": "Working in complete isolation."
-          },
-          "correct": "B",
-          "explanation": "Communication bridges the gap between vision and execution."
-        },
-        {
-          "question": "Why do developers dislike scope creep?",
-          "options": {
-            "A": "They hate all new ideas.",
-            "B": "It derails focus and delays delivery.",
-            "C": "They enjoy rewriting code constantly.",
-            "D": "It makes the project simpler."
-          },
-          "correct": "B",
-          "explanation": "Scope creep introduces unpredictability and technical debt."
-        },
-        {
-          "question": "What’s a fair way to estimate project timelines?",
-          "options": {
-            "A": "Promise the fastest possible deadline.",
-            "B": "Break tasks down and add buffer time.",
-            "C": "Guess randomly to sound confident.",
-            "D": "Assume no bugs will ever occur."
-          },
-          "correct": "B",
-          "explanation": "Detailed estimates account for complexity and unknowns."
-        },
-        {
-          "question": "How can PMs support developers effectively?",
-          "options": {
-            "A": "Micromanage variable naming.",
-            "B": "Forward every client request immediately.",
-            "C": "Shield them from unnecessary interruptions.",
-            "D": "Demand hourly progress reports."
-          },
-          "correct": "C",
-          "explanation": "Protected focus time boosts productivity and morale."
         }
       ]
     }
