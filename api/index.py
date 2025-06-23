@@ -36,6 +36,9 @@ def index():
     session.clear()
     return render_template('index.html', intro=data['intro'], workshop_data=data)
 
+@app.route('/evaluation')
+def evaluation():
+    return render_template('evaluation.html')
 
 @app.route('/phase/<int:phase_index>', methods=['GET', 'POST'])
 def phase(phase_index):
